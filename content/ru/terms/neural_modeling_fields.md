@@ -1,0 +1,47 @@
+---
+title: "Поля нейронного моделирования"
+term_id: "neural_modeling_fields"
+category: "basic_concepts"
+subcategory: ""
+tags: ["theory", "neuroscience", "modeling"]
+difficulty: 4
+weight: 1
+slug: "neural_modeling_fields"
+aliases:
+  - /ru/terms/neural_modeling_fields/
+date: "2026-07-18T16:07:54.555943Z"
+lastmod: "2026-07-18T16:38:07.184966Z"
+draft: false
+source: "agnes_llm"
+status: "published"
+language: "ru"
+description: "Теоретическая рамка, описывающая пространственную и функциональную организацию паттернов нейронной активности."
+---
+
+## Definition
+
+Поля нейронного моделирования включают изучение того, как популяции нейронов организуют себя в высокоразмерных пространствах для представления информации. Эта концепция часто связана с топологическими отображениями и теорией поля.
+
+### Summary
+
+Теоретическая рамка, описывающая пространственную и функциональную организацию паттернов нейронной активности.
+
+## Key Concepts
+
+- Топологическое отображение
+- Популяционное кодирование
+- Теория поля
+- Пространственная организация
+
+## Use Cases
+
+- Исследования когнитивного картирования
+- Моделирование сенсорной коры
+- Интерфейсы «мозг-компьютер»
+
+## Related Terms
+
+- [Cognitive map (Когнитивная карта)](/en/terms/cognitive-map-когнитивная-карта/)
+- [Population vector (Популяционный вектор)](/en/terms/population-vector-популяционный-вектор/)
+- [Topographic map (Топологическая карта)](/en/terms/topographic-map-топологическая-карта/)
+- [Neural dynamics (Нейродинамика)](/en/terms/neural-dynamics-нейродинамика/)

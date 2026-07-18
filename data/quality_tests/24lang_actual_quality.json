@@ -1,0 +1,385 @@
+{
+  "analysis_time": "2026-07-18",
+  "total_terms": 1010,
+  "langs": [
+    {
+      "lang": "pt",
+      "total": 1010,
+      "complete": 1008,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 192,
+      "short_avg": 143.4,
+      "long_avg": 264.4,
+      "short_ratio": 1.13,
+      "long_ratio": 0.53,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "ru",
+      "total": 1010,
+      "complete": 1008,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 122,
+      "short_avg": 143.4,
+      "long_avg": 268.1,
+      "short_ratio": 1.13,
+      "long_ratio": 0.54,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "ko",
+      "total": 1010,
+      "complete": 1008,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_long": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 85,
+      "short_avg": 60.2,
+      "long_avg": 129.9,
+      "short_ratio": 0.47,
+      "long_ratio": 0.26,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "ar",
+      "total": 925,
+      "complete": 922,
+      "complete_rate": 99.7,
+      "grade": "A-优秀",
+      "missing": {
+        "key_concepts": 2,
+        "definition_short": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 28,
+      "short_avg": 106.3,
+      "long_avg": 203.8,
+      "short_ratio": 0.84,
+      "long_ratio": 0.41,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "hi",
+      "count": 0,
+      "status": "no_file"
+    },
+    {
+      "lang": "it",
+      "total": 925,
+      "complete": 923,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 235,
+      "short_avg": 148.6,
+      "long_avg": 269.5,
+      "short_ratio": 1.17,
+      "long_ratio": 0.55,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "nl",
+      "total": 990,
+      "complete": 988,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 325,
+      "short_avg": 145.7,
+      "long_avg": 264.3,
+      "short_ratio": 1.14,
+      "long_ratio": 0.53,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "pl",
+      "total": 990,
+      "complete": 988,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 167,
+      "short_avg": 143.1,
+      "long_avg": 262.3,
+      "short_ratio": 1.12,
+      "long_ratio": 0.53,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "tr",
+      "total": 1010,
+      "complete": 1007,
+      "complete_rate": 99.7,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_long": 1,
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 164,
+      "short_avg": 135.1,
+      "long_avg": 250.1,
+      "short_ratio": 1.06,
+      "long_ratio": 0.5,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "vi",
+      "total": 1010,
+      "complete": 1008,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 174,
+      "short_avg": 134.8,
+      "long_avg": 260.5,
+      "short_ratio": 1.06,
+      "long_ratio": 0.52,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "th",
+      "total": 1010,
+      "complete": 1008,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 137,
+      "short_avg": 118.9,
+      "long_avg": 237.1,
+      "short_ratio": 0.93,
+      "long_ratio": 0.48,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "id",
+      "total": 1010,
+      "complete": 1008,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 269,
+      "short_avg": 137.9,
+      "long_avg": 266.3,
+      "short_ratio": 1.08,
+      "long_ratio": 0.54,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "uk",
+      "count": 0,
+      "status": "no_file"
+    },
+    {
+      "lang": "sv",
+      "total": 935,
+      "complete": 933,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 237,
+      "short_avg": 132.8,
+      "long_avg": 252.3,
+      "short_ratio": 1.04,
+      "long_ratio": 0.51,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "cs",
+      "total": 980,
+      "complete": 978,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 202,
+      "short_avg": 127.5,
+      "long_avg": 236.3,
+      "short_ratio": 1.0,
+      "long_ratio": 0.48,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "da",
+      "total": 950,
+      "complete": 948,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 288,
+      "short_avg": 133.7,
+      "long_avg": 245.0,
+      "short_ratio": 1.05,
+      "long_ratio": 0.49,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "fi",
+      "total": 920,
+      "complete": 918,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 140,
+      "short_avg": 138.0,
+      "long_avg": 252.3,
+      "short_ratio": 1.08,
+      "long_ratio": 0.51,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "no",
+      "total": 1010,
+      "complete": 1008,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 223,
+      "short_avg": 131.1,
+      "long_avg": 241.7,
+      "short_ratio": 1.03,
+      "long_ratio": 0.49,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "he",
+      "total": 860,
+      "complete": 858,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 97,
+      "short_avg": 100.0,
+      "long_avg": 193.8,
+      "short_ratio": 0.79,
+      "long_ratio": 0.39,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "ro",
+      "total": 935,
+      "complete": 933,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 193,
+      "short_avg": 144.4,
+      "long_avg": 266.8,
+      "short_ratio": 1.14,
+      "long_ratio": 0.54,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "hu",
+      "total": 885,
+      "complete": 883,
+      "complete_rate": 99.8,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1,
+        "key_concepts": 1,
+        "use_cases": 1
+      },
+      "name_not_localized": 144,
+      "short_avg": 147.8,
+      "long_avg": 266.3,
+      "short_ratio": 1.16,
+      "long_ratio": 0.54,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "el",
+      "total": 760,
+      "complete": 759,
+      "complete_rate": 99.9,
+      "grade": "A-优秀",
+      "missing": {
+        "definition_short": 1
+      },
+      "name_not_localized": 129,
+      "short_avg": 155.0,
+      "long_avg": 282.5,
+      "short_ratio": 1.22,
+      "long_ratio": 0.57,
+      "rt_avg": 3.8
+    },
+    {
+      "lang": "bg",
+      "count": 0,
+      "status": "no_file"
+    },
+    {
+      "lang": "hr",
+      "count": 0,
+      "status": "no_file"
+    }
+  ]
+}

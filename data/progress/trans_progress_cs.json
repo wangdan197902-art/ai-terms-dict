@@ -1,0 +1,128 @@
+{
+  "translated_count": 980,
+  "total": 1010,
+  "failed_keys": [
+    {
+      "term_id": "unsloth",
+      "lang": "cs"
+    },
+    {
+      "term_id": "vibevoice",
+      "lang": "cs"
+    },
+    {
+      "term_id": "video_super_resolution",
+      "lang": "cs"
+    },
+    {
+      "term_id": "virtual_intelligence",
+      "lang": "cs"
+    },
+    {
+      "term_id": "vllm",
+      "lang": "cs"
+    },
+    {
+      "term_id": "voice",
+      "lang": "cs"
+    },
+    {
+      "term_id": "voice_activity_detection",
+      "lang": "cs"
+    },
+    {
+      "term_id": "wadhwani_institute_for_artificial_intelligence",
+      "lang": "cs"
+    },
+    {
+      "term_id": "watermarking",
+      "lang": "cs"
+    },
+    {
+      "term_id": "way_of_the_future",
+      "lang": "cs"
+    },
+    {
+      "term_id": "weak_artificial_intelligence",
+      "lang": "cs"
+    },
+    {
+      "term_id": "web_intelligence",
+      "lang": "cs"
+    },
+    {
+      "term_id": "websocket",
+      "lang": "cs"
+    },
+    {
+      "term_id": "webhook",
+      "lang": "cs"
+    },
+    {
+      "term_id": "wetware",
+      "lang": "cs"
+    },
+    {
+      "term_id": "wetware_computer",
+      "lang": "cs"
+    },
+    {
+      "term_id": "whisper",
+      "lang": "cs"
+    },
+    {
+      "term_id": "winner_take_all_in_action_selection",
+      "lang": "cs"
+    },
+    {
+      "term_id": "wordpiece",
+      "lang": "cs"
+    },
+    {
+      "term_id": "workplace_impact_of_artificial_intelligence",
+      "lang": "cs"
+    },
+    {
+      "term_id": "wumpus_world",
+      "lang": "cs"
+    },
+    {
+      "term_id": "xlm_roberta",
+      "lang": "cs"
+    },
+    {
+      "term_id": "zero_shot_prompting",
+      "lang": "cs"
+    },
+    {
+      "term_id": "zeuthen_strategy",
+      "lang": "cs"
+    },
+    {
+      "term_id": "backdoor_attack",
+      "lang": "cs"
+    },
+    {
+      "term_id": "curriculum_learning",
+      "lang": "cs"
+    },
+    {
+      "term_id": "data_minimization",
+      "lang": "cs"
+    },
+    {
+      "term_id": "model_extraction",
+      "lang": "cs"
+    },
+    {
+      "term_id": "right_to_be_forgotten",
+      "lang": "cs"
+    },
+    {
+      "term_id": "stereotype",
+      "lang": "cs"
+    }
+  ],
+  "lang": "cs",
+  "updated_at": "2026-07-18T16:23:08.519127Z"
+}

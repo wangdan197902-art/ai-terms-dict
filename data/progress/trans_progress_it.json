@@ -1,0 +1,348 @@
+{
+  "translated_count": 925,
+  "total": 1010,
+  "failed_keys": [
+    {
+      "term_id": "spike_and_slab_regression",
+      "lang": "it"
+    },
+    {
+      "term_id": "spreading_activation",
+      "lang": "it"
+    },
+    {
+      "term_id": "stability",
+      "lang": "it"
+    },
+    {
+      "term_id": "stable_diffusion",
+      "lang": "it"
+    },
+    {
+      "term_id": "stable_diffusion_diffusers",
+      "lang": "it"
+    },
+    {
+      "term_id": "statistical_learning_theory",
+      "lang": "it"
+    },
+    {
+      "term_id": "statistical_relational_learning",
+      "lang": "it"
+    },
+    {
+      "term_id": "streaming",
+      "lang": "it"
+    },
+    {
+      "term_id": "structural_risk_minimization",
+      "lang": "it"
+    },
+    {
+      "term_id": "structured_sparsity_regularization",
+      "lang": "it"
+    },
+    {
+      "term_id": "superintelligence_ban",
+      "lang": "it"
+    },
+    {
+      "term_id": "supermind_ai",
+      "lang": "it"
+    },
+    {
+      "term_id": "surrogate_model",
+      "lang": "it"
+    },
+    {
+      "term_id": "sycophancy",
+      "lang": "it"
+    },
+    {
+      "term_id": "syman",
+      "lang": "it"
+    },
+    {
+      "term_id": "symbol_level",
+      "lang": "it"
+    },
+    {
+      "term_id": "symbolic_artificial_intelligence",
+      "lang": "it"
+    },
+    {
+      "term_id": "symbolic_regression",
+      "lang": "it"
+    },
+    {
+      "term_id": "t2i",
+      "lang": "it"
+    },
+    {
+      "term_id": "tanh",
+      "lang": "it"
+    },
+    {
+      "term_id": "temporal_bias",
+      "lang": "it"
+    },
+    {
+      "term_id": "tensor",
+      "lang": "it"
+    },
+    {
+      "term_id": "tensorflow_hub",
+      "lang": "it"
+    },
+    {
+      "term_id": "tensorboard",
+      "lang": "it"
+    },
+    {
+      "term_id": "text_classification",
+      "lang": "it"
+    },
+    {
+      "term_id": "text_embeddings_inference",
+      "lang": "it"
+    },
+    {
+      "term_id": "text_generation",
+      "lang": "it"
+    },
+    {
+      "term_id": "text_generation_inference",
+      "lang": "it"
+    },
+    {
+      "term_id": "text_to_audio",
+      "lang": "it"
+    },
+    {
+      "term_id": "text_to_image",
+      "lang": "it"
+    },
+    {
+      "term_id": "text_to_speech",
+      "lang": "it"
+    },
+    {
+      "term_id": "text_to_video",
+      "lang": "it"
+    },
+    {
+      "term_id": "tflite",
+      "lang": "it"
+    },
+    {
+      "term_id": "the_ai_con",
+      "lang": "it"
+    },
+    {
+      "term_id": "the_master_algorithm",
+      "lang": "it"
+    },
+    {
+      "term_id": "thinking",
+      "lang": "it"
+    },
+    {
+      "term_id": "three_factor_learning",
+      "lang": "it"
+    },
+    {
+      "term_id": "throughput",
+      "lang": "it"
+    },
+    {
+      "term_id": "thudm",
+      "lang": "it"
+    },
+    {
+      "term_id": "time_series",
+      "lang": "it"
+    },
+    {
+      "term_id": "timeline_of_artificial_intelligence_risks_in_global_finance",
+      "lang": "it"
+    },
+    {
+      "term_id": "token_maxxing",
+      "lang": "it"
+    },
+    {
+      "term_id": "toxicity",
+      "lang": "it"
+    },
+    {
+      "term_id": "toxicity_detection",
+      "lang": "it"
+    },
+    {
+      "term_id": "toy_problem",
+      "lang": "it"
+    },
+    {
+      "term_id": "tracing",
+      "lang": "it"
+    },
+    {
+      "term_id": "tree_of_thoughts",
+      "lang": "it"
+    },
+    {
+      "term_id": "trustworthy_ai",
+      "lang": "it"
+    },
+    {
+      "term_id": "tum",
+      "lang": "it"
+    },
+    {
+      "term_id": "type_checker",
+      "lang": "it"
+    },
+    {
+      "term_id": "uncensored",
+      "lang": "it"
+    },
+    {
+      "term_id": "underfitting",
+      "lang": "it"
+    },
+    {
+      "term_id": "unified_model",
+      "lang": "it"
+    },
+    {
+      "term_id": "united_states_tech_force",
+      "lang": "it"
+    },
+    {
+      "term_id": "universal_psychometrics",
+      "lang": "it"
+    },
+    {
+      "term_id": "unsloth",
+      "lang": "it"
+    },
+    {
+      "term_id": "vibevoice",
+      "lang": "it"
+    },
+    {
+      "term_id": "video_super_resolution",
+      "lang": "it"
+    },
+    {
+      "term_id": "virtual_intelligence",
+      "lang": "it"
+    },
+    {
+      "term_id": "vllm",
+      "lang": "it"
+    },
+    {
+      "term_id": "voice",
+      "lang": "it"
+    },
+    {
+      "term_id": "voice_activity_detection",
+      "lang": "it"
+    },
+    {
+      "term_id": "wadhwani_institute_for_artificial_intelligence",
+      "lang": "it"
+    },
+    {
+      "term_id": "watermarking",
+      "lang": "it"
+    },
+    {
+      "term_id": "way_of_the_future",
+      "lang": "it"
+    },
+    {
+      "term_id": "weak_artificial_intelligence",
+      "lang": "it"
+    },
+    {
+      "term_id": "web_intelligence",
+      "lang": "it"
+    },
+    {
+      "term_id": "websocket",
+      "lang": "it"
+    },
+    {
+      "term_id": "webhook",
+      "lang": "it"
+    },
+    {
+      "term_id": "wetware",
+      "lang": "it"
+    },
+    {
+      "term_id": "wetware_computer",
+      "lang": "it"
+    },
+    {
+      "term_id": "whisper",
+      "lang": "it"
+    },
+    {
+      "term_id": "winner_take_all_in_action_selection",
+      "lang": "it"
+    },
+    {
+      "term_id": "wordpiece",
+      "lang": "it"
+    },
+    {
+      "term_id": "workplace_impact_of_artificial_intelligence",
+      "lang": "it"
+    },
+    {
+      "term_id": "wumpus_world",
+      "lang": "it"
+    },
+    {
+      "term_id": "xlm_roberta",
+      "lang": "it"
+    },
+    {
+      "term_id": "zero_shot_prompting",
+      "lang": "it"
+    },
+    {
+      "term_id": "zeuthen_strategy",
+      "lang": "it"
+    },
+    {
+      "term_id": "backdoor_attack",
+      "lang": "it"
+    },
+    {
+      "term_id": "curriculum_learning",
+      "lang": "it"
+    },
+    {
+      "term_id": "data_minimization",
+      "lang": "it"
+    },
+    {
+      "term_id": "model_extraction",
+      "lang": "it"
+    },
+    {
+      "term_id": "right_to_be_forgotten",
+      "lang": "it"
+    },
+    {
+      "term_id": "stereotype",
+      "lang": "it"
+    }
+  ],
+  "lang": "it",
+  "updated_at": "2026-07-18T16:25:02.724177Z"
+}

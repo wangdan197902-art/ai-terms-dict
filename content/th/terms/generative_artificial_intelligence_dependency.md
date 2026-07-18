@@ -1,0 +1,47 @@
+---
+title: "การพึ่งพาปัญญาประดิษฐ์แบบสร้างเนื้อหา"
+term_id: "generative_artificial_intelligence_dependency"
+category: "basic_concepts"
+subcategory: ""
+tags: ["strategy", "risk", "enterprise"]
+difficulty: 3
+weight: 1
+slug: "generative_artificial_intelligence_dependency"
+aliases:
+  - /th/terms/generative_artificial_intelligence_dependency/
+date: "2026-07-18T15:56:08.126043Z"
+lastmod: "2026-07-18T16:38:07.609484Z"
+draft: false
+source: "agnes_llm"
+status: "published"
+language: "th"
+description: "ความพึ่งพาขององค์กรต่อระบบปัญญาประดิษฐ์แบบสร้างเนื้อหาสำหรับงานสำคัญ ซึ่งสร้างความเสี่ยงด้านความพร้อมใช้งาน ความถูกต้อง และความปลอดภัย"
+---
+
+## Definition
+
+แนวคิดนี้หมายถึงความพึ่งพาเชิงกลยุทธ์และการดำเนินงานที่ธุรกิจมีต่อโมเดลปัญญาประดิษฐ์แบบสร้างเนื้อหา เพื่อปฏิบัติหน้าที่จำเป็นต่างๆ เช่น การสร้างเนื้อหา การบริการลูกค้า และการวิเคราะห์ข้อมูล เมื่อมีการนำเทคโนโลยีนี้ไปใช้เพิ่มขึ้น องค์กรจึงต้องเผชิญกับความท้าทายในการจัดการความเสี่ยงที่เกี่ยวข้องกับความต่อเนื่องของระบบและความน่าเชื่อถือของผลลัพธ์
+
+### Summary
+
+ความพึ่งพาขององค์กรต่อระบบปัญญาประดิษฐ์แบบสร้างเนื้อหาสำหรับงานสำคัญ ซึ่งสร้างความเสี่ยงด้านความพร้อมใช้งาน ความถูกต้อง และความปลอดภัย
+
+## Key Concepts
+
+- ความยืดหยุ่นในการดำเนินงาน
+- การผูกขาดกับผู้ให้บริการ (Vendor Lock-in)
+- การจัดการความเสี่ยง
+- ธรรมาภิบาล
+
+## Use Cases
+
+- กรอบการประเมินความเสี่ยงระดับองค์กร
+- การวางแผนความต่อเนื่องทางธุรกิจ
+- การพัฒนากลยุทธ์การจัดซื้อจัดจ้างปัญญาประดิษฐ์
+
+## Related Terms
+
+- [ธรรมาภิบาล AI (AI Governance)](/en/terms/ธรรมาภ-บาล-ai-ai-governance/)
+- [การจัดการความเสี่ยงของโมเดล (Model Risk Management)](/en/terms/การจ-ดการความเส-ยงของโมเดล-model-risk-management/)
+- [การแปลงโฉมดิจิทัล (Digital Transformation)](/en/terms/การแปลงโฉมด-จ-ท-ล-digital-transformation/)
+- [ความปลอดภัยห่วงโซ่อุปทาน (Supply Chain Security)](/en/terms/ความปลอดภ-ยห-วงโซ-อ-ปทาน-supply-chain-security/)

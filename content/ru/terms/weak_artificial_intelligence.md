@@ -1,0 +1,47 @@
+---
+title: "Слабый искусственный интеллект"
+term_id: "weak_artificial_intelligence"
+category: "basic_concepts"
+subcategory: ""
+tags: ["AI Types", "Fundamentals", "Philosophy"]
+difficulty: 2
+weight: 1
+slug: "weak_artificial_intelligence"
+aliases:
+  - /ru/terms/weak_artificial_intelligence/
+date: "2026-07-18T16:20:25.106867Z"
+lastmod: "2026-07-18T16:38:07.213170Z"
+draft: false
+source: "agnes_llm"
+status: "published"
+language: "ru"
+description: "ИИ, разработанный для выполнения конкретных задач в ограниченной области без обладания общими когнитивными способностями."
+---
+
+## Definition
+
+Слабый искусственный интеллект, также известный как узкоспециализированный ИИ, относится к системам, созданным для решения определенных проблем или выполнения конкретных задач, таких как распознавание лиц или перевод языка. В отличие от сильного ИИ, он не обладает общим интеллектом.
+
+### Summary
+
+ИИ, разработанный для выполнения конкретных задач в ограниченной области без обладания общими когнитивными способностями.
+
+## Key Concepts
+
+- Узкая область применения
+- Оптимизация под конкретную задачу
+- Отсутствие сознания
+- Ограниченные способности к рассуждению
+
+## Use Cases
+
+- Рекомендательные системы
+- Восприятие окружающей среды автономным вождением
+- Чат-боты обработки естественного языка
+
+## Related Terms
+
+- [Strong artificial intelligence (Сильный искусственный интеллект)](/en/terms/strong-artificial-intelligence-сильный-искусственный-интеллект/)
+- [Artificial General Intelligence (Общий искусственный интеллект)](/en/terms/artificial-general-intelligence-общий-искусственный-интеллект/)
+- [Machine Learning (Машинное обучение)](/en/terms/machine-learning-машинное-обучение/)
+- [Narrow AI (Узкоспециализированный ИИ)](/en/terms/narrow-ai-узкоспециализированный-ии/)

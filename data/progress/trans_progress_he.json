@@ -1,0 +1,608 @@
+{
+  "translated_count": 860,
+  "total": 1010,
+  "failed_keys": [
+    {
+      "term_id": "automated_medical_scribe",
+      "lang": "he"
+    },
+    {
+      "term_id": "automated_negotiation",
+      "lang": "he"
+    },
+    {
+      "term_id": "automatic_speech_recognition",
+      "lang": "he"
+    },
+    {
+      "term_id": "automation_in_construction",
+      "lang": "he"
+    },
+    {
+      "term_id": "autonomic_networking",
+      "lang": "he"
+    },
+    {
+      "term_id": "gpt_56",
+      "lang": "he"
+    },
+    {
+      "term_id": "gabbays_separation_theorem",
+      "lang": "he"
+    },
+    {
+      "term_id": "galaxy_ai",
+      "lang": "he"
+    },
+    {
+      "term_id": "game_theory",
+      "lang": "he"
+    },
+    {
+      "term_id": "gated_recurrent_unit",
+      "lang": "he"
+    },
+    {
+      "term_id": "recursive_self_improvement",
+      "lang": "he"
+    },
+    {
+      "term_id": "reflection",
+      "lang": "he"
+    },
+    {
+      "term_id": "regularization",
+      "lang": "he"
+    },
+    {
+      "term_id": "relational_data_mining",
+      "lang": "he"
+    },
+    {
+      "term_id": "reliability",
+      "lang": "he"
+    },
+    {
+      "term_id": "reparameterization_trick",
+      "lang": "he"
+    },
+    {
+      "term_id": "representation_collapse",
+      "lang": "he"
+    },
+    {
+      "term_id": "reranking",
+      "lang": "he"
+    },
+    {
+      "term_id": "resisting_ai",
+      "lang": "he"
+    },
+    {
+      "term_id": "responsible_ai",
+      "lang": "he"
+    },
+    {
+      "term_id": "right_to_explanation",
+      "lang": "he"
+    },
+    {
+      "term_id": "robot_learning",
+      "lang": "he"
+    },
+    {
+      "term_id": "robotic_process_automation",
+      "lang": "he"
+    },
+    {
+      "term_id": "robustness",
+      "lang": "he"
+    },
+    {
+      "term_id": "rule_induction",
+      "lang": "he"
+    },
+    {
+      "term_id": "rust",
+      "lang": "he"
+    },
+    {
+      "term_id": "stit_logic",
+      "lang": "he"
+    },
+    {
+      "term_id": "sups",
+      "lang": "he"
+    },
+    {
+      "term_id": "sam3",
+      "lang": "he"
+    },
+    {
+      "term_id": "sam3_video",
+      "lang": "he"
+    },
+    {
+      "term_id": "sample_complexity",
+      "lang": "he"
+    },
+    {
+      "term_id": "schema_agnostic_databases",
+      "lang": "he"
+    },
+    {
+      "term_id": "self_consistency",
+      "lang": "he"
+    },
+    {
+      "term_id": "self_management",
+      "lang": "he"
+    },
+    {
+      "term_id": "semantic_analysis",
+      "lang": "he"
+    },
+    {
+      "term_id": "semantic_folding",
+      "lang": "he"
+    },
+    {
+      "term_id": "semi_supervised_learning",
+      "lang": "he"
+    },
+    {
+      "term_id": "sentence_similarity",
+      "lang": "he"
+    },
+    {
+      "term_id": "sentence_transformers",
+      "lang": "he"
+    },
+    {
+      "term_id": "sentencepiece",
+      "lang": "he"
+    },
+    {
+      "term_id": "sequence_labeling",
+      "lang": "he"
+    },
+    {
+      "term_id": "server_sent_events",
+      "lang": "he"
+    },
+    {
+      "term_id": "serverless",
+      "lang": "he"
+    },
+    {
+      "term_id": "sigmoid",
+      "lang": "he"
+    },
+    {
+      "term_id": "similarity_learning",
+      "lang": "he"
+    },
+    {
+      "term_id": "singularity_studies",
+      "lang": "he"
+    },
+    {
+      "term_id": "situated",
+      "lang": "he"
+    },
+    {
+      "term_id": "situated_approach",
+      "lang": "he"
+    },
+    {
+      "term_id": "slopaganda",
+      "lang": "he"
+    },
+    {
+      "term_id": "smart_object",
+      "lang": "he"
+    },
+    {
+      "term_id": "smart_speaker_industry_in_south_korea",
+      "lang": "he"
+    },
+    {
+      "term_id": "socially_assistive_robot",
+      "lang": "he"
+    },
+    {
+      "term_id": "software_agent",
+      "lang": "he"
+    },
+    {
+      "term_id": "solomonoffs_theory_of_inductive_inference",
+      "lang": "he"
+    },
+    {
+      "term_id": "something_big_is_happening",
+      "lang": "he"
+    },
+    {
+      "term_id": "source_attribution",
+      "lang": "he"
+    },
+    {
+      "term_id": "sovereign_ai",
+      "lang": "he"
+    },
+    {
+      "term_id": "space_based_data_center",
+      "lang": "he"
+    },
+    {
+      "term_id": "sparkles_emoji",
+      "lang": "he"
+    },
+    {
+      "term_id": "spatial_embedding",
+      "lang": "he"
+    },
+    {
+      "term_id": "spatial_intelligence",
+      "lang": "he"
+    },
+    {
+      "term_id": "speaker",
+      "lang": "he"
+    },
+    {
+      "term_id": "speaker_change_detection",
+      "lang": "he"
+    },
+    {
+      "term_id": "speaker_diarization",
+      "lang": "he"
+    },
+    {
+      "term_id": "speech_to_speech",
+      "lang": "he"
+    },
+    {
+      "term_id": "spike_and_slab_regression",
+      "lang": "he"
+    },
+    {
+      "term_id": "spreading_activation",
+      "lang": "he"
+    },
+    {
+      "term_id": "stability",
+      "lang": "he"
+    },
+    {
+      "term_id": "stable_diffusion",
+      "lang": "he"
+    },
+    {
+      "term_id": "stable_diffusion_diffusers",
+      "lang": "he"
+    },
+    {
+      "term_id": "statistical_learning_theory",
+      "lang": "he"
+    },
+    {
+      "term_id": "statistical_relational_learning",
+      "lang": "he"
+    },
+    {
+      "term_id": "streaming",
+      "lang": "he"
+    },
+    {
+      "term_id": "structural_risk_minimization",
+      "lang": "he"
+    },
+    {
+      "term_id": "structured_sparsity_regularization",
+      "lang": "he"
+    },
+    {
+      "term_id": "superintelligence_ban",
+      "lang": "he"
+    },
+    {
+      "term_id": "supermind_ai",
+      "lang": "he"
+    },
+    {
+      "term_id": "surrogate_model",
+      "lang": "he"
+    },
+    {
+      "term_id": "sycophancy",
+      "lang": "he"
+    },
+    {
+      "term_id": "syman",
+      "lang": "he"
+    },
+    {
+      "term_id": "symbol_level",
+      "lang": "he"
+    },
+    {
+      "term_id": "symbolic_artificial_intelligence",
+      "lang": "he"
+    },
+    {
+      "term_id": "symbolic_regression",
+      "lang": "he"
+    },
+    {
+      "term_id": "t2i",
+      "lang": "he"
+    },
+    {
+      "term_id": "tanh",
+      "lang": "he"
+    },
+    {
+      "term_id": "temporal_bias",
+      "lang": "he"
+    },
+    {
+      "term_id": "tensor",
+      "lang": "he"
+    },
+    {
+      "term_id": "tensorflow_hub",
+      "lang": "he"
+    },
+    {
+      "term_id": "tensorboard",
+      "lang": "he"
+    },
+    {
+      "term_id": "text_classification",
+      "lang": "he"
+    },
+    {
+      "term_id": "text_embeddings_inference",
+      "lang": "he"
+    },
+    {
+      "term_id": "text_generation",
+      "lang": "he"
+    },
+    {
+      "term_id": "text_generation_inference",
+      "lang": "he"
+    },
+    {
+      "term_id": "text_to_audio",
+      "lang": "he"
+    },
+    {
+      "term_id": "text_to_image",
+      "lang": "he"
+    },
+    {
+      "term_id": "text_to_speech",
+      "lang": "he"
+    },
+    {
+      "term_id": "text_to_video",
+      "lang": "he"
+    },
+    {
+      "term_id": "tflite",
+      "lang": "he"
+    },
+    {
+      "term_id": "the_ai_con",
+      "lang": "he"
+    },
+    {
+      "term_id": "the_master_algorithm",
+      "lang": "he"
+    },
+    {
+      "term_id": "thinking",
+      "lang": "he"
+    },
+    {
+      "term_id": "three_factor_learning",
+      "lang": "he"
+    },
+    {
+      "term_id": "throughput",
+      "lang": "he"
+    },
+    {
+      "term_id": "thudm",
+      "lang": "he"
+    },
+    {
+      "term_id": "time_series",
+      "lang": "he"
+    },
+    {
+      "term_id": "timeline_of_artificial_intelligence_risks_in_global_finance",
+      "lang": "he"
+    },
+    {
+      "term_id": "token_maxxing",
+      "lang": "he"
+    },
+    {
+      "term_id": "toxicity",
+      "lang": "he"
+    },
+    {
+      "term_id": "toxicity_detection",
+      "lang": "he"
+    },
+    {
+      "term_id": "toy_problem",
+      "lang": "he"
+    },
+    {
+      "term_id": "tracing",
+      "lang": "he"
+    },
+    {
+      "term_id": "tree_of_thoughts",
+      "lang": "he"
+    },
+    {
+      "term_id": "trustworthy_ai",
+      "lang": "he"
+    },
+    {
+      "term_id": "tum",
+      "lang": "he"
+    },
+    {
+      "term_id": "type_checker",
+      "lang": "he"
+    },
+    {
+      "term_id": "uncensored",
+      "lang": "he"
+    },
+    {
+      "term_id": "underfitting",
+      "lang": "he"
+    },
+    {
+      "term_id": "unified_model",
+      "lang": "he"
+    },
+    {
+      "term_id": "united_states_tech_force",
+      "lang": "he"
+    },
+    {
+      "term_id": "universal_psychometrics",
+      "lang": "he"
+    },
+    {
+      "term_id": "unsloth",
+      "lang": "he"
+    },
+    {
+      "term_id": "vibevoice",
+      "lang": "he"
+    },
+    {
+      "term_id": "video_super_resolution",
+      "lang": "he"
+    },
+    {
+      "term_id": "virtual_intelligence",
+      "lang": "he"
+    },
+    {
+      "term_id": "vllm",
+      "lang": "he"
+    },
+    {
+      "term_id": "voice",
+      "lang": "he"
+    },
+    {
+      "term_id": "voice_activity_detection",
+      "lang": "he"
+    },
+    {
+      "term_id": "wadhwani_institute_for_artificial_intelligence",
+      "lang": "he"
+    },
+    {
+      "term_id": "watermarking",
+      "lang": "he"
+    },
+    {
+      "term_id": "way_of_the_future",
+      "lang": "he"
+    },
+    {
+      "term_id": "weak_artificial_intelligence",
+      "lang": "he"
+    },
+    {
+      "term_id": "web_intelligence",
+      "lang": "he"
+    },
+    {
+      "term_id": "websocket",
+      "lang": "he"
+    },
+    {
+      "term_id": "webhook",
+      "lang": "he"
+    },
+    {
+      "term_id": "wetware",
+      "lang": "he"
+    },
+    {
+      "term_id": "wetware_computer",
+      "lang": "he"
+    },
+    {
+      "term_id": "whisper",
+      "lang": "he"
+    },
+    {
+      "term_id": "winner_take_all_in_action_selection",
+      "lang": "he"
+    },
+    {
+      "term_id": "wordpiece",
+      "lang": "he"
+    },
+    {
+      "term_id": "workplace_impact_of_artificial_intelligence",
+      "lang": "he"
+    },
+    {
+      "term_id": "wumpus_world",
+      "lang": "he"
+    },
+    {
+      "term_id": "xlm_roberta",
+      "lang": "he"
+    },
+    {
+      "term_id": "zero_shot_prompting",
+      "lang": "he"
+    },
+    {
+      "term_id": "zeuthen_strategy",
+      "lang": "he"
+    },
+    {
+      "term_id": "backdoor_attack",
+      "lang": "he"
+    },
+    {
+      "term_id": "curriculum_learning",
+      "lang": "he"
+    },
+    {
+      "term_id": "data_minimization",
+      "lang": "he"
+    },
+    {
+      "term_id": "model_extraction",
+      "lang": "he"
+    },
+    {
+      "term_id": "right_to_be_forgotten",
+      "lang": "he"
+    },
+    {
+      "term_id": "stereotype",
+      "lang": "he"
+    }
+  ],
+  "lang": "he",
+  "updated_at": "2026-07-18T16:27:39.203955Z"
+}

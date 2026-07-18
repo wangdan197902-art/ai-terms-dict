@@ -1,0 +1,47 @@
+---
+title: "ปัญญาประดิษฐ์แห่งสรรพสิ่ง (AIoT)"
+term_id: "artificial_intelligence_of_things"
+category: "basic_concepts"
+subcategory: ""
+tags: ["IoT", "AI", "Edge Computing", "Automation"]
+difficulty: 3
+weight: 1
+slug: "artificial_intelligence_of_things"
+aliases:
+  - /th/terms/artificial_intelligence_of_things/
+date: "2026-07-18T15:42:39.506975Z"
+lastmod: "2026-07-18T16:38:07.574964Z"
+draft: false
+source: "agnes_llm"
+status: "published"
+language: "th"
+description: "การผสานรวมระหว่างปัญญาประดิษฐ์ (AI) และอินเทอร์เน็ตแห่งสรรพสิ่ง (IoT) ซึ่งช่วยให้สมาร์ทดีไวซ์สามารถประมวลผลข้อมูลในท้องถิ่นและตัดสินใจได้อย่างอัตโนมัติ"
+---
+
+## Definition
+
+ปัญญาประดิษฐ์แห่งสรรพสิ่ง (AIoT) หมายถึงการบูรณาการแบบสมานฉันท์ระหว่างเทคโนโลยีปัญญาประดิษฐ์และอินเทอร์เน็ตแห่งสรรพสิ่ง โดยการฝังอัลกอริทึมของ AI ลงในอุปกรณ์ IoT โดยตรง เพื่อเพิ่มประสิทธิภาพในการประมวลผลและการตัดสินใจ
+
+### Summary
+
+การผสานรวมระหว่างปัญญาประดิษฐ์ (AI) และอินเทอร์เน็ตแห่งสรรพสิ่ง (IoT) ซึ่งช่วยให้สมาร์ทดีไวซ์สามารถประมวลผลข้อมูลในท้องถิ่นและตัดสินใจได้อย่างอัตโนมัติ
+
+## Key Concepts
+
+- การประมวลผลที่ขอบเครือข่าย (Edge Computing)
+- เซนเซอร์อัจฉริยะ
+- การตัดสินใจอย่างอิสระ
+- การวิเคราะห์ข้อมูลแบบเรียลไทม์
+
+## Use Cases
+
+- การบำรุงรักษาเชิงพยากรณ์ในอุตสาหกรรมการผลิต
+- ระบบบ้านอัจฉริยะ
+- การนำทางของยานพาหนะอัตโนมัติ
+
+## Related Terms
+
+- [Internet of Things (อินเทอร์เน็ตแห่งสรรพสิ่ง)](/en/terms/internet-of-things-อ-นเทอร-เน-ตแห-งสรรพส-ง/)
+- [Edge AI (ปัญญาประดิษฐ์ที่ขอบเครือข่าย)](/en/terms/edge-ai-ป-ญญาประด-ษฐ-ท-ขอบเคร-อข-าย/)
+- [Machine Learning (การเรียนรู้ของเครื่อง)](/en/terms/machine-learning-การเร-ยนร-ของเคร-อง/)
+- [Smart Cities (เมืองอัจฉริยะ)](/en/terms/smart-cities-เม-องอ-จฉร-ยะ/)

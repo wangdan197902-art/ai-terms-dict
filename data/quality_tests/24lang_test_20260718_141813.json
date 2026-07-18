@@ -1,0 +1,1141 @@
+{
+  "test_time": "2026-07-18T14:18:13.572998Z",
+  "model": "agnes-2.0-flash",
+  "term_id": "prompt_engineering",
+  "term_name": "Prompt Engineering",
+  "total_langs": 24,
+  "success_count": 24,
+  "complete_count": 23,
+  "total_time_sec": 271.72,
+  "results": [
+    {
+      "lang": "pt",
+      "lang_name": "Portuguese",
+      "lang_native": "Português",
+      "country": "Brazil/Portugal",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 20,
+        "definition_short": 124,
+        "definition_long": 274,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Engenharia de Prompt",
+        "definition_short": "A prática de projetar e otimizar textos de entrada para orientar grandes modelos de linguagem em direção a saídas desejadas.",
+        "definition_long": "A engenharia de prompt envolve a criação de entradas específicas, conhecidas como prompts, para elicitar respostas precisas, relevantes e de alta qualidade de modelos de IA generativa. Ela requer compreender como os modelos interpretam o contexto e as instruções fornecidas.",
+        "key_concepts": [
+          "Enquadramento contextual",
+          "Aprendizado few-shot",
+          "Ajuste por instrução",
+          "Otimização de tokens"
+        ],
+        "use_cases": [
+          "Chatbots de suporte ao cliente automatizados",
+          "Assistentes de geração de código",
+          "Auxiliares de escrita criativa"
+        ],
+        "related_terms": [
+          "LLM (Modelo de Linguagem de Grande Escala)",
+          "Chain-of-Thought (Cadeia de Pensamento)",
+          "RAG (Recuperação Aumentada por Geração)",
+          "Fine-tuning (Ajuste Fino)"
+        ],
+        "language": "pt"
+      },
+      "error": null,
+      "response_time_sec": 11.13,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "ru",
+      "lang_name": "Russian",
+      "lang_native": "Русский",
+      "country": "Russia",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 18,
+        "definition_short": 118,
+        "definition_long": 226,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Инженерия промптов",
+        "definition_short": "Практика проектирования и оптимизации входных текстов для направления больших языковых моделей к желаемым результатам.",
+        "definition_long": "Инженерия промптов включает создание специфических входов, известных как промпты, для получения точных, релевантных и высококачественных ответов от генеративных ИИ-моделей. Она требует понимания того, как модели интерпретируют",
+        "key_concepts": [
+          "Контекстуальное обрамление",
+          "Обучение с малым количеством примеров (Few-shot learning)",
+          "Дообучение инструкциям (Instruction tuning)",
+          "Оптимизация токенов"
+        ],
+        "use_cases": [
+          "Автоматизированные чат-боты службы поддержки клиентов",
+          "Помощники для генерации кода",
+          "Инструменты для творческого письма"
+        ],
+        "related_terms": [
+          "LLM (Большая языковая модель)",
+          "Chain-of-Thought (Цепочка рассуждений)",
+          "RAG (Поиск с дополнением генерации)",
+          "Fine-tuning (Тонкая настройка)"
+        ],
+        "language": "ru"
+      },
+      "error": null,
+      "response_time_sec": 8.27,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "ko",
+      "lang_name": "Korean",
+      "lang_native": "한국어",
+      "country": "South Korea",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 10,
+        "definition_short": 58,
+        "definition_long": 137,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "프롬프트 엔지니어링",
+        "definition_short": "대규모 언어 모델이 원하는 출력을 생성하도록 유도하기 위해 입력 텍스트를 설계하고 최적화하는 관행입니다.",
+        "definition_long": "프롬프트 엔지니어링은 생성형 AI 모델로부터 정확하고 관련성이 높으며 고품질의 응답을 이끌어내기 위해 '프롬프트'라고 불리는 특정 입력을 구성하는 작업을 포함합니다. 이 과정에는 모델이 프롬프트를 어떻게 해석하는지에 대한 깊은 이해가 필요합니다.",
+        "key_concepts": [
+          "맥락적 프레임 설정",
+          "퓨샷 학습(Few-shot learning)",
+          "지시어 튜닝(Instruction tuning)",
+          "토큰 최적화"
+        ],
+        "use_cases": [
+          "자동화된 고객 지원 챗봇",
+          "코드 생성 어시스턴트",
+          "창의적 글쓰기 보조 도구"
+        ],
+        "related_terms": [
+          "LLM (대규모 언어 모델)",
+          "Chain-of-Thought (생각의 사슬 추론 기법)",
+          "RAG (검색 증강 생성)",
+          "Fine-tuning (파인튜닝/미세 조정)"
+        ],
+        "language": "ko"
+      },
+      "error": null,
+      "response_time_sec": 8.32,
+      "grade": "B-合格"
+    },
+    {
+      "lang": "ar",
+      "lang_name": "Arabic",
+      "lang_native": "العربية",
+      "country": "Middle East/North Africa",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 13,
+        "definition_short": 82,
+        "definition_long": 205,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "هندسة الأوامر",
+        "definition_short": "ممارسة تصميم وتحسين نصوص الإدخال لتوجيه نماذج اللغة الكبيرة نحو المخرجات المطلوبة.",
+        "definition_long": "تتضمن هندسة الأوامر صياغة مدخلات محددة تُعرف بالأوامر (Prompts) لاستخراج ردود دقيقة وذات صلة وعالية الجودة من نماذج الذكاء الاصطناعي التوليدي. يتطلب الأمر فهم كيفية تفسير النماذج للسياق وتوجيهها بشكل فعال.",
+        "key_concepts": [
+          "الإطار السياقي",
+          "التعلم بأمثلة قليلة",
+          "ضبط التعليمات",
+          "تحسين الرموز (Tokens)"
+        ],
+        "use_cases": [
+          "روبوتات الدردشة لدعم العملاء تلقائياً",
+          "مساعدي توليد الأكواد البرمجية",
+          "أدوات الكتابة الإبداعية"
+        ],
+        "related_terms": [
+          "LLM (نموذج لغوي كبير)",
+          "Chain-of-Thought (سلسلة الأفكار)",
+          "RAG (الاسترجاع المعزز بالتوليد)",
+          "Fine-tuning (الدقة الدقيقة/ضبط النموذج)"
+        ],
+        "language": "ar"
+      },
+      "error": null,
+      "response_time_sec": 8.24,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "hi",
+      "lang_name": "Hindi",
+      "lang_native": "हिन्दी",
+      "country": "India",
+      "api_success": true,
+      "fields_complete": false,
+      "fields_filled": 5,
+      "fields_total": 6,
+      "missing_fields": [
+        "related_terms"
+      ],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 21,
+        "definition_short": 122,
+        "definition_long": 249,
+        "key_concepts": 4,
+        "use_cases": 3
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "प्रॉम्प्ट इंजीनियरिंग",
+        "definition_short": "बड़े भाषा मॉडलों को वांछित आउटपुट की ओर निर्देशित करने के लिए इनपुट टेक्स्ट को डिज़ाइन करने और अनुकूलित करने की प्रक्रिया।",
+        "definition_long": "प्रॉम्प्ट इंजीनियरिंग में 'प्रॉम्प्ट' कहलाने वाले विशिष्ट इनपुट तैयार करना शामिल होता है ताकि जनरेटिव एआई मॉडलों से सटीक, प्रासंगिक और उच्च गुणवत्ता वाले उत्तर प्राप्त किए जा सकें। इसके लिए यह समझना आवश्यक है कि मॉडल इनपुट को कैसे संदर्भित करते हैं।",
+        "key_concepts": [
+          "संदर्भात्मक ढांचा",
+          "फ़ू-शॉट लर्निंग (कम उदाहरणों के साथ सीखना)",
+          "इंसट्रक्शन ट्यूनिंग (निर्देश अनुकूलन)",
+          "टोकन अनुकूलन"
+        ],
+        "use_cases": [
+          "स्वचालित ग्राहक सहायता चैटबॉट",
+          "कोड जनरेशन सहायक",
+          "रचनात्मक लेखन सहायक"
+        ],
+        "बड़े भाषा मॉडल (LLM) (Large Language Model), चेन-ऑफ़-थाट (Chain-of-Thought) (तार्किक चरण), रेट्रीवल-एन्हांस्ड जनरेशन (RAG) (पुनर्प्राप्ति-वर्धित उत्पादन), फाइन-ट्यूनिंग (Fine-tuning) (सूक्ष्म अनुकूलन)": [
+          "LLM (बड़ा भाषा मॉडल)",
+          "Chain-of-Thought (विचार श्रृंखला)",
+          "RAG (पुनर्प्राप्ति-संवर्धित जनरेशन)",
+          "Fine-tuning (सूक्ष्म अनुकूलन)"
+        ],
+        "language": "hi"
+      },
+      "error": null,
+      "response_time_sec": 9.03,
+      "grade": "C-不完整"
+    },
+    {
+      "lang": "it",
+      "lang_name": "Italian",
+      "lang_native": "Italiano",
+      "country": "Italy",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 21,
+        "definition_short": 135,
+        "definition_long": 267,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Ingegneria dei Prompt",
+        "definition_short": "La pratica di progettare e ottimizzare i testi di input per guidare i modelli linguistici di grandi dimensioni verso output desiderati.",
+        "definition_long": "L'ingegneria dei prompt implica la creazione di input specifici, noti come prompt, per ottenere risposte accurate, pertinenti e di alta qualità dai modelli di IA generativa. Richiede una comprensione di come i modelli interpretano il contesto e le istruzioni fornite.",
+        "key_concepts": [
+          "Contestualizzazione",
+          "Apprendimento few-shot",
+          "Ottimizzazione delle istruzioni",
+          "Ottimizzazione dei token"
+        ],
+        "use_cases": [
+          "Chatbot per l'assistenza clienti automatizzata",
+          "Assistenti per la generazione di codice",
+          "Strumenti di supporto alla scrittura creativa"
+        ],
+        "related_terms": [
+          "LLM (Large Language Model / Modello Linguistico di Grande Dimensione)",
+          "Chain-of-Thought (Catena di Pensiero)",
+          "RAG (Retrieval-Augmented Generation / Generazione Aumentata dal Recupero)",
+          "Fine-tuning (Affinamento)"
+        ],
+        "language": "it"
+      },
+      "error": null,
+      "response_time_sec": 8.39,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "nl",
+      "lang_name": "Dutch",
+      "lang_native": "Nederlands",
+      "country": "Netherlands/Belgium",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 18,
+        "definition_short": 119,
+        "definition_long": 231,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Prompt Engineering",
+        "definition_short": "De praktijk van het ontwerpen en optimaliseren van invoerteksten om grote taalmodellen te sturen naar gewenste uitvoer.",
+        "definition_long": "Prompt engineering houdt in dat specifieke invoeren, bekend als prompts, worden samengesteld om nauwkeurige, relevante en hoogwaardige reacties op te roepen uit generatieve AI-modellen. Het vereist inzicht in hoe modellen interpret",
+        "key_concepts": [
+          "Contextuele kaders",
+          "Few-shot learning",
+          "Instruction tuning",
+          "Tokenoptimalisatie"
+        ],
+        "use_cases": [
+          "Geautomatiseerde klantensupport-chatbots",
+          "Assistenten voor codegeneratie",
+          "Hulpmiddelen voor creatief schrijven"
+        ],
+        "related_terms": [
+          "LLM (Large Language Model / Groot Taalmodel)",
+          "Chain-of-Thought (Redeneringsketen)",
+          "RAG (Retrieval-Augmented Generation / Ophaal-augmenterende generatie)",
+          "Fine-tuning (Fijnafstelling)"
+        ],
+        "language": "nl"
+      },
+      "error": null,
+      "response_time_sec": 8.53,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "pl",
+      "lang_name": "Polish",
+      "lang_native": "Polski",
+      "country": "Poland",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 19,
+        "definition_short": 125,
+        "definition_long": 255,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Inżynieria Promptów",
+        "definition_short": "Praktyka projektowania i optymalizacji tekstów wejściowych w celu kierowania dużymi modelami językowymi ku pożądanym wynikom.",
+        "definition_long": "Inżynieria promptów obejmuje tworzenie specyficznych danych wejściowych, zwanych promptami, aby wywołać dokładne, istotne i wysokiej jakości odpowiedzi od generatywnych modeli sztucznej inteligencji. Wymaga ona zrozumienia tego, jak modele interpretują...",
+        "key_concepts": [
+          "Kontekstowe ramowanie",
+          "Uczenie z niewielką liczbą przykładów (Few-shot learning)",
+          "Dostosowywanie instrukcji (Instruction tuning)",
+          "Optymalizacja tokenów"
+        ],
+        "use_cases": [
+          "Zautomatyzowani boty obsługi klienta",
+          "Asystenci generowania kodu",
+          "Narzędzia wspomagające pisanie twórcze"
+        ],
+        "related_terms": [
+          "LLM (Duży Model Językowy)",
+          "Chain-of-Thought (Łańcuch Myślenia)",
+          "RAG (Generowanie Wspomagane Retriewalnie)",
+          "Fine-tuning (Dopasowanie szczegółowe)"
+        ],
+        "language": "pl"
+      },
+      "error": null,
+      "response_time_sec": 8.61,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "tr",
+      "lang_name": "Turkish",
+      "lang_native": "Türkçe",
+      "country": "Turkey",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 19,
+        "definition_short": 111,
+        "definition_long": 239,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Prompt Mühendisliği",
+        "definition_short": "Büyük dil modellerini istenen çıktılara yönlendirmek için girdi metinlerini tasarlama ve optimize etme pratiği.",
+        "definition_long": "Prompt mühendisliği, jeneratif yapay zeka modellerinden doğru, ilgili ve yüksek kaliteli yanıtlar elde etmek için \"prompt\" olarak bilinen belirli girdileri hazırlamayı içerir. Bu süreç, modellerin nasıl yorum yaptığını anlamayı gerektirir.",
+        "key_concepts": [
+          "Bağlamsal çerçeveleme",
+          "Az örnekli öğrenme",
+          "Talimat ince ayarı",
+          "Token optimizasyonu"
+        ],
+        "use_cases": [
+          "Otomatik müşteri destek sohbet botları",
+          "Kod üretme asistanları",
+          "Yaratıcı yazım yardımcıları"
+        ],
+        "related_terms": [
+          "LLM (Büyük Dil Modeli)",
+          "Chain-of-Thought (Düşünce Zinciri)",
+          "RAG (Retrieval-Augmented Generation / Geri Getirime Dayalı Üretimi Artıran Oluşturma)",
+          "Fine-tuning (İnce Ayar)"
+        ],
+        "language": "tr"
+      },
+      "error": null,
+      "response_time_sec": 3.37,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "vi",
+      "lang_name": "Vietnamese",
+      "lang_native": "Tiếng Việt",
+      "country": "Vietnam",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 15,
+        "definition_short": 114,
+        "definition_long": 240,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Kỹ thuật Prompt",
+        "definition_short": "Thực hành thiết kế và tối ưu hóa văn bản đầu vào để hướng các mô hình ngôn ngữ lớn (LLM) tạo ra kết quả mong muốn.",
+        "definition_long": "Kỹ thuật prompt liên quan đến việc tạo ra các đầu vào cụ thể, được gọi là prompt, nhằm khơi gợi những phản hồi chính xác, phù hợp và chất lượng cao từ các mô hình AI sinh tạo. Nó đòi hỏi sự hiểu biết về cách các mô hình diễn giải thông tin.",
+        "key_concepts": [
+          "Khung cảnh ngữ nghĩa",
+          "Học vài ví dụ (Few-shot learning)",
+          "Điều chỉnh theo chỉ dẫn (Instruction tuning)",
+          "Tối ưu hóa Token"
+        ],
+        "use_cases": [
+          "Chatbot hỗ trợ khách hàng tự động",
+          "Trợ lý tạo mã nguồn",
+          "Công cụ hỗ trợ sáng tác văn học"
+        ],
+        "related_terms": [
+          "LLM (Mô hình ngôn ngữ lớn)",
+          "Chain-of-Thought (Dòng suy luận)",
+          "RAG (Tìm kiếm và tạo lại có tăng cường)",
+          "Fine-tuning (Tinh chỉnh)"
+        ],
+        "language": "vi"
+      },
+      "error": null,
+      "response_time_sec": 8.2,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "th",
+      "lang_name": "Thai",
+      "lang_native": "ไทย",
+      "country": "Thailand",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 35,
+        "definition_short": 102,
+        "definition_long": 291,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "วิศวกรรมพรอมต์ (Prompt Engineering)",
+        "definition_short": "แนวปฏิบัติในการออกแบบและปรับปรุงข้อความนำเข้า เพื่อบังคับให้โมเดลภาษาขนาดใหญ่สร้างผลลัพธ์ตามที่ต้องการ",
+        "definition_long": "วิศวกรรมพรอมต์เกี่ยวข้องกับการสร้างสรรค์ข้อความนำเข้าที่เฉพาะเจาะจง ซึ่งเรียกว่า \"พรอมต์\" (prompts) เพื่อกระตุ้นให้โมเดลปัญญาประดิษฐ์แบบกำเนิด (generative AI models) ตอบกลับด้วยความถูกต้อง ความเกี่ยวข้อง และคุณภาพสูง การทำเช่นนี้จำเป็นต้องเข้าใจว่าโมเดลเหล่านี้ตีความและประมวลผลข้อมูลอย่างไร",
+        "key_concepts": [
+          "การวางบริบท (Contextual framing)",
+          "การเรียนรู้แบบฟิวช็อต (Few-shot learning)",
+          "การปรับแต่งด้วยคำสั่ง (Instruction tuning)",
+          "การเพิ่มประสิทธิภาพโทเค็น (Token optimization)"
+        ],
+        "use_cases": [
+          "แชทบอทบริการลูกค้าอัตโนมัติ",
+          "ผู้ช่วยสร้างโค้ด",
+          "เครื่องมือสนับสนุนการเขียนเชิงสร้างสรรค์"
+        ],
+        "related_terms": [
+          "LLM (Large Language Model - โมเดลภาษาขนาดใหญ่)",
+          "Chain-of-Thought (วิธีการคิดเป็นขั้นตอน)",
+          "RAG (Retrieval-Augmented Generation - การสร้างเสริมด้วยการดึงข้อมูล)",
+          "Fine-tuning (การปรับแต่งโมเดล)"
+        ],
+        "language": "th"
+      },
+      "error": null,
+      "response_time_sec": 8.72,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "id",
+      "lang_name": "Indonesian",
+      "lang_native": "Bahasa Indonesia",
+      "country": "Indonesia",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 15,
+        "definition_short": 118,
+        "definition_long": 260,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Rekayasa Prompt",
+        "definition_short": "Praktik merancang dan mengoptimalkan teks masukan untuk membimbing model bahasa besar menuju keluaran yang diinginkan.",
+        "definition_long": "Rekayasa prompt melibatkan pembuatan masukan spesifik, yang dikenal sebagai prompt, untuk memunculkan respons yang akurat, relevan, dan berkualitas tinggi dari model AI generatif. Hal ini memerlukan pemahaman tentang bagaimana model menginterpretasi informasi.",
+        "key_concepts": [
+          "Pembingkai kontekstual",
+          "Pembelajaran few-shot",
+          "Penyetelan instruksi",
+          "Optimasi token"
+        ],
+        "use_cases": [
+          "Chatbot dukungan pelanggan otomatis",
+          "Asisten generasi kode",
+          "Alat bantu penulisan kreatif"
+        ],
+        "related_terms": [
+          "LLM (Model Bahasa Besar)",
+          "Chain-of-Thought (Rantai Pemikiran)",
+          "RAG (Retrieval-Augmented Generation)",
+          "Fine-tuning (Penyetelan Halus)"
+        ],
+        "language": "id"
+      },
+      "error": null,
+      "response_time_sec": 8.61,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "uk",
+      "lang_name": "Ukrainian",
+      "lang_native": "Українська",
+      "country": "Ukraine",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 17,
+        "definition_short": 116,
+        "definition_long": 238,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Промпт-інжиніринг",
+        "definition_short": "Практика проектування та оптимізації вхідних текстів для керування великими мовними моделями до бажаних результатів.",
+        "definition_long": "Промпт-інжиніринг передбачає створення специфічних вхідних даних, відомих як промпти (запити), щоб отримати точні, релевантні та якісні відповіді від генеративних ШІ-моделей. Він вимагає розуміння того, як моделі інтерпретують інструкції.",
+        "key_concepts": [
+          "Контекстуальне оформлення",
+          "Навчання з малою кількістю прикладів (few-shot learning)",
+          "Налаштування інструкцій (instruction tuning)",
+          "Оптимізація токенів"
+        ],
+        "use_cases": [
+          "Автоматизовані чат-боти підтримки клієнтів",
+          "Асистенти для генерації коду",
+          "Інструменти для креативного письма"
+        ],
+        "related_terms": [
+          "LLM (Велика мовна модель)",
+          "Chain-of-Thought (Ланцюжок міркувань)",
+          "RAG (Пошук із доповненням генеративним ШІ / Retrieval-Augmented Generation)",
+          "Fine-tuning (Тонке налаштування)"
+        ],
+        "language": "uk"
+      },
+      "error": null,
+      "response_time_sec": 8.59,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "sv",
+      "lang_name": "Swedish",
+      "lang_native": "Svenska",
+      "country": "Sweden",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 18,
+        "definition_short": 107,
+        "definition_long": 231,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Prompt Engineering",
+        "definition_short": "Praktiken att designa och optimera inmatningstexter för att styra stora språkmodeller mot önskade resultat.",
+        "definition_long": "Prompt engineering innebär att utforma specifika inmatningar, så kallade prompts, för att få generativa AI-modeller att ge korrekta, relevanta och högkvalitativa svar. Det kräver en förståelse för hur modeller tolkar instruktioner.",
+        "key_concepts": [
+          "Kontextuell ramning",
+          "Few-shot learning",
+          "Instruktionstuning",
+          "Tokenoptimering"
+        ],
+        "use_cases": [
+          "Automatiserade kundsupportchattbotar",
+          "Assistenter för kodgenerering",
+          "Hjälpmedel för kreativt skrivande"
+        ],
+        "related_terms": [
+          "LLM (Stor språkmodell)",
+          "Chain-of-Thought (Tänkandekedja)",
+          "RAG (Retrieval-Augmented Generation)",
+          "Fine-tuning (Finjustering)"
+        ],
+        "language": "sv"
+      },
+      "error": null,
+      "response_time_sec": 7.95,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "cs",
+      "lang_name": "Czech",
+      "lang_native": "Čeština",
+      "country": "Czech Republic",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 19,
+        "definition_short": 106,
+        "definition_long": 217,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Inženýrství promptů",
+        "definition_short": "Praxe navrhování a optimalizace vstupních textů k řízení velkých jazykových modelů k požadovaným výstupům.",
+        "definition_long": "Inženýrství promptů zahrnuje vytváření specifických vstupů, známých jako prompty, aby se od generativních AI modelů vyvolaly přesné, relevantní a kvalitní odpovědi. Vyžaduje to porozumění tomu, jak modely interpretují",
+        "key_concepts": [
+          "Kontextové vymezení",
+          "Učení s několika ukázkami (Few-shot learning)",
+          "Ladění instrukcí (Instruction tuning)",
+          "Optimalizace tokenů"
+        ],
+        "use_cases": [
+          "Automatické zákaznické podpůrné chatboty",
+          "Asistenti pro generování kódu",
+          "Nástroje pro kreativní psaní"
+        ],
+        "related_terms": [
+          "LLM (Velký jazykový model)",
+          "Chain-of-Thought (Řetězec myšlenek)",
+          "RAG (Retrieval-Augmented Generation / Generace rozšířená o vyhledávání)",
+          "Fine-tuning (Doladění modelu)"
+        ],
+        "language": "cs"
+      },
+      "error": null,
+      "response_time_sec": 8.84,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "da",
+      "lang_name": "Danish",
+      "lang_native": "Dansk",
+      "country": "Denmark",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 18,
+        "definition_short": 111,
+        "definition_long": 235,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Prompt Engineering",
+        "definition_short": "Praksisen med at designe og optimere indtastningstekster for at vejlede store sprogmodeller mod ønskede output.",
+        "definition_long": "Prompt engineering involverer udformningen af specifikke inputs, kendt som prompts, for at fremkalde nøjagtige, relevante og højkvalitets svar fra generative AI-modeller. Det kræver en forståelse af, hvordan modellerne fortolker input.",
+        "key_concepts": [
+          "Kontekstuel ramme",
+          "Few-shot læring",
+          "Instruktionsjustering",
+          "Token-optimering"
+        ],
+        "use_cases": [
+          "Automatiserede kundesupport-chatbots",
+          "Assistenter til kodegenerering",
+          "Hjælpemidler til kreativ skrivning"
+        ],
+        "related_terms": [
+          "LLM (Large Language Model / Stor Sprogmodel)",
+          "Chain-of-Thought (Tankekæde)",
+          "RAG (Retrieval-Augmented Generation / Hentningsforstærket Generering)",
+          "Fine-tuning (Finjustering)"
+        ],
+        "language": "da"
+      },
+      "error": null,
+      "response_time_sec": 31.34,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "fi",
+      "lang_name": "Finnish",
+      "lang_native": "Suomi",
+      "country": "Finland",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 21,
+        "definition_short": 108,
+        "definition_long": 241,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Prompt-insinööritoimi",
+        "definition_short": "Käytäntö, jossa suunnitellaan ja optimoidaan syöteksejä ohjaamaan suuria kielimalleja haluttuihin tuloksiin.",
+        "definition_long": "Prompt-insinööritoimi käsittää spesifien syötteiden, eli promptien, hionnan generatiivisten tekoälymallien tarkkojen, relevanttien ja korkealaatuisten vastausten herättämiseksi. Se vaatii ymmärrystä siitä, miten mallit tulkitsevat syötteitä.",
+        "key_concepts": [
+          "Kontekstuaalinen kehys",
+          "Few-shot-opettelu",
+          "Ohjetunointi",
+          "Tokenien optimointi"
+        ],
+        "use_cases": [
+          "Automaattiset asiakaspalvelun keskustelurobotit",
+          "Koodin luomisen avustajat",
+          "Luovan kirjoittamisen apuvälineet"
+        ],
+        "related_terms": [
+          "LLM (suuri kielimalli)",
+          "Chain-of-Thought (ajatusketju)",
+          "RAG (hakuun perustuva generointi)",
+          "Fine-tuning (tarkennusopettelu)"
+        ],
+        "language": "fi"
+      },
+      "error": null,
+      "response_time_sec": 8.64,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "no",
+      "lang_name": "Norwegian",
+      "lang_native": "Norsk",
+      "country": "Norway",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 17,
+        "definition_short": 113,
+        "definition_long": 268,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Promptingeniørfag",
+        "definition_short": "Praksisen med å designe og optimalisere inndata-tekster for å veilede store språkmodeller mot ønskede resultater.",
+        "definition_long": "Promptingeniørfag involverer utformingen av spesifikke inndata, kjent som prompts, for å fremkalle nøyaktige, relevante og høykvalitets svar fra generative AI-modeller. Det krever forståelse av hvordan modeller tolker kontekst og instruksjoner for å maksimere ytelsen.",
+        "key_concepts": [
+          "Kontekstuell rammesetting",
+          "Læring med få eksempler (few-shot learning)",
+          "Instruksjonstilpasning (instruction tuning)",
+          "Optimalisering av tokens"
+        ],
+        "use_cases": [
+          "Automatiserte kundeservicemeldingsroboter",
+          "Assistenter for kodegenerering",
+          "Verktøy for kreativ skriving"
+        ],
+        "related_terms": [
+          "LLM (Store språkmodeller)",
+          "Chain-of-Thought (Tenkeprosesser i trinn)",
+          "RAG (Retrieval-Augmented Generation / Henteutvidet generering)",
+          "Fine-tuning (Finjustering)"
+        ],
+        "language": "no"
+      },
+      "error": null,
+      "response_time_sec": 8.84,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "he",
+      "lang_name": "Hebrew",
+      "lang_native": "עברית",
+      "country": "Israel",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 12,
+        "definition_short": 84,
+        "definition_long": 199,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "הנדסת הנחיות",
+        "definition_short": "המקצוע של עיצוב ואופטימיזציה של טקסטים קלט להכוונת מודלי שפה גדולים לתוצאות הרצויות.",
+        "definition_long": "הנדסת הנחיות כוללת ניסוח קלטים ספציפיים, המכונים הנחיות (Prompts), כדי להפיק תגובות מדויקות, רלוונטיות ובעלות איכות גבוהה ממודלי בינה מלאכותית יוצרת. הדבר דורש הבנה כיצד מודלים ממפים ומפרשים את הקשר.",
+        "key_concepts": [
+          "מסגור הקשרי",
+          "למידה במספר דוגמאות מועטות (Few-shot learning)",
+          "כוונון הנחיות (Instruction tuning)",
+          "אופטימיזציה של אסימונים (Token optimization)"
+        ],
+        "use_cases": [
+          "בוטים לשירות לקוחות אוטומטי",
+          "עוזרי יצירת קוד",
+          "כלים לכתיבה יצירתית"
+        ],
+        "related_terms": [
+          "LLM (מודל שפה גדול)",
+          "Chain-of-Thought (שרשרת מחשבות)",
+          "RAG (חיזוק יצירה מבוסס החזרה)",
+          "Fine-tuning (כוונון עדין)"
+        ],
+        "language": "he"
+      },
+      "error": null,
+      "response_time_sec": 10.14,
+      "grade": "B-合格"
+    },
+    {
+      "lang": "ro",
+      "lang_name": "Romanian",
+      "lang_native": "Română",
+      "country": "Romania",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 22,
+        "definition_short": 120,
+        "definition_long": 340,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Ingineria Prompturilor",
+        "definition_short": "Practica de proiectare și optimizare a textelor de intrare pentru a ghida modelele lingvistice mari către ieșiri dorite.",
+        "definition_long": "Ingineria prompturilor implică elaborarea unor intrări specifice, cunoscute sub numele de prompturi, pentru a obține răspunsuri precise, relevante și de înaltă calitate de la modelele de inteligență artificială generativă. Aceasta necesită o înțelegere profundă a modului în care modelele interpretează instrucțiunile și contextul furnizat.",
+        "key_concepts": [
+          "Încadrarea contextuală",
+          "Învățarea few-shot",
+          "Ajustarea instrucțiunilor",
+          "Optimizarea tokenilor"
+        ],
+        "use_cases": [
+          "Chatbot-uri automate de asistență clienți",
+          "Asistenți pentru generarea de cod",
+          "Ajutoare pentru scrierea creativă"
+        ],
+        "related_terms": [
+          "LLM (Model Lingvistic Mare)",
+          "Chain-of-Thought (Lanț de Gândire)",
+          "RAG (Generare Îmbogățită cu Recuperare)",
+          "Fine-tuning (Afinare)"
+        ],
+        "language": "ro"
+      },
+      "error": null,
+      "response_time_sec": 9.31,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "hu",
+      "lang_name": "Hungarian",
+      "lang_native": "Magyar",
+      "country": "Hungary",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 16,
+        "definition_short": 140,
+        "definition_long": 291,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Prompt mérnökség",
+        "definition_short": "A gyakorlat, amely az input szövegek tervezésére és optimalizálására irányul, hogy nagy nyelvi modelleket a kívánt kimenetek felé tereljünk.",
+        "definition_long": "A prompt mérnökség magában foglalja a specifikus bemenetek, az úgynevezett promptok megalkotását, amelyekkel pontos, releváns és magas minőségű válaszokat lehet kiváltani a generatív AI modellektől. Ehhez szükséges a modellek működésének és értelmezési mechanizmusainak mélyreható megértése.",
+        "key_concepts": [
+          "Kontextuális keretezés",
+          "Few-shot tanulás",
+          "Instrukció-alapú hangolás",
+          "Token-optimalizálás"
+        ],
+        "use_cases": [
+          "Automatizált ügyfélszolgálati chatbotok",
+          "Kódgeneráló asszisztensek",
+          "Kreatív írást segítő eszközök"
+        ],
+        "related_terms": [
+          "LLM (Nagy Nyelvi Modell)",
+          "Chain-of-Thought (Gondolatmenet-lánc)",
+          "RAG (Retrieval-Augmented Generation / Visszakeresést fokozott generáció)",
+          "Fine-tuning (Finomhangolás)"
+        ],
+        "language": "hu"
+      },
+      "error": null,
+      "response_time_sec": 8.31,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "el",
+      "lang_name": "Greek",
+      "lang_native": "Ελληνικά",
+      "country": "Greece/Cyprus",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 15,
+        "definition_short": 141,
+        "definition_long": 300,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Μηχανική Prompt",
+        "definition_short": "Η πρακτική του σχεδιασμού και βελτιστοποίησης των κειμένων εισόδου για την καθοδήγηση των μεγάλων γλωσσικών μοντέλων προς επιθυμητές εξόδους.",
+        "definition_long": "Η μηχανική prompt περιλαμβάνει τη σύνθεση συγκεκριμένων εισόδων, γνωστών ως prompts, προκειμένου να προκαλέσουν ακριβείς, σχετικές και υψηλής ποιότητας απαντήσεις από τα μοντέλα γενετικής τεχνητής νοημοσύνης. Απαιτεί κατανόηση του τρόπου με τον οποίο τα μοντέλα ερμηνεύουν τις οδηγίες και το πλαίσιο.",
+        "key_concepts": [
+          "Πλαίσιο αναφοράς",
+          "Μάθηση λίγων παραδειγμάτων",
+          "Βελτιστοποίηση εντολών",
+          "Βελτιστοποίηση token"
+        ],
+        "use_cases": [
+          "Αυματοποιημένα chatbots εξυπηρέτησης πελατών",
+          "Βοηθοί δημιουργίας κώδικα",
+          "Εργαλεία δημιουργικής γραφής"
+        ],
+        "related_terms": [
+          "LLM (Μεγάλο Γλωσσικό Μοντέλο)",
+          "Chain-of-Thought (Αλυσίδα Σκέψης)",
+          "RAG (Ανάκτηση Ενισχυμένης Γεννήσεως)",
+          "Fine-tuning (Λεπτομερής Ρύθμιση)"
+        ],
+        "language": "el"
+      },
+      "error": null,
+      "response_time_sec": 52.55,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "bg",
+      "lang_name": "Bulgarian",
+      "lang_native": "Български",
+      "country": "Bulgaria",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 24,
+        "definition_short": 127,
+        "definition_long": 275,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Инженерство на промптове",
+        "definition_short": "Практиката за проектиране и оптимизиране на входните текстове, за да се насочат големите езикови модели към желаните резултати.",
+        "definition_long": "Инженерството на промптове включва създаването на специфични входни данни, известни като промптове, с цел получаване на точни, релевантни и висококачествени отговори от генеративните ИИ модели. То изисква разбиране на това как моделите интерпретират инструкциите и контекста.",
+        "key_concepts": [
+          "Контекстуално рамкиране",
+          "Обучение с малко примери (Few-shot learning)",
+          "Допълнително обучение с инструкции (Instruction tuning)",
+          "Оптимизация на токените"
+        ],
+        "use_cases": [
+          "Автоматизирани чатботове за клиентска поддръжка",
+          "Асистенти за генериране на код",
+          "Помощници за творческо писане"
+        ],
+        "related_terms": [
+          "LLM (Голям езиков модел)",
+          "Chain-of-Thought (Мисловна верига)",
+          "RAG (Възстановяване, генериране и добавяне)",
+          "Fine-tuning (Файн-тюнинг / Допълнително дообучение)"
+        ],
+        "language": "bg"
+      },
+      "error": null,
+      "response_time_sec": 9.51,
+      "grade": "A-优秀"
+    },
+    {
+      "lang": "hr",
+      "lang_name": "Croatian",
+      "lang_native": "Hrvatski",
+      "country": "Croatia",
+      "api_success": true,
+      "fields_complete": true,
+      "fields_filled": 6,
+      "fields_total": 6,
+      "missing_fields": [],
+      "empty_fields": [],
+      "lengths": {
+        "term_name": 17,
+        "definition_short": 119,
+        "definition_long": 230,
+        "key_concepts": 4,
+        "use_cases": 3,
+        "related_terms": 4
+      },
+      "translation": {
+        "term_id": "prompt_engineering",
+        "term_name": "Inženjering upita",
+        "definition_short": "Praksa dizajniranja i optimizacije ulaznih tekstova kako bi se veliki jezični modeli usmjerili prema željenim izlazima.",
+        "definition_long": "Inženjering upita uključuje oblikovanje specifičnih ulaza, poznatih kao upiti, kako bi se od generativnih AI modela dobili točni, relevantni i visokokvalitetni odgovori. Zahtijeva razumijevanje načina na koji modeli interpretiraju",
+        "key_concepts": [
+          "Kontekstualno okvirno postavljanje",
+          "Učenje s malo primjera",
+          "Podešavanje instrukcijama",
+          "Optimizacija tokena"
+        ],
+        "use_cases": [
+          "Automatizirani chatbotovi za korisničku podršku",
+          "Asistenti za generiranje koda",
+          "Pomoćnici za kreativno pisanje"
+        ],
+        "related_terms": [
+          "LLM (Veliki jezični model)",
+          "Chain-of-Thought (Lanac razmišljanja)",
+          "RAG (Retrieval-Augmented Generation / Generacija poboljšana pretraživanjem)",
+          "Fine-tuning (Fino podešavanje)"
+        ],
+        "language": "hr"
+      },
+      "error": null,
+      "response_time_sec": 8.28,
+      "grade": "A-优秀"
+    }
+  ]
+}

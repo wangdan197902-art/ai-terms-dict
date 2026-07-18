@@ -1,0 +1,248 @@
+{
+  "translated_count": 950,
+  "total": 1010,
+  "failed_keys": [
+    {
+      "term_id": "text_embeddings_inference",
+      "lang": "da"
+    },
+    {
+      "term_id": "text_generation",
+      "lang": "da"
+    },
+    {
+      "term_id": "text_generation_inference",
+      "lang": "da"
+    },
+    {
+      "term_id": "text_to_audio",
+      "lang": "da"
+    },
+    {
+      "term_id": "text_to_image",
+      "lang": "da"
+    },
+    {
+      "term_id": "text_to_speech",
+      "lang": "da"
+    },
+    {
+      "term_id": "text_to_video",
+      "lang": "da"
+    },
+    {
+      "term_id": "tflite",
+      "lang": "da"
+    },
+    {
+      "term_id": "the_ai_con",
+      "lang": "da"
+    },
+    {
+      "term_id": "the_master_algorithm",
+      "lang": "da"
+    },
+    {
+      "term_id": "thinking",
+      "lang": "da"
+    },
+    {
+      "term_id": "three_factor_learning",
+      "lang": "da"
+    },
+    {
+      "term_id": "throughput",
+      "lang": "da"
+    },
+    {
+      "term_id": "thudm",
+      "lang": "da"
+    },
+    {
+      "term_id": "time_series",
+      "lang": "da"
+    },
+    {
+      "term_id": "timeline_of_artificial_intelligence_risks_in_global_finance",
+      "lang": "da"
+    },
+    {
+      "term_id": "token_maxxing",
+      "lang": "da"
+    },
+    {
+      "term_id": "toxicity",
+      "lang": "da"
+    },
+    {
+      "term_id": "toxicity_detection",
+      "lang": "da"
+    },
+    {
+      "term_id": "toy_problem",
+      "lang": "da"
+    },
+    {
+      "term_id": "tracing",
+      "lang": "da"
+    },
+    {
+      "term_id": "tree_of_thoughts",
+      "lang": "da"
+    },
+    {
+      "term_id": "trustworthy_ai",
+      "lang": "da"
+    },
+    {
+      "term_id": "tum",
+      "lang": "da"
+    },
+    {
+      "term_id": "type_checker",
+      "lang": "da"
+    },
+    {
+      "term_id": "uncensored",
+      "lang": "da"
+    },
+    {
+      "term_id": "underfitting",
+      "lang": "da"
+    },
+    {
+      "term_id": "unified_model",
+      "lang": "da"
+    },
+    {
+      "term_id": "united_states_tech_force",
+      "lang": "da"
+    },
+    {
+      "term_id": "universal_psychometrics",
+      "lang": "da"
+    },
+    {
+      "term_id": "unsloth",
+      "lang": "da"
+    },
+    {
+      "term_id": "vibevoice",
+      "lang": "da"
+    },
+    {
+      "term_id": "video_super_resolution",
+      "lang": "da"
+    },
+    {
+      "term_id": "virtual_intelligence",
+      "lang": "da"
+    },
+    {
+      "term_id": "vllm",
+      "lang": "da"
+    },
+    {
+      "term_id": "voice",
+      "lang": "da"
+    },
+    {
+      "term_id": "voice_activity_detection",
+      "lang": "da"
+    },
+    {
+      "term_id": "wadhwani_institute_for_artificial_intelligence",
+      "lang": "da"
+    },
+    {
+      "term_id": "watermarking",
+      "lang": "da"
+    },
+    {
+      "term_id": "way_of_the_future",
+      "lang": "da"
+    },
+    {
+      "term_id": "weak_artificial_intelligence",
+      "lang": "da"
+    },
+    {
+      "term_id": "web_intelligence",
+      "lang": "da"
+    },
+    {
+      "term_id": "websocket",
+      "lang": "da"
+    },
+    {
+      "term_id": "webhook",
+      "lang": "da"
+    },
+    {
+      "term_id": "wetware",
+      "lang": "da"
+    },
+    {
+      "term_id": "wetware_computer",
+      "lang": "da"
+    },
+    {
+      "term_id": "whisper",
+      "lang": "da"
+    },
+    {
+      "term_id": "winner_take_all_in_action_selection",
+      "lang": "da"
+    },
+    {
+      "term_id": "wordpiece",
+      "lang": "da"
+    },
+    {
+      "term_id": "workplace_impact_of_artificial_intelligence",
+      "lang": "da"
+    },
+    {
+      "term_id": "wumpus_world",
+      "lang": "da"
+    },
+    {
+      "term_id": "xlm_roberta",
+      "lang": "da"
+    },
+    {
+      "term_id": "zero_shot_prompting",
+      "lang": "da"
+    },
+    {
+      "term_id": "zeuthen_strategy",
+      "lang": "da"
+    },
+    {
+      "term_id": "backdoor_attack",
+      "lang": "da"
+    },
+    {
+      "term_id": "curriculum_learning",
+      "lang": "da"
+    },
+    {
+      "term_id": "data_minimization",
+      "lang": "da"
+    },
+    {
+      "term_id": "model_extraction",
+      "lang": "da"
+    },
+    {
+      "term_id": "right_to_be_forgotten",
+      "lang": "da"
+    },
+    {
+      "term_id": "stereotype",
+      "lang": "da"
+    }
+  ],
+  "lang": "da",
+  "updated_at": "2026-07-18T16:24:08.497702Z"
+}

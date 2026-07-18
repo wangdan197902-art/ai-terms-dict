@@ -1,0 +1,1008 @@
+{
+  "translated_count": 760,
+  "total": 1010,
+  "failed_keys": [
+    {
+      "term_id": "muiltimodal",
+      "lang": "el"
+    },
+    {
+      "term_id": "multi_modality",
+      "lang": "el"
+    },
+    {
+      "term_id": "multi_armed_bandit",
+      "lang": "el"
+    },
+    {
+      "term_id": "multi_task_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "multilingual",
+      "lang": "el"
+    },
+    {
+      "term_id": "multimodal_representation_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "multimodal_sentiment_analysis",
+      "lang": "el"
+    },
+    {
+      "term_id": "multiplicative_weight_update_method",
+      "lang": "el"
+    },
+    {
+      "term_id": "multitask_optimization",
+      "lang": "el"
+    },
+    {
+      "term_id": "multivariate_adaptive_regression_spline",
+      "lang": "el"
+    },
+    {
+      "term_id": "muse_spark",
+      "lang": "el"
+    },
+    {
+      "term_id": "mxfp4",
+      "lang": "el"
+    },
+    {
+      "term_id": "nasa_ai_assisted_air_quality_monitoring_project",
+      "lang": "el"
+    },
+    {
+      "term_id": "native_language_identification",
+      "lang": "el"
+    },
+    {
+      "term_id": "nature_machine_intelligence",
+      "lang": "el"
+    },
+    {
+      "term_id": "neural_computation",
+      "lang": "el"
+    },
+    {
+      "term_id": "neural_modeling_fields",
+      "lang": "el"
+    },
+    {
+      "term_id": "neural_network_quantum_states",
+      "lang": "el"
+    },
+    {
+      "term_id": "neural_scaling_law",
+      "lang": "el"
+    },
+    {
+      "term_id": "neuro_symbolic_ai",
+      "lang": "el"
+    },
+    {
+      "term_id": "neurocomputing",
+      "lang": "el"
+    },
+    {
+      "term_id": "neurorobotics",
+      "lang": "el"
+    },
+    {
+      "term_id": "nolot",
+      "lang": "el"
+    },
+    {
+      "term_id": "non_human",
+      "lang": "el"
+    },
+    {
+      "term_id": "normalization",
+      "lang": "el"
+    },
+    {
+      "term_id": "nouvelle_ai",
+      "lang": "el"
+    },
+    {
+      "term_id": "novelty_detection",
+      "lang": "el"
+    },
+    {
+      "term_id": "nso",
+      "lang": "el"
+    },
+    {
+      "term_id": "nvidia",
+      "lang": "el"
+    },
+    {
+      "term_id": "object_detection",
+      "lang": "el"
+    },
+    {
+      "term_id": "observability",
+      "lang": "el"
+    },
+    {
+      "term_id": "ocr",
+      "lang": "el"
+    },
+    {
+      "term_id": "offline_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "open_source_artificial_intelligence",
+      "lang": "el"
+    },
+    {
+      "term_id": "openvino",
+      "lang": "el"
+    },
+    {
+      "term_id": "operation_serenata_de_amor",
+      "lang": "el"
+    },
+    {
+      "term_id": "organoid_intelligence",
+      "lang": "el"
+    },
+    {
+      "term_id": "outline_of_deep_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "outline_of_machine_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "overlapped_speech_detection",
+      "lang": "el"
+    },
+    {
+      "term_id": "owain_evans",
+      "lang": "el"
+    },
+    {
+      "term_id": "p_tuning",
+      "lang": "el"
+    },
+    {
+      "term_id": "pherc_paris_4",
+      "lang": "el"
+    },
+    {
+      "term_id": "pop_11",
+      "lang": "el"
+    },
+    {
+      "term_id": "pagedattention",
+      "lang": "el"
+    },
+    {
+      "term_id": "parallel_web_systems",
+      "lang": "el"
+    },
+    {
+      "term_id": "paraphrasing",
+      "lang": "el"
+    },
+    {
+      "term_id": "parity_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "pattern_language",
+      "lang": "el"
+    },
+    {
+      "term_id": "pattern_recognition",
+      "lang": "el"
+    },
+    {
+      "term_id": "pattern_theory",
+      "lang": "el"
+    },
+    {
+      "term_id": "pedagogical_agent",
+      "lang": "el"
+    },
+    {
+      "term_id": "perceiver",
+      "lang": "el"
+    },
+    {
+      "term_id": "percept",
+      "lang": "el"
+    },
+    {
+      "term_id": "perception_error_model",
+      "lang": "el"
+    },
+    {
+      "term_id": "personality_computing",
+      "lang": "el"
+    },
+    {
+      "term_id": "personaplex",
+      "lang": "el"
+    },
+    {
+      "term_id": "personoid",
+      "lang": "el"
+    },
+    {
+      "term_id": "perusall",
+      "lang": "el"
+    },
+    {
+      "term_id": "phi",
+      "lang": "el"
+    },
+    {
+      "term_id": "phi_coefficient",
+      "lang": "el"
+    },
+    {
+      "term_id": "phi3",
+      "lang": "el"
+    },
+    {
+      "term_id": "physical_intelligence_inc",
+      "lang": "el"
+    },
+    {
+      "term_id": "podcast",
+      "lang": "el"
+    },
+    {
+      "term_id": "polysemanticity",
+      "lang": "el"
+    },
+    {
+      "term_id": "predictive_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "predictive_state_representation",
+      "lang": "el"
+    },
+    {
+      "term_id": "preference_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "prefix_tuning",
+      "lang": "el"
+    },
+    {
+      "term_id": "pretrained",
+      "lang": "el"
+    },
+    {
+      "term_id": "principle_of_rationality",
+      "lang": "el"
+    },
+    {
+      "term_id": "prior_knowledge_for_pattern_recognition",
+      "lang": "el"
+    },
+    {
+      "term_id": "proactive_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "proaftn",
+      "lang": "el"
+    },
+    {
+      "term_id": "probabilistic_numerics",
+      "lang": "el"
+    },
+    {
+      "term_id": "probability_matching",
+      "lang": "el"
+    },
+    {
+      "term_id": "problem_solving",
+      "lang": "el"
+    },
+    {
+      "term_id": "product_of_experts",
+      "lang": "el"
+    },
+    {
+      "term_id": "products_and_applications_of_openai",
+      "lang": "el"
+    },
+    {
+      "term_id": "programming_by_example",
+      "lang": "el"
+    },
+    {
+      "term_id": "progress_in_artificial_intelligence",
+      "lang": "el"
+    },
+    {
+      "term_id": "prompt_tuning",
+      "lang": "el"
+    },
+    {
+      "term_id": "proximal_gradient_methods_for_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "pruning",
+      "lang": "el"
+    },
+    {
+      "term_id": "psychology_of_reasoning",
+      "lang": "el"
+    },
+    {
+      "term_id": "pyannote",
+      "lang": "el"
+    },
+    {
+      "term_id": "pyannote_audio",
+      "lang": "el"
+    },
+    {
+      "term_id": "pyannote_audio_pipeline",
+      "lang": "el"
+    },
+    {
+      "term_id": "pythia",
+      "lang": "el"
+    },
+    {
+      "term_id": "pytorch_model_hub_mixin",
+      "lang": "el"
+    },
+    {
+      "term_id": "qloo",
+      "lang": "el"
+    },
+    {
+      "term_id": "quantification",
+      "lang": "el"
+    },
+    {
+      "term_id": "quantized",
+      "lang": "el"
+    },
+    {
+      "term_id": "quantum_artificial_life",
+      "lang": "el"
+    },
+    {
+      "term_id": "quantum_machine_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "qwen",
+      "lang": "el"
+    },
+    {
+      "term_id": "qwen_coder",
+      "lang": "el"
+    },
+    {
+      "term_id": "qwen_edit",
+      "lang": "el"
+    },
+    {
+      "term_id": "qwen2",
+      "lang": "el"
+    },
+    {
+      "term_id": "qwen3_5",
+      "lang": "el"
+    },
+    {
+      "term_id": "qwen3_5_moe",
+      "lang": "el"
+    },
+    {
+      "term_id": "qwen35",
+      "lang": "el"
+    },
+    {
+      "term_id": "qwen36",
+      "lang": "el"
+    },
+    {
+      "term_id": "rocm",
+      "lang": "el"
+    },
+    {
+      "term_id": "rabbit_r1",
+      "lang": "el"
+    },
+    {
+      "term_id": "rademacher_complexity",
+      "lang": "el"
+    },
+    {
+      "term_id": "random_feature",
+      "lang": "el"
+    },
+    {
+      "term_id": "rate_limiting",
+      "lang": "el"
+    },
+    {
+      "term_id": "reasoning_model",
+      "lang": "el"
+    },
+    {
+      "term_id": "reciprocal_human_machine_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "recursive_self_improvement",
+      "lang": "el"
+    },
+    {
+      "term_id": "reflection",
+      "lang": "el"
+    },
+    {
+      "term_id": "regularization",
+      "lang": "el"
+    },
+    {
+      "term_id": "relational_data_mining",
+      "lang": "el"
+    },
+    {
+      "term_id": "reliability",
+      "lang": "el"
+    },
+    {
+      "term_id": "reparameterization_trick",
+      "lang": "el"
+    },
+    {
+      "term_id": "representation_collapse",
+      "lang": "el"
+    },
+    {
+      "term_id": "reranking",
+      "lang": "el"
+    },
+    {
+      "term_id": "resisting_ai",
+      "lang": "el"
+    },
+    {
+      "term_id": "responsible_ai",
+      "lang": "el"
+    },
+    {
+      "term_id": "right_to_explanation",
+      "lang": "el"
+    },
+    {
+      "term_id": "robot_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "robotic_process_automation",
+      "lang": "el"
+    },
+    {
+      "term_id": "robustness",
+      "lang": "el"
+    },
+    {
+      "term_id": "rule_induction",
+      "lang": "el"
+    },
+    {
+      "term_id": "rust",
+      "lang": "el"
+    },
+    {
+      "term_id": "stit_logic",
+      "lang": "el"
+    },
+    {
+      "term_id": "sups",
+      "lang": "el"
+    },
+    {
+      "term_id": "sam3",
+      "lang": "el"
+    },
+    {
+      "term_id": "sam3_video",
+      "lang": "el"
+    },
+    {
+      "term_id": "sample_complexity",
+      "lang": "el"
+    },
+    {
+      "term_id": "schema_agnostic_databases",
+      "lang": "el"
+    },
+    {
+      "term_id": "self_consistency",
+      "lang": "el"
+    },
+    {
+      "term_id": "self_management",
+      "lang": "el"
+    },
+    {
+      "term_id": "semantic_analysis",
+      "lang": "el"
+    },
+    {
+      "term_id": "semantic_folding",
+      "lang": "el"
+    },
+    {
+      "term_id": "semi_supervised_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "sentence_similarity",
+      "lang": "el"
+    },
+    {
+      "term_id": "sentence_transformers",
+      "lang": "el"
+    },
+    {
+      "term_id": "sentencepiece",
+      "lang": "el"
+    },
+    {
+      "term_id": "sequence_labeling",
+      "lang": "el"
+    },
+    {
+      "term_id": "server_sent_events",
+      "lang": "el"
+    },
+    {
+      "term_id": "serverless",
+      "lang": "el"
+    },
+    {
+      "term_id": "sigmoid",
+      "lang": "el"
+    },
+    {
+      "term_id": "similarity_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "singularity_studies",
+      "lang": "el"
+    },
+    {
+      "term_id": "situated",
+      "lang": "el"
+    },
+    {
+      "term_id": "situated_approach",
+      "lang": "el"
+    },
+    {
+      "term_id": "slopaganda",
+      "lang": "el"
+    },
+    {
+      "term_id": "smart_object",
+      "lang": "el"
+    },
+    {
+      "term_id": "smart_speaker_industry_in_south_korea",
+      "lang": "el"
+    },
+    {
+      "term_id": "socially_assistive_robot",
+      "lang": "el"
+    },
+    {
+      "term_id": "software_agent",
+      "lang": "el"
+    },
+    {
+      "term_id": "solomonoffs_theory_of_inductive_inference",
+      "lang": "el"
+    },
+    {
+      "term_id": "something_big_is_happening",
+      "lang": "el"
+    },
+    {
+      "term_id": "source_attribution",
+      "lang": "el"
+    },
+    {
+      "term_id": "sovereign_ai",
+      "lang": "el"
+    },
+    {
+      "term_id": "space_based_data_center",
+      "lang": "el"
+    },
+    {
+      "term_id": "sparkles_emoji",
+      "lang": "el"
+    },
+    {
+      "term_id": "spatial_embedding",
+      "lang": "el"
+    },
+    {
+      "term_id": "spatial_intelligence",
+      "lang": "el"
+    },
+    {
+      "term_id": "speaker",
+      "lang": "el"
+    },
+    {
+      "term_id": "speaker_change_detection",
+      "lang": "el"
+    },
+    {
+      "term_id": "speaker_diarization",
+      "lang": "el"
+    },
+    {
+      "term_id": "speech_to_speech",
+      "lang": "el"
+    },
+    {
+      "term_id": "spike_and_slab_regression",
+      "lang": "el"
+    },
+    {
+      "term_id": "spreading_activation",
+      "lang": "el"
+    },
+    {
+      "term_id": "stability",
+      "lang": "el"
+    },
+    {
+      "term_id": "stable_diffusion",
+      "lang": "el"
+    },
+    {
+      "term_id": "stable_diffusion_diffusers",
+      "lang": "el"
+    },
+    {
+      "term_id": "statistical_learning_theory",
+      "lang": "el"
+    },
+    {
+      "term_id": "statistical_relational_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "streaming",
+      "lang": "el"
+    },
+    {
+      "term_id": "structural_risk_minimization",
+      "lang": "el"
+    },
+    {
+      "term_id": "structured_sparsity_regularization",
+      "lang": "el"
+    },
+    {
+      "term_id": "superintelligence_ban",
+      "lang": "el"
+    },
+    {
+      "term_id": "supermind_ai",
+      "lang": "el"
+    },
+    {
+      "term_id": "surrogate_model",
+      "lang": "el"
+    },
+    {
+      "term_id": "sycophancy",
+      "lang": "el"
+    },
+    {
+      "term_id": "syman",
+      "lang": "el"
+    },
+    {
+      "term_id": "symbol_level",
+      "lang": "el"
+    },
+    {
+      "term_id": "symbolic_artificial_intelligence",
+      "lang": "el"
+    },
+    {
+      "term_id": "symbolic_regression",
+      "lang": "el"
+    },
+    {
+      "term_id": "t2i",
+      "lang": "el"
+    },
+    {
+      "term_id": "tanh",
+      "lang": "el"
+    },
+    {
+      "term_id": "temporal_bias",
+      "lang": "el"
+    },
+    {
+      "term_id": "tensor",
+      "lang": "el"
+    },
+    {
+      "term_id": "tensorflow_hub",
+      "lang": "el"
+    },
+    {
+      "term_id": "tensorboard",
+      "lang": "el"
+    },
+    {
+      "term_id": "text_classification",
+      "lang": "el"
+    },
+    {
+      "term_id": "text_embeddings_inference",
+      "lang": "el"
+    },
+    {
+      "term_id": "text_generation",
+      "lang": "el"
+    },
+    {
+      "term_id": "text_generation_inference",
+      "lang": "el"
+    },
+    {
+      "term_id": "text_to_audio",
+      "lang": "el"
+    },
+    {
+      "term_id": "text_to_image",
+      "lang": "el"
+    },
+    {
+      "term_id": "text_to_speech",
+      "lang": "el"
+    },
+    {
+      "term_id": "text_to_video",
+      "lang": "el"
+    },
+    {
+      "term_id": "tflite",
+      "lang": "el"
+    },
+    {
+      "term_id": "the_ai_con",
+      "lang": "el"
+    },
+    {
+      "term_id": "the_master_algorithm",
+      "lang": "el"
+    },
+    {
+      "term_id": "thinking",
+      "lang": "el"
+    },
+    {
+      "term_id": "three_factor_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "throughput",
+      "lang": "el"
+    },
+    {
+      "term_id": "thudm",
+      "lang": "el"
+    },
+    {
+      "term_id": "time_series",
+      "lang": "el"
+    },
+    {
+      "term_id": "timeline_of_artificial_intelligence_risks_in_global_finance",
+      "lang": "el"
+    },
+    {
+      "term_id": "token_maxxing",
+      "lang": "el"
+    },
+    {
+      "term_id": "toxicity",
+      "lang": "el"
+    },
+    {
+      "term_id": "toxicity_detection",
+      "lang": "el"
+    },
+    {
+      "term_id": "toy_problem",
+      "lang": "el"
+    },
+    {
+      "term_id": "tracing",
+      "lang": "el"
+    },
+    {
+      "term_id": "tree_of_thoughts",
+      "lang": "el"
+    },
+    {
+      "term_id": "trustworthy_ai",
+      "lang": "el"
+    },
+    {
+      "term_id": "tum",
+      "lang": "el"
+    },
+    {
+      "term_id": "type_checker",
+      "lang": "el"
+    },
+    {
+      "term_id": "uncensored",
+      "lang": "el"
+    },
+    {
+      "term_id": "underfitting",
+      "lang": "el"
+    },
+    {
+      "term_id": "unified_model",
+      "lang": "el"
+    },
+    {
+      "term_id": "united_states_tech_force",
+      "lang": "el"
+    },
+    {
+      "term_id": "universal_psychometrics",
+      "lang": "el"
+    },
+    {
+      "term_id": "unsloth",
+      "lang": "el"
+    },
+    {
+      "term_id": "vibevoice",
+      "lang": "el"
+    },
+    {
+      "term_id": "video_super_resolution",
+      "lang": "el"
+    },
+    {
+      "term_id": "virtual_intelligence",
+      "lang": "el"
+    },
+    {
+      "term_id": "vllm",
+      "lang": "el"
+    },
+    {
+      "term_id": "voice",
+      "lang": "el"
+    },
+    {
+      "term_id": "voice_activity_detection",
+      "lang": "el"
+    },
+    {
+      "term_id": "wadhwani_institute_for_artificial_intelligence",
+      "lang": "el"
+    },
+    {
+      "term_id": "watermarking",
+      "lang": "el"
+    },
+    {
+      "term_id": "way_of_the_future",
+      "lang": "el"
+    },
+    {
+      "term_id": "weak_artificial_intelligence",
+      "lang": "el"
+    },
+    {
+      "term_id": "web_intelligence",
+      "lang": "el"
+    },
+    {
+      "term_id": "websocket",
+      "lang": "el"
+    },
+    {
+      "term_id": "webhook",
+      "lang": "el"
+    },
+    {
+      "term_id": "wetware",
+      "lang": "el"
+    },
+    {
+      "term_id": "wetware_computer",
+      "lang": "el"
+    },
+    {
+      "term_id": "whisper",
+      "lang": "el"
+    },
+    {
+      "term_id": "winner_take_all_in_action_selection",
+      "lang": "el"
+    },
+    {
+      "term_id": "wordpiece",
+      "lang": "el"
+    },
+    {
+      "term_id": "workplace_impact_of_artificial_intelligence",
+      "lang": "el"
+    },
+    {
+      "term_id": "wumpus_world",
+      "lang": "el"
+    },
+    {
+      "term_id": "xlm_roberta",
+      "lang": "el"
+    },
+    {
+      "term_id": "zero_shot_prompting",
+      "lang": "el"
+    },
+    {
+      "term_id": "zeuthen_strategy",
+      "lang": "el"
+    },
+    {
+      "term_id": "backdoor_attack",
+      "lang": "el"
+    },
+    {
+      "term_id": "curriculum_learning",
+      "lang": "el"
+    },
+    {
+      "term_id": "data_minimization",
+      "lang": "el"
+    },
+    {
+      "term_id": "model_extraction",
+      "lang": "el"
+    },
+    {
+      "term_id": "right_to_be_forgotten",
+      "lang": "el"
+    },
+    {
+      "term_id": "stereotype",
+      "lang": "el"
+    }
+  ],
+  "lang": "el",
+  "updated_at": "2026-07-18T16:32:24.606224Z"
+}

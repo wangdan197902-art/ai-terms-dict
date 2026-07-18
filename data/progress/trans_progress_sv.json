@@ -1,0 +1,308 @@
+{
+  "translated_count": 935,
+  "total": 1010,
+  "failed_keys": [
+    {
+      "term_id": "superintelligence_ban",
+      "lang": "sv"
+    },
+    {
+      "term_id": "supermind_ai",
+      "lang": "sv"
+    },
+    {
+      "term_id": "surrogate_model",
+      "lang": "sv"
+    },
+    {
+      "term_id": "sycophancy",
+      "lang": "sv"
+    },
+    {
+      "term_id": "syman",
+      "lang": "sv"
+    },
+    {
+      "term_id": "symbol_level",
+      "lang": "sv"
+    },
+    {
+      "term_id": "symbolic_artificial_intelligence",
+      "lang": "sv"
+    },
+    {
+      "term_id": "symbolic_regression",
+      "lang": "sv"
+    },
+    {
+      "term_id": "t2i",
+      "lang": "sv"
+    },
+    {
+      "term_id": "tanh",
+      "lang": "sv"
+    },
+    {
+      "term_id": "temporal_bias",
+      "lang": "sv"
+    },
+    {
+      "term_id": "tensor",
+      "lang": "sv"
+    },
+    {
+      "term_id": "tensorflow_hub",
+      "lang": "sv"
+    },
+    {
+      "term_id": "tensorboard",
+      "lang": "sv"
+    },
+    {
+      "term_id": "text_classification",
+      "lang": "sv"
+    },
+    {
+      "term_id": "text_embeddings_inference",
+      "lang": "sv"
+    },
+    {
+      "term_id": "text_generation",
+      "lang": "sv"
+    },
+    {
+      "term_id": "text_generation_inference",
+      "lang": "sv"
+    },
+    {
+      "term_id": "text_to_audio",
+      "lang": "sv"
+    },
+    {
+      "term_id": "text_to_image",
+      "lang": "sv"
+    },
+    {
+      "term_id": "text_to_speech",
+      "lang": "sv"
+    },
+    {
+      "term_id": "text_to_video",
+      "lang": "sv"
+    },
+    {
+      "term_id": "tflite",
+      "lang": "sv"
+    },
+    {
+      "term_id": "the_ai_con",
+      "lang": "sv"
+    },
+    {
+      "term_id": "the_master_algorithm",
+      "lang": "sv"
+    },
+    {
+      "term_id": "thinking",
+      "lang": "sv"
+    },
+    {
+      "term_id": "three_factor_learning",
+      "lang": "sv"
+    },
+    {
+      "term_id": "throughput",
+      "lang": "sv"
+    },
+    {
+      "term_id": "thudm",
+      "lang": "sv"
+    },
+    {
+      "term_id": "time_series",
+      "lang": "sv"
+    },
+    {
+      "term_id": "timeline_of_artificial_intelligence_risks_in_global_finance",
+      "lang": "sv"
+    },
+    {
+      "term_id": "token_maxxing",
+      "lang": "sv"
+    },
+    {
+      "term_id": "toxicity",
+      "lang": "sv"
+    },
+    {
+      "term_id": "toxicity_detection",
+      "lang": "sv"
+    },
+    {
+      "term_id": "toy_problem",
+      "lang": "sv"
+    },
+    {
+      "term_id": "tracing",
+      "lang": "sv"
+    },
+    {
+      "term_id": "tree_of_thoughts",
+      "lang": "sv"
+    },
+    {
+      "term_id": "trustworthy_ai",
+      "lang": "sv"
+    },
+    {
+      "term_id": "tum",
+      "lang": "sv"
+    },
+    {
+      "term_id": "type_checker",
+      "lang": "sv"
+    },
+    {
+      "term_id": "uncensored",
+      "lang": "sv"
+    },
+    {
+      "term_id": "underfitting",
+      "lang": "sv"
+    },
+    {
+      "term_id": "unified_model",
+      "lang": "sv"
+    },
+    {
+      "term_id": "united_states_tech_force",
+      "lang": "sv"
+    },
+    {
+      "term_id": "universal_psychometrics",
+      "lang": "sv"
+    },
+    {
+      "term_id": "unsloth",
+      "lang": "sv"
+    },
+    {
+      "term_id": "vibevoice",
+      "lang": "sv"
+    },
+    {
+      "term_id": "video_super_resolution",
+      "lang": "sv"
+    },
+    {
+      "term_id": "virtual_intelligence",
+      "lang": "sv"
+    },
+    {
+      "term_id": "vllm",
+      "lang": "sv"
+    },
+    {
+      "term_id": "voice",
+      "lang": "sv"
+    },
+    {
+      "term_id": "voice_activity_detection",
+      "lang": "sv"
+    },
+    {
+      "term_id": "wadhwani_institute_for_artificial_intelligence",
+      "lang": "sv"
+    },
+    {
+      "term_id": "watermarking",
+      "lang": "sv"
+    },
+    {
+      "term_id": "way_of_the_future",
+      "lang": "sv"
+    },
+    {
+      "term_id": "weak_artificial_intelligence",
+      "lang": "sv"
+    },
+    {
+      "term_id": "web_intelligence",
+      "lang": "sv"
+    },
+    {
+      "term_id": "websocket",
+      "lang": "sv"
+    },
+    {
+      "term_id": "webhook",
+      "lang": "sv"
+    },
+    {
+      "term_id": "wetware",
+      "lang": "sv"
+    },
+    {
+      "term_id": "wetware_computer",
+      "lang": "sv"
+    },
+    {
+      "term_id": "whisper",
+      "lang": "sv"
+    },
+    {
+      "term_id": "winner_take_all_in_action_selection",
+      "lang": "sv"
+    },
+    {
+      "term_id": "wordpiece",
+      "lang": "sv"
+    },
+    {
+      "term_id": "workplace_impact_of_artificial_intelligence",
+      "lang": "sv"
+    },
+    {
+      "term_id": "wumpus_world",
+      "lang": "sv"
+    },
+    {
+      "term_id": "xlm_roberta",
+      "lang": "sv"
+    },
+    {
+      "term_id": "zero_shot_prompting",
+      "lang": "sv"
+    },
+    {
+      "term_id": "zeuthen_strategy",
+      "lang": "sv"
+    },
+    {
+      "term_id": "backdoor_attack",
+      "lang": "sv"
+    },
+    {
+      "term_id": "curriculum_learning",
+      "lang": "sv"
+    },
+    {
+      "term_id": "data_minimization",
+      "lang": "sv"
+    },
+    {
+      "term_id": "model_extraction",
+      "lang": "sv"
+    },
+    {
+      "term_id": "right_to_be_forgotten",
+      "lang": "sv"
+    },
+    {
+      "term_id": "stereotype",
+      "lang": "sv"
+    }
+  ],
+  "lang": "sv",
+  "updated_at": "2026-07-18T16:24:38.199527Z"
+}

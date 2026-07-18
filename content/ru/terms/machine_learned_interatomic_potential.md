@@ -1,0 +1,47 @@
+---
+title: "Межатомный потенциал, изучаемый с помощью машинного обучения"
+term_id: "machine_learned_interatomic_potential"
+category: "basic_concepts"
+subcategory: ""
+tags: ["science", "simulation", "chemistry"]
+difficulty: 5
+weight: 1
+slug: "machine_learned_interatomic_potential"
+aliases:
+  - /ru/terms/machine_learned_interatomic_potential/
+date: "2026-07-18T16:03:47.057377Z"
+lastmod: "2026-07-18T16:38:07.178566Z"
+draft: false
+source: "agnes_llm"
+status: "published"
+language: "ru"
+description: "Математическая функция на основе машинного обучения, которая предсказывает силы и энергии взаимодействия между атомами, служащая заменой дорогостоящим квантово-механическим расчетам."
+---
+
+## Definition
+
+Такие потенциалы позволяют проводить молекулярно-динамические симуляции с точностью, близкой к квантовой, но со скоростью классических вычислений. Обучаясь на высокоточных данных теории функционала плотности (DFT), они позволяют...
+
+### Summary
+
+Математическая функция на основе машинного обучения, которая предсказывает силы и энергии взаимодействия между атомами, служащая заменой дорогостоящим квантово-механическим расчетам.
+
+## Key Concepts
+
+- Молекулярная динамика
+- Замена квантовой механики
+- Силовые поля
+- Наука о материалах
+
+## Use Cases
+
+- Открытие лекарств и фолдинг белков
+- Разработка новых материалов для батарей
+- Масштабное моделирование химических реакций
+
+## Related Terms
+
+- [Density Functional Theory (Теория функционала плотности)](/en/terms/density-functional-theory-теория-функционала-плотности/)
+- [Molecular Dynamics (Молекулярная динамика)](/en/terms/molecular-dynamics-молекулярная-динамика/)
+- [Force Field (Силовое поле)](/en/terms/force-field-силовое-поле/)
+- [Computational Chemistry (Вычислительная химия)](/en/terms/computational-chemistry-вычислительная-химия/)

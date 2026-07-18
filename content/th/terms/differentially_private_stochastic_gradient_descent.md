@@ -1,0 +1,47 @@
+---
+title: "การลดความชันแบบสุ่มที่มีความเป็นส่วนตัวเชิงอนุพันธ์"
+term_id: "differentially_private_stochastic_gradient_descent"
+category: "training_techniques"
+subcategory: ""
+tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+difficulty: 5
+weight: 1
+slug: "differentially_private_stochastic_gradient_descent"
+aliases:
+  - /th/terms/differentially_private_stochastic_gradient_descent/
+date: "2026-07-18T15:50:17.434087Z"
+lastmod: "2026-07-18T16:38:07.598720Z"
+draft: false
+source: "agnes_llm"
+status: "published"
+language: "th"
+description: "อัลกอริทึมการเพิ่มประสิทธิภาพที่แก้ไข SGD มาตรฐานโดยการตัดแต่งเกรเดียนต์และเพิ่มสัญญาณรบกวนเพื่อให้แน่ใจว่าโมเดลที่ฝึกแล้วสอดคล้องกับข้อจำกัดของความเป็นส่วนตัวเชิงอนุพันธ์"
+---
+
+## Definition
+
+DP-SGD เป็นรูปแบบหนึ่งของ Stochastic Gradient Descent ที่ออกแบบมาเพื่อปกป้องความเป็นส่วนตัวของข้อมูลการฝึก มันทำงานโดยการตัดแต่งการมีส่วนร่วมของเกรเดียนต์จากแต่ละตัวอย่างเพื่อจำกัดความไว จากนั้นเพิ่มสัญญาณรบกวนแบบเกาส์เซียน
+
+### Summary
+
+อัลกอริทึมการเพิ่มประสิทธิภาพที่แก้ไข SGD มาตรฐานโดยการตัดแต่งเกรเดียนต์และเพิ่มสัญญาณรบกวนเพื่อให้แน่ใจว่าโมเดลที่ฝึกแล้วสอดคล้องกับข้อจำกัดของความเป็นส่วนตัวเชิงอนุพันธ์
+
+## Key Concepts
+
+- การตัดแต่งเกรเดียนต์
+- การฉีดสัญญาณรบกวนแบบเกาส์เซียน
+- การสุ่มตัวอย่างตัวอย่าง
+- การบัญชีความเป็นส่วนตัว
+
+## Use Cases
+
+- การฝึกเครือข่ายประสาทเทียมลึกด้วยข้อมูลผู้ใช้ที่เป็นส่วนตัว
+- การสร้างแบบจำลองการทำนายในภาคสุขภาพ
+- การตรวจจับการฉ้อโกงทางการเงินด้วยข้อมูลที่อยู่ภายใต้กฎระเบียบ
+
+## Related Terms
+
+- [Differential Privacy (ความเป็นส่วนตัวเชิงอนุพันธ์)](/en/terms/differential-privacy-ความเป-นส-วนต-วเช-งอน-พ-นธ/)
+- [SGD (การลดความชันแบบสุ่ม)](/en/terms/sgd-การลดความช-นแบบส-ม/)
+- [Model Inversion Attacks (การโจมตีด้วยการย้อนกลับโมเดล)](/en/terms/model-inversion-attacks-การโจมต-ด-วยการย-อนกล-บโมเดล/)
+- [Privacy Budget (งบประมาณความเป็นส่วนตัว)](/en/terms/privacy-budget-งบประมาณความเป-นส-วนต-ว/)

@@ -1,0 +1,46 @@
+---
+title: "Набор данных: Данные для встраивания / Altlex"
+term_id: "datasetembedding_dataaltlex"
+category: "training_techniques"
+subcategory: ""
+tags: ["NLP", "Datasets", "Semantics"]
+difficulty: 3
+weight: 1
+slug: "datasetembedding_dataaltlex"
+aliases:
+  - /ru/terms/datasetembedding_dataaltlex/
+date: "2026-07-18T15:47:55.291106Z"
+lastmod: "2026-07-18T16:38:07.139653Z"
+draft: false
+source: "agnes_llm"
+status: "published"
+language: "ru"
+description: "Набор данных, содержащий альтернативные лексические формы, используемые для обучения моделей распознаванию семантического эквивалента и обнаружения парафразов."
+---
+
+## Definition
+
+Набор данных Altlex состоит из пар предложений, имеющих одинаковое основное значение, но использующих различную лексику или синтаксические структуры. Он преимущественно применяется для обучения моделей встраивания.
+
+### Summary
+
+Набор данных, содержащий альтернативные лексические формы, используемые для обучения моделей распознаванию семантического эквивалента и обнаружения парафразов.
+
+## Key Concepts
+
+- Семантическая эквивалентность
+- Обнаружение парафразов
+- Лексическое разнообразие
+- Векторное сходство
+
+## Use Cases
+
+- Обучение семантических поисковых систем
+- Улучшение систем ответов на вопросы
+- Повышение точности метрик текстового сходства
+
+## Related Terms
+
+- [Семантические встраивания (Semantic Embeddings)](/en/terms/семантические-встраивания-semantic-embeddings/)
+- [Идентификация парафразов (Paraphrase Identification)](/en/terms/идентификация-парафразов-paraphrase-identification/)
+- [Разрешение многозначности слов (Word Sense Disambiguation)](/en/terms/разрешение-многозначности-слов-word-sense-disambiguation/)

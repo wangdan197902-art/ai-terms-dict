@@ -1,0 +1,348 @@
+{
+  "translated_count": 925,
+  "total": 1010,
+  "failed_keys": [
+    {
+      "term_id": "linear_predictor_function",
+      "lang": "ar"
+    },
+    {
+      "term_id": "linear_separability",
+      "lang": "ar"
+    },
+    {
+      "term_id": "linter",
+      "lang": "ar"
+    },
+    {
+      "term_id": "lists_of_open_source_artificial_intelligence_software",
+      "lang": "ar"
+    },
+    {
+      "term_id": "llama",
+      "lang": "ar"
+    },
+    {
+      "term_id": "statistical_learning_theory",
+      "lang": "ar"
+    },
+    {
+      "term_id": "statistical_relational_learning",
+      "lang": "ar"
+    },
+    {
+      "term_id": "streaming",
+      "lang": "ar"
+    },
+    {
+      "term_id": "structural_risk_minimization",
+      "lang": "ar"
+    },
+    {
+      "term_id": "structured_sparsity_regularization",
+      "lang": "ar"
+    },
+    {
+      "term_id": "superintelligence_ban",
+      "lang": "ar"
+    },
+    {
+      "term_id": "supermind_ai",
+      "lang": "ar"
+    },
+    {
+      "term_id": "surrogate_model",
+      "lang": "ar"
+    },
+    {
+      "term_id": "sycophancy",
+      "lang": "ar"
+    },
+    {
+      "term_id": "syman",
+      "lang": "ar"
+    },
+    {
+      "term_id": "symbol_level",
+      "lang": "ar"
+    },
+    {
+      "term_id": "symbolic_artificial_intelligence",
+      "lang": "ar"
+    },
+    {
+      "term_id": "symbolic_regression",
+      "lang": "ar"
+    },
+    {
+      "term_id": "t2i",
+      "lang": "ar"
+    },
+    {
+      "term_id": "tanh",
+      "lang": "ar"
+    },
+    {
+      "term_id": "temporal_bias",
+      "lang": "ar"
+    },
+    {
+      "term_id": "tensor",
+      "lang": "ar"
+    },
+    {
+      "term_id": "tensorflow_hub",
+      "lang": "ar"
+    },
+    {
+      "term_id": "tensorboard",
+      "lang": "ar"
+    },
+    {
+      "term_id": "text_classification",
+      "lang": "ar"
+    },
+    {
+      "term_id": "text_embeddings_inference",
+      "lang": "ar"
+    },
+    {
+      "term_id": "text_generation",
+      "lang": "ar"
+    },
+    {
+      "term_id": "text_generation_inference",
+      "lang": "ar"
+    },
+    {
+      "term_id": "text_to_audio",
+      "lang": "ar"
+    },
+    {
+      "term_id": "text_to_image",
+      "lang": "ar"
+    },
+    {
+      "term_id": "text_to_speech",
+      "lang": "ar"
+    },
+    {
+      "term_id": "text_to_video",
+      "lang": "ar"
+    },
+    {
+      "term_id": "tflite",
+      "lang": "ar"
+    },
+    {
+      "term_id": "the_ai_con",
+      "lang": "ar"
+    },
+    {
+      "term_id": "the_master_algorithm",
+      "lang": "ar"
+    },
+    {
+      "term_id": "thinking",
+      "lang": "ar"
+    },
+    {
+      "term_id": "three_factor_learning",
+      "lang": "ar"
+    },
+    {
+      "term_id": "throughput",
+      "lang": "ar"
+    },
+    {
+      "term_id": "thudm",
+      "lang": "ar"
+    },
+    {
+      "term_id": "time_series",
+      "lang": "ar"
+    },
+    {
+      "term_id": "timeline_of_artificial_intelligence_risks_in_global_finance",
+      "lang": "ar"
+    },
+    {
+      "term_id": "token_maxxing",
+      "lang": "ar"
+    },
+    {
+      "term_id": "toxicity",
+      "lang": "ar"
+    },
+    {
+      "term_id": "toxicity_detection",
+      "lang": "ar"
+    },
+    {
+      "term_id": "toy_problem",
+      "lang": "ar"
+    },
+    {
+      "term_id": "tracing",
+      "lang": "ar"
+    },
+    {
+      "term_id": "tree_of_thoughts",
+      "lang": "ar"
+    },
+    {
+      "term_id": "trustworthy_ai",
+      "lang": "ar"
+    },
+    {
+      "term_id": "tum",
+      "lang": "ar"
+    },
+    {
+      "term_id": "type_checker",
+      "lang": "ar"
+    },
+    {
+      "term_id": "uncensored",
+      "lang": "ar"
+    },
+    {
+      "term_id": "underfitting",
+      "lang": "ar"
+    },
+    {
+      "term_id": "unified_model",
+      "lang": "ar"
+    },
+    {
+      "term_id": "united_states_tech_force",
+      "lang": "ar"
+    },
+    {
+      "term_id": "universal_psychometrics",
+      "lang": "ar"
+    },
+    {
+      "term_id": "unsloth",
+      "lang": "ar"
+    },
+    {
+      "term_id": "vibevoice",
+      "lang": "ar"
+    },
+    {
+      "term_id": "video_super_resolution",
+      "lang": "ar"
+    },
+    {
+      "term_id": "virtual_intelligence",
+      "lang": "ar"
+    },
+    {
+      "term_id": "vllm",
+      "lang": "ar"
+    },
+    {
+      "term_id": "voice",
+      "lang": "ar"
+    },
+    {
+      "term_id": "voice_activity_detection",
+      "lang": "ar"
+    },
+    {
+      "term_id": "wadhwani_institute_for_artificial_intelligence",
+      "lang": "ar"
+    },
+    {
+      "term_id": "watermarking",
+      "lang": "ar"
+    },
+    {
+      "term_id": "way_of_the_future",
+      "lang": "ar"
+    },
+    {
+      "term_id": "weak_artificial_intelligence",
+      "lang": "ar"
+    },
+    {
+      "term_id": "web_intelligence",
+      "lang": "ar"
+    },
+    {
+      "term_id": "websocket",
+      "lang": "ar"
+    },
+    {
+      "term_id": "webhook",
+      "lang": "ar"
+    },
+    {
+      "term_id": "wetware",
+      "lang": "ar"
+    },
+    {
+      "term_id": "wetware_computer",
+      "lang": "ar"
+    },
+    {
+      "term_id": "whisper",
+      "lang": "ar"
+    },
+    {
+      "term_id": "winner_take_all_in_action_selection",
+      "lang": "ar"
+    },
+    {
+      "term_id": "wordpiece",
+      "lang": "ar"
+    },
+    {
+      "term_id": "workplace_impact_of_artificial_intelligence",
+      "lang": "ar"
+    },
+    {
+      "term_id": "wumpus_world",
+      "lang": "ar"
+    },
+    {
+      "term_id": "xlm_roberta",
+      "lang": "ar"
+    },
+    {
+      "term_id": "zero_shot_prompting",
+      "lang": "ar"
+    },
+    {
+      "term_id": "zeuthen_strategy",
+      "lang": "ar"
+    },
+    {
+      "term_id": "backdoor_attack",
+      "lang": "ar"
+    },
+    {
+      "term_id": "curriculum_learning",
+      "lang": "ar"
+    },
+    {
+      "term_id": "data_minimization",
+      "lang": "ar"
+    },
+    {
+      "term_id": "model_extraction",
+      "lang": "ar"
+    },
+    {
+      "term_id": "right_to_be_forgotten",
+      "lang": "ar"
+    },
+    {
+      "term_id": "stereotype",
+      "lang": "ar"
+    }
+  ],
+  "lang": "ar",
+  "updated_at": "2026-07-18T16:24:47.265704Z"
+}

@@ -1,0 +1,47 @@
+---
+title: "คณิตศาสตร์เชิงความน่าจะเป็น"
+term_id: "probabilistic_numerics"
+category: "basic_concepts"
+subcategory: ""
+tags: ["numerics", "uncertainty", "bayesian"]
+difficulty: 4
+weight: 1
+slug: "probabilistic_numerics"
+aliases:
+  - /th/terms/probabilistic_numerics/
+date: "2026-07-18T16:11:33.848680Z"
+lastmod: "2026-07-18T16:38:07.644239Z"
+draft: false
+source: "agnes_llm"
+status: "published"
+language: "th"
+description: "สาขาวิชาที่มองปัญหาการคำนวณเชิงตัวเลขว่าเป็นงานอนุมานทางสถิติ เพื่อวัดปริมาณความไม่แน่นอนในผลลัพธ์"
+---
+
+## Definition
+
+คณิตศาสตร์เชิงความน่าจะเป็นใช้วิธีการแบบเบย์กับปัญหาการคำนวณเชิงตัวเลขดั้งเดิม เช่น การอินทิเกรต การหาอนุพันธ์ และพีชคณิตเชิงเส้น แทนที่จะให้ค่าประมาณจุดเดียว วิธีการนี้จะส่งออกการกระจายความน่าจะเป็นเพื่อแสดงระดับความไม่แน่นอนของผลลัพธ์
+
+### Summary
+
+สาขาวิชาที่มองปัญหาการคำนวณเชิงตัวเลขว่าเป็นงานอนุมานทางสถิติ เพื่อวัดปริมาณความไม่แน่นอนในผลลัพธ์
+
+## Key Concepts
+
+- การวัดปริมาณความไม่แน่นอน
+- การคำนวณแบบเบย์
+- การอินทิเกรตเชิงตัวเลข
+- ความไม่แน่นอนเชิงญาณวิทยา
+
+## Use Cases
+
+- การหาค่าเหมาะที่สุดที่แข็งแกร่งในงานวิศวกรรม
+- การประมาณค่าข้อผิดพลาดในการจำลองมอนติคาร์โล
+- การปรับแต่งไฮเปอร์พารามิเตอร์อย่างปลอดภัยในเอไอ
+
+## Related Terms
+
+- [Bayesian Optimization (การหาค่าเหมาะที่สุดแบบเบย์)](/en/terms/bayesian-optimization-การหาค-าเหมาะท-ส-ดแบบเบย/)
+- [Gaussian Processes (กระบวนการเกาส์เซียน)](/en/terms/gaussian-processes-กระบวนการเกาส-เซ-ยน/)
+- [Numerical Analysis (การวิเคราะห์เชิงตัวเลข)](/en/terms/numerical-analysis-การว-เคราะห-เช-งต-วเลข/)
+- [Uncertainty Calibration (การปรับเทียบความไม่แน่นอน)](/en/terms/uncertainty-calibration-การปร-บเท-ยบความไม-แน-นอน/)

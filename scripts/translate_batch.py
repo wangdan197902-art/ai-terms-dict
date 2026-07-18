@@ -109,7 +109,7 @@ def build_batch_translate_messages(definitions: list, target_lang: str) -> list:
             "term_id": d["term_id"],
             "term_name": d.get("english", ""),
             "definition_short": d.get("definition_short", ""),
-            "definition_long": d.get("definition_long", "")[:200],  # 截断以节省token
+            "definition_long": d.get("definition_long", ""),  # 完整传入，避免翻译内容不完整
             "key_concepts": d.get("key_concepts", []),
             "use_cases": d.get("use_cases", []),
             "related_terms": d.get("related_terms", []),
