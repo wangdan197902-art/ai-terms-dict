@@ -1,49 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="jLNCAGFlM8zeF09eKGw3w6A8bZlNkluFYLs11bafILw" />
-    <title>{{ .Title }} - {{ .Site.Title }}</title>
-    <meta name="description" content="{{ .Description | default .Site.Params.description }}">
-    <!-- Google Analytics 4 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-15279420781"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-15279420781');
-    </script>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem;
-            color: #333;
-            line-height: 1.6;
-        }
-        h1, h2, h3 { color: #2c3e50; }
-        a { color: #3498db; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-        .header { border-bottom: 2px solid #eee; padding-bottom: 1rem; margin-bottom: 2rem; }
-        .footer { border-top: 2px solid #eee; padding-top: 1rem; margin-top: 2rem; color: #999; font-size: 0.9rem; }
-    </style>
-</head>
-<body>
-    <header class="header">
-        <h1><a href="/">{{ .Site.Title }}</a></h1>
-        <p>{{ .Site.Params.description }}</p>
+{{ define "main" }}
+<article class="term-detail">
+    <header class="term-header">
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.term_id }}
+        <p class="term-id">term_id: <code>{{ . }}</code></p>
+        {{ end }}
+        {{ with .Params.category }}
+        <p class="term-category">Category: <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a></p>
+        {{ end }}
     </header>
-    <main>
+
+    <div class="term-content">
         {{ .Content }}
-        {{/* AdSense 广告位：文章内 300x250（待审核通过后激活） */}}
-        <div class="ad-container ad-in-article" data-ad-slot="in-article">
-            {{/* <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXX" data-ad-slot="XXXX" data-ad-format="auto" data-full-width-responsive="true"></ins> */}}
-        </div>
-    </main>
-    <footer class="footer">
-        <p>&copy; 2026 {{ .Site.Title }}. Powered by Hugo &amp; Cloudflare Pages.</p>
-    </footer>
-</body>
-</html>
+    </div>
+
+    {{/* AdSense 广告位：文章内 300x250（待审核通过后激活） */}}
+    <div class="ad-container ad-in-article" data-ad-slot="in-article">
+        {{/* <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXX" data-ad-slot="XXXX" data-ad-format="auto" data-full-width-responsive="true"></ins> */}}
+    </div>
+
+    {{/* 语言切换 */}}
+    {{ partial "language-switcher.html" . }}
+</article>
+{{ end }}
