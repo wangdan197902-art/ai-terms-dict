@@ -1,4 +1,4 @@
-name: Deploy to Cloudflare Pages
+name: Deploy to Netlify
 
 on:
   push:
@@ -31,20 +31,17 @@ jobs:
           node-version: '20'
 
       - name: Build with Hugo
-        run: hugo --minify --baseURL "https://ai-terms-dict.pages.dev/"
+        run: hugo --minify --baseURL "${{ secrets.NETLIFY_BASE_URL }}"
 
-      - name: Prune non-core languages
-        # 分裂部署策略：主站仅保留4语种(en/zh/es/ja)以适配Cloudflare Pages 20000文件限制
-        # 其他语种(de/fr + 24扩展)将部署到扩展站点
-        run: |
-          echo "Before prune: $(find public -type f | wc -l) files"
-          rm -rf public/de public/fr public/pt public/ru public/ko public/ar public/hi public/it public/nl public/pl public/tr public/vi public/th public/id public/uk public/sv public/cs public/da public/fi public/no public/he public/ro public/hu public/el public/bg public/hr
-          echo "After prune: $(find public -type f | wc -l) files"
-
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v3.0
         with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: ai-terms-dict
-          directory: public
+          publish-dir: './public'
+          production-branch: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "Deploy from GitHub Actions"
+          enable-pull-request-comment: false
+          enable-commit-comment: false
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

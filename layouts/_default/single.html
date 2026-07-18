@@ -37,6 +37,10 @@
     </header>
     <main>
         {{ .Content }}
+        {{/* AdSense 广告位：文章内 300x250（待审核通过后激活） */}}
+        <div class="ad-container ad-in-article" data-ad-slot="in-article">
+            {{/* <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXX" data-ad-slot="XXXX" data-ad-format="auto" data-full-width-responsive="true"></ins> */}}
+        </div>
     </main>
     <footer class="footer">
         <p>&copy; 2026 {{ .Site.Title }}. Powered by Hugo &amp; Cloudflare Pages.</p>

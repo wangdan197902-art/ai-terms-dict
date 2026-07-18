@@ -40,3 +40,8 @@ __pycache__/
 
 # Internal progress records
 进度记录/
+头脑风暴记录/
+
+# Sensitive scripts (containing tokens)
+scripts/setup_github_secrets.py
+scripts/test_24lang_quality.py

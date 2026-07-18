@@ -1,138 +1,181 @@
-// Pagefind Search UI Integration
-// Loads Pagefind search index and renders results dynamically
+/**
+ * Fuse.js 客户端搜索逻辑
+ * 工作流程：
+ * 1. 用户首次输入时，异步加载当前语种的 index.json
+ * 2. JSON 加载后初始化 Fuse 实例
+ * 3. localStorage 缓存 24 小时，避免重复请求
+ * 4. 输入防抖 200ms，避免频繁搜索
+ */
+(function() {
+  'use strict';
 
-let pagefindSearch = null;
+  const DEBOUNCE_MS = 200;
+  const MAX_RESULTS = 20;
+  const FUSE_THRESHOLD = 0.3;
+  const CACHE_HOURS = 24;
+  const CACHE_KEY_PREFIX = 'fuse_data_';
+  const CACHE_TIME_KEY = 'fuse_data_time_';
 
-async function loadPagefind() {
-  if (pagefindSearch) return pagefindSearch;
-  try {
-    // Pagefind generates /pagefind/pagefind.js during build
-    pagefindSearch = await import('/pagefind/pagefind.js');
-    pagefindSearch.init();
-    return pagefindSearch;
-  } catch (e) {
-    console.error('[Search] Failed to load Pagefind:', e);
-    return null;
-  }
-}
+  let fuseInstance = null;
+  let isLoading = false;
+  let dataLoaded = false;
+  let debounceTimer = null;
 
-function debounce(fn, wait) {
-  let t;
-  return (...args) => {
-    clearTimeout(t);
-    t = setTimeout(() => fn(...args), wait);
-  };
-}
+  const searchInput = document.getElementById('search-input');
+  const searchClear = document.getElementById('search-clear');
+  const searchResults = document.getElementById('search-results');
 
-function escapeHtml(s) {
-  if (s == null) return '';
-  return String(s).replace(/[&<>"']/g, (c) => ({
-    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
-  }[c]));
-}
+  if (!searchInput) return;
 
-function renderResult(result, query) {
-  const url = result.url || '#';
-  const meta = result.meta || {};
-  const title = meta.title || result.meta?.term || url;
-  const termId = meta.term_id ? `<span class="search-term-id">${escapeHtml(meta.term_id)}</span>` : '';
-  const category = meta.category ? `<span class="search-category">${escapeHtml(meta.category)}</span>` : '';
-  const excerpt = result.excerpt
-    ? `<div class="search-excerpt">${result.excerpt}</div>`
-    : (meta.description ? `<div class="search-excerpt">${escapeHtml(meta.description)}</div>` : '');
-  const lang = meta.lang ? `<span class="search-lang">${escapeHtml(meta.lang)}</span>` : '';
-
-  return `
-    <article class="search-result-item">
-      <h3 class="search-result-title">
-        <a href="${escapeHtml(url)}">${escapeHtml(title)}</a>
-      </h3>
-      <div class="search-result-meta">
-        ${termId}${category}${lang}
-      </div>
-      ${excerpt}
-    </article>`;
-}
-
-async function performSearch(query, resultsContainer) {
-  const pf = await loadPagefind();
-  if (!pf) {
-    resultsContainer.innerHTML = '<p class="search-error">Search index unavailable. Please run <code>make search-index</code> first.</p>';
-    return;
+  function getCurrentLang() {
+    const path = window.location.pathname;
+    const match = path.match(/^\/([a-z]{2})\//i);
+    if (match) return match[1];
+    return 'en';
   }
 
-  const trimmed = (query || '').trim();
-  if (trimmed.length < 1) {
-    resultsContainer.innerHTML = '';
-    return;
+  function getJsonUrl(lang) {
+    return `/${lang}/index.json`;
   }
 
-  resultsContainer.innerHTML = '<p class="search-loading">Searching...</p>';
+  async function loadData(lang) {
+    const cacheKey = CACHE_KEY_PREFIX + lang;
+    const cacheTimeKey = CACHE_TIME_KEY + lang;
+    const cachedTime = localStorage.getItem(cacheTimeKey);
+    const now = Date.now();
 
-  try {
-    const search = await pf.search(trimmed);
-    const total = search?.results?.length || 0;
+    if (cachedTime && (now - parseInt(cachedTime)) < CACHE_HOURS * 60 * 60 * 1000) {
+      const cachedData = localStorage.getItem(cacheKey);
+      if (cachedData) {
+        try {
+          return JSON.parse(cachedData);
+        } catch (e) {
+          console.warn('Cache parse error, refetching');
+        }
+      }
+    }
 
-    if (total === 0) {
-      resultsContainer.innerHTML = `<p class="search-empty">No results found for "<strong>${escapeHtml(trimmed)}</strong>"</p>`;
+    const response = await fetch(getJsonUrl(lang));
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+
+    try {
+      localStorage.setItem(cacheKey, JSON.stringify(data));
+      localStorage.setItem(cacheTimeKey, now.toString());
+    } catch (e) {
+      console.warn('LocalStorage save failed:', e);
+    }
+
+    return data;
+  }
+
+  async function ensureDataLoaded() {
+    if (dataLoaded && fuseInstance) return;
+    if (isLoading) return;
+
+    isLoading = true;
+    const lang = getCurrentLang();
+
+    try {
+      const data = await loadData(lang);
+      fuseInstance = new Fuse(data.terms || [], {
+        keys: [
+          { name: 'title', weight: 0.4 },
+          { name: 'summary', weight: 0.3 },
+          { name: 'content', weight: 0.2 },
+          { name: 'categories', weight: 0.1 }
+        ],
+        threshold: FUSE_THRESHOLD,
+        includeScore: true,
+        minMatchCharLength: 2,
+        ignoreLocation: true,
+      });
+      dataLoaded = true;
+    } catch (error) {
+      console.error('Failed to load search data:', error);
+      if (searchResults) {
+        searchResults.innerHTML = '<div class="search-error">Failed to load search data</div>';
+      }
+    } finally {
+      isLoading = false;
+    }
+  }
+
+  function renderResults(results) {
+    if (!searchResults) return;
+
+    if (!results || results.length === 0) {
+      searchResults.innerHTML = '<div class="search-no-results">No results found</div>';
+      searchResults.style.display = 'block';
       return;
     }
 
-    // Limit to top 30 results for performance
-    const top = search.results.slice(0, 30);
-    const rendered = await Promise.all(top.map((r) => r.data()));
-    const html = `<p class="search-count">${total} result${total === 1 ? '' : 's'} for "<strong>${escapeHtml(trimmed)}</strong>"</p>` +
-      rendered.map((r) => renderResult(r, trimmed)).join('');
-    resultsContainer.innerHTML = html;
-  } catch (e) {
-    console.error('[Search] query failed:', e);
-    resultsContainer.innerHTML = '<p class="search-error">Search failed. Please try again.</p>';
-  }
-}
+    const html = results.slice(0, MAX_RESULTS).map(result => {
+      const item = result.item;
+      const title = item.title || 'Untitled';
+      const summary = item.summary || '';
+      const permalink = item.permalink || '#';
+      return `<a href="${permalink}" class="search-result-item">
+        <div class="search-result-title">${title}</div>
+        <div class="search-result-summary">${summary}</div>
+      </a>`;
+    }).join('');
 
-function initSearchPage() {
-  const input = document.getElementById('search-input');
-  const results = document.getElementById('search-results');
-  if (!input || !results) return;
-
-  // Read ?q= from URL for deep linking
-  const params = new URLSearchParams(window.location.search);
-  const initialQuery = params.get('q') || '';
-  if (initialQuery) {
-    input.value = initialQuery;
-    performSearch(initialQuery, results);
+    searchResults.innerHTML = html;
+    searchResults.style.display = 'block';
   }
 
-  const debouncedSearch = debounce((q) => performSearch(q, results), 250);
-  input.addEventListener('input', (e) => debouncedSearch(e.target.value));
+  function handleInput() {
+    const query = searchInput.value.trim();
 
-  // Update URL on search without reloading
-  input.addEventListener('input', (e) => {
-    const q = e.target.value.trim();
-    const newUrl = q
-      ? `${window.location.pathname}?q=${encodeURIComponent(q)}`
-      : window.location.pathname;
-    window.history.replaceState({}, '', newUrl);
-  });
-}
-
-function initHeaderSearchBox() {
-  // Header search box: redirect to search page with ?q=
-  const headerInput = document.querySelector('.site-header .search-box input');
-  if (!headerInput) return;
-  const lang = document.documentElement.lang || 'en';
-  const searchPath = lang === 'en' ? '/en/search/' : `/${lang}/search/`;
-  headerInput.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') {
-      const q = headerInput.value.trim();
-      if (q) {
-        window.location.href = `${searchPath}?q=${encodeURIComponent(q)}`;
+    if (!query) {
+      if (searchResults) {
+        searchResults.style.display = 'none';
+        searchResults.innerHTML = '';
       }
+      return;
+    }
+
+    if (query.length < 2) {
+      if (searchResults) {
+        searchResults.style.display = 'none';
+      }
+      return;
+    }
+
+    ensureDataLoaded().then(() => {
+      if (fuseInstance) {
+        const results = fuseInstance.search(query);
+        renderResults(results);
+      }
+    });
+  }
+
+  searchInput.addEventListener('input', () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(handleInput, DEBOUNCE_MS);
+  });
+
+  if (searchClear) {
+    searchClear.addEventListener('click', () => {
+      searchInput.value = '';
+      if (searchResults) {
+        searchResults.style.display = 'none';
+        searchResults.innerHTML = '';
+      }
+      searchInput.focus();
+    });
+  }
+
+  document.addEventListener('click', (e) => {
+    if (!searchInput.contains(e.target) && searchResults && !searchResults.contains(e.target)) {
+      searchResults.style.display = 'none';
     }
   });
-}
 
-document.addEventListener('DOMContentLoaded', () => {
-  initSearchPage();
-  initHeaderSearchBox();
-});
+  searchInput.addEventListener('focus', () => {
+    if (searchInput.value.trim().length >= 2 && searchResults) {
+      searchResults.style.display = 'block';
+    }
+  });
+})();

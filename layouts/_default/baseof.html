@@ -12,6 +12,7 @@
     <link rel="icon" href="{{ "favicon.svg" | relURL }}">
     <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}'>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/search.css" | relURL }}">
     {{ block "head" . }}{{ end }}
 </head>
 <body>
@@ -22,6 +23,7 @@
     </main>
     {{ partial "footer.html" . }}
     <script src="{{ "js/main.js" | relURL }}" defer></script>
+    <script src="{{ "js/fuse.basic.min.js" | relURL }}" defer></script>
     <script src="{{ "js/search.js" | relURL }}" defer></script>
     {{ block "scripts" . }}{{ end }}
 </body>

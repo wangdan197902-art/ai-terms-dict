@@ -78,14 +78,6 @@
   title = "قاموس مصطلحات الذكاء الاصطناعي"
   contentDir = "content/ar"
 
-[hi]
-  languageName = "हिन्दी"
-  languageCode = "hi-in"
-  languageDirection = "ltr"
-  weight = 11
-  title = "एआई शब्दावली शब्दकोश"
-  contentDir = "content/hi"
-
 [it]
   languageName = "Italiano"
   languageCode = "it-it"
@@ -141,14 +133,6 @@
   weight = 18
   title = "Kamus Istilah AI"
   contentDir = "content/id"
-
-[uk]
-  languageName = "Українська"
-  languageCode = "uk-ua"
-  languageDirection = "ltr"
-  weight = 19
-  title = "Словник термінів ШІ"
-  contentDir = "content/uk"
 
 [sv]
   languageName = "Svenska"
@@ -221,19 +205,3 @@
   weight = 28
   title = "Λεξικό Όρων ΤΝ"
   contentDir = "content/el"
-
-[bg]
-  languageName = "Български"
-  languageCode = "bg-bg"
-  languageDirection = "ltr"
-  weight = 29
-  title = "Речник на AI термините"
-  contentDir = "content/bg"
-
-[hr]
-  languageName = "Hrvatski"
-  languageCode = "hr-hr"
-  languageDirection = "ltr"
-  weight = 30
-  title = "Rječnik AI Izraza"
-  contentDir = "content/hr"

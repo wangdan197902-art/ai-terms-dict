@@ -1,0 +1,18 @@
+{{- /* 
+   搜索组件 partial
+   在需要搜索功能的页面引入：{{ partial "search.html" . }}
+*/ -}}
+<div class="search-container" id="search-container">
+  <div class="search-box">
+    <input 
+      type="text" 
+      id="search-input" 
+      class="search-input" 
+      placeholder="{{ i18n "search_placeholder" | default "Search terms..." }}" 
+      autocomplete="off"
+      aria-label="Search terms"
+    >
+    <button class="search-clear" id="search-clear" aria-label="Clear search">×</button>
+  </div>
+  <div class="search-results" id="search-results" role="listbox"></div>
+</div>
