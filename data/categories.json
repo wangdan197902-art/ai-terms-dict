@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "basic_concepts": {
+      "en": "Basic Concepts",
+      "es": "Conceptos Básicos",
+      "de": "Grundkonzepte",
+      "ja": "基本概念",
+      "fr": "Concepts de Base",
+      "zh": "基础概念",
+      "icon": "📚",
+      "description": {
+        "en": "Foundational AI concepts and terminology",
+        "es": "Conceptos fundamentales de IA",
+        "de": "Grundlegende KI-Konzepte",
+        "ja": "AIの基礎概念と用語",
+        "fr": "Concepts fondamentaux de l'IA",
+        "zh": "AI基础概念与术语"
+      }
+    },
+    "training_techniques": {
+      "en": "Training Techniques",
+      "es": "Técnicas de Entrenamiento",
+      "de": "Trainingstechniken",
+      "ja": "訓練手法",
+      "fr": "Techniques d'Entraînement",
+      "zh": "训练技术",
+      "icon": "🎯",
+      "description": {
+        "en": "Methods for training ML models",
+        "es": "Métodos para entrenar modelos ML",
+        "de": "Methoden zum Training von ML-Modellen",
+        "ja": "MLモデルの訓練手法",
+        "fr": "Méthodes d'entraînement des modèles ML",
+        "zh": "机器学习模型训练方法"
+      }
+    },
+    "application_paradigms": {
+      "en": "Application Paradigms",
+      "es": "Paradigmas de Aplicación",
+      "de": "Anwendungsparadigmen",
+      "ja": "応用パラダイム",
+      "fr": "Paradigmes d'Application",
+      "zh": "应用范式",
+      "icon": "🚀",
+      "description": {
+        "en": "How AI is applied in practice",
+        "es": "Cómo se aplica la IA en la práctica",
+        "de": "Wie KI in der Praxis angewendet wird",
+        "ja": "AIの実践的な応用",
+        "fr": "Comment l'IA est appliquée en pratique",
+        "zh": "AI的实际应用方式"
+      }
+    },
+    "engineering_practice": {
+      "en": "Engineering Practice",
+      "es": "Práctica de Ingeniería",
+      "de": "Ingenieurpraxis",
+      "ja": "エンジニアリング実践",
+      "fr": "Pratique d'Ingénierie",
+      "zh": "工程实践",
+      "icon": "⚙️",
+      "description": {
+        "en": "Engineering practices for AI systems",
+        "es": "Prácticas de ingeniería para sistemas de IA",
+        "de": "Ingenieurpraktiken für KI-Systeme",
+        "ja": "AIシステムのエンジニアリング実践",
+        "fr": "Pratiques d'ingénierie pour systèmes IA",
+        "zh": "AI系统工程实践"
+      }
+    },
+    "ethics_safety": {
+      "en": "Ethics & Safety",
+      "es": "Ética y Seguridad",
+      "de": "Ethik & Sicherheit",
+      "ja": "倫理と安全性",
+      "fr": "Éthique et Sécurité",
+      "zh": "伦理安全",
+      "icon": "🛡️",
+      "description": {
+        "en": "Responsible AI development",
+        "es": "Desarrollo responsable de IA",
+        "de": "Verantwortungsvolle KI-Entwicklung",
+        "ja": "責任あるAI開発",
+        "fr": "Développement responsable de l'IA",
+        "zh": "负责任的AI开发"
+      }
+    }
+  },
+  "letter_index": {
+    "enabled": true,
+    "letters": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
+  }
+}

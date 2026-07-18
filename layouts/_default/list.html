@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section class="term-list">
+    <header class="list-header">
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Description }}</p>
+    </header>
+
+    <div class="term-grid">
+        {{ range .Pages }}
+            {{ partial "term-card.html" . }}
+        {{ end }}
+    </div>
+
+    {{ template "_internal/pagination.html" . }}
+</section>
+{{ end }}

@@ -1,0 +1,47 @@
+[site_title]
+other = "Dictionnaire des Termes d'IA"
+
+[site_description]
+other = "Dictionnaire multilingue complet de terminologie d'IA"
+
+[search_placeholder]
+other = "Rechercher des termes d'IA..."
+
+[categories]
+other = "Catégories"
+
+[all_terms]
+other = "Tous les Termes"
+
+[last_updated]
+other = "Dernière mise à jour"
+
+[related_terms]
+other = "Termes Liés"
+
+[key_concepts]
+other = "Concepts Clés"
+
+[use_cases]
+other = "Cas d'Usage"
+
+[difficulty_level]
+other = "Difficulté"
+
+[language_switcher]
+other = "Changer de Langue"
+
+[dark_mode]
+other = "Mode Sombre"
+
+[back_to_top]
+other = "Retour en Haut"
+
+[footer_text]
+other = "Construit avec Hugo. Propulsé par AGNES_LLM."
+
+[404_message]
+other = "Page introuvable. Le terme que vous recherchez n'existe peut-être pas encore."
+
+[preview_badge]
+other = "Aperçu de Traduction Automatique"

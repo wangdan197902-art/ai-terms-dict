@@ -1,0 +1,47 @@
+[site_title]
+other = "AI Terms Dictionary"
+
+[site_description]
+other = "Comprehensive multilingual AI terminology dictionary"
+
+[search_placeholder]
+other = "Search AI terms..."
+
+[categories]
+other = "Categories"
+
+[all_terms]
+other = "All Terms"
+
+[last_updated]
+other = "Last updated"
+
+[related_terms]
+other = "Related Terms"
+
+[key_concepts]
+other = "Key Concepts"
+
+[use_cases]
+other = "Use Cases"
+
+[difficulty_level]
+other = "Difficulty"
+
+[language_switcher]
+other = "Switch Language"
+
+[dark_mode]
+other = "Dark Mode"
+
+[back_to_top]
+other = "Back to Top"
+
+[footer_text]
+other = "Built with Hugo. Powered by AGNES_LLM."
+
+[404_message]
+other = "Page not found. The term you're looking for may not exist yet."
+
+[preview_badge]
+other = "Machine Translation Preview"

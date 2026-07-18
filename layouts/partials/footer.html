@@ -1,0 +1,30 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <h4>{{ .Site.Title }}</h4>
+                <p>{{ .Site.Params.description }}</p>
+            </div>
+            <div class="footer-col">
+                <h4>Links</h4>
+                <ul>
+                    <li><a href="{{ "/" | relLangURL }}">Home</a></li>
+                    <li><a href="{{ "/terms/" | relLangURL }}">All Terms</a></li>
+                    <li><a href="{{ "/categories/" | relLangURL }}">Categories</a></li>
+                    <li><a href="{{ "/search/" | relLangURL }}">Search</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Languages</h4>
+                <ul>
+                    {{ range .Site.Languages }}
+                    <li><a href="{{ printf "/%s/" .Lang | relURL }}">{{ .LanguageName }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}. {{ T "footer_text" | default "All rights reserved." }}</p>
+        </div>
+    </div>
+</footer>

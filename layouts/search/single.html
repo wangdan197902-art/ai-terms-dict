@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="search-page">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}
+    <div class="search-intro">{{ . }}</div>
+    {{ end }}
+    <div class="search-container">
+        <input type="search"
+               id="search-input"
+               placeholder="{{ T "search_placeholder" | default "Search AI terms..." }}"
+               aria-label="Search"
+               autocomplete="off"
+               autofocus>
+        <div id="search-results" class="search-results"></div>
+    </div>
+</section>
+{{ end }}

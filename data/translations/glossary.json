@@ -1,0 +1,162 @@
+{
+  "prompt_engineering": {
+    "en": "Prompt Engineering",
+    "es": "Ingeniería de Prompts",
+    "de": "Prompt Engineering",
+    "ja": "プロンプトエンジニアリング",
+    "fr": "Ingénierie des invites",
+    "zh": "提示工程"
+  },
+  "ai_safety": {
+    "en": "AI Safety",
+    "es": "Seguridad de la IA",
+    "de": "KI-Sicherheit",
+    "ja": "AI安全性",
+    "fr": "Sécurité de l'IA",
+    "zh": "AI 安全"
+  },
+  "api": {
+    "en": "API",
+    "es": "API",
+    "de": "API",
+    "ja": "API",
+    "fr": "API",
+    "zh": "API"
+  },
+  "agent": {
+    "en": "Agent",
+    "es": "Agente",
+    "de": "Agent",
+    "ja": "エージェント",
+    "fr": "Agent",
+    "zh": "智能体"
+  },
+  "alignment": {
+    "en": "Alignment",
+    "es": "Alineación",
+    "de": "Alignment",
+    "ja": "アライメント",
+    "fr": "Alignement",
+    "zh": "对齐"
+  },
+  "artificial_intelligence": {
+    "en": "Artificial Intelligence",
+    "es": "Inteligencia Artificial",
+    "de": "Künstliche Intelligenz",
+    "ja": "人工知能",
+    "fr": "Intelligence Artificielle",
+    "zh": "人工智能"
+  },
+  "attention_mechanism": {
+    "en": "Attention Mechanism",
+    "es": "Mecanismo de Atención",
+    "de": "Aufmerksamkeitsmechanismus",
+    "ja": "アテンション機構",
+    "fr": "Mécanisme d'Attention",
+    "zh": "注意力机制"
+  },
+  "backpropagation": {
+    "en": "Backpropagation",
+    "es": "Propagación Hacia Atrás",
+    "de": "Backpropagation",
+    "ja": "逆伝播法",
+    "fr": "Rétropropagation",
+    "zh": "反向传播"
+  },
+  "bias": {
+    "en": "Bias",
+    "es": "Sesgo",
+    "de": "Bias",
+    "ja": "バイアス",
+    "fr": "Biais",
+    "zh": "偏见"
+  },
+  "chain_of_thought": {
+    "en": "Chain-of-Thought",
+    "es": "Cadena de Pensamiento",
+    "de": "Chain-of-Thought",
+    "ja": "思考の連鎖",
+    "fr": "Chaîne de Pensée",
+    "zh": "思维链"
+  },
+  "code_generation": {
+    "en": "Code Generation",
+    "es": "Generación de Código",
+    "de": "Code-Generierung",
+    "ja": "コード生成",
+    "fr": "Génération de code",
+    "zh": "代码生成"
+  },
+  "computer_vision": {
+    "en": "Computer Vision",
+    "es": "Visión por Computadora",
+    "de": "Computer Vision",
+    "ja": "コンピュータビジョン",
+    "fr": "Vision par ordinateur",
+    "zh": "计算机视觉"
+  },
+  "context_window": {
+    "en": "Context Window",
+    "es": "Ventana de Contexto",
+    "de": "Kontextfenster",
+    "ja": "コンテキストウィンドウ",
+    "fr": "Fenêtre de contexte",
+    "zh": "上下文窗口"
+  },
+  "convolutional_neural_network": {
+    "en": "Convolutional Neural Network",
+    "es": "Red Neuronal Convolucional",
+    "de": "Faltungsneuronales Netz",
+    "ja": "畳み込みニューラルネットワーク",
+    "fr": "Réseau neuronal convolutif",
+    "zh": "卷积神经网络"
+  },
+  "deep_learning": {
+    "en": "Deep Learning",
+    "es": "Aprendizaje Profundo",
+    "de": "Deep Learning",
+    "ja": "深層学習",
+    "fr": "Apprentissage profond",
+    "zh": "深度学习"
+  },
+  "embedding": {
+    "en": "Embedding",
+    "es": "Embedding",
+    "de": "Embedding",
+    "ja": "埋め込み",
+    "fr": "Embedding",
+    "zh": "嵌入"
+  },
+  "fine_tuning": {
+    "en": "Fine-tuning",
+    "es": "Ajuste Fino",
+    "de": "Feinabstimmung",
+    "ja": "ファインチューニング",
+    "fr": "Affinage",
+    "zh": "微调"
+  },
+  "hallucination": {
+    "en": "Hallucination",
+    "es": "Alucinación",
+    "de": "Halluzination",
+    "ja": "ハルシネーション",
+    "fr": "Hallucination",
+    "zh": "幻觉"
+  },
+  "in_context_learning": {
+    "en": "In-Context Learning",
+    "es": "Aprendizaje en Contexto",
+    "de": "In-Context-Lernen",
+    "ja": "コンテキスト内学習",
+    "fr": "Apprentissage en contexte",
+    "zh": "上下文学习"
+  },
+  "inference": {
+    "en": "Inference",
+    "es": "Inferencia",
+    "de": "Inferenz",
+    "ja": "推論",
+    "fr": "Inférence",
+    "zh": "推理"
+  }
+}

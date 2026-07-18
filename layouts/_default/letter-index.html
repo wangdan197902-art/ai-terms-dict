@@ -1,0 +1,29 @@
+{{ define "main" }}
+<section class="letter-index">
+    <h1>{{ .Title }}</h1>
+    <div class="letter-nav">
+        {{ range "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z" | split "," }}
+        <a href="#{{ . }}">{{ . }}</a>
+        {{ end }}
+    </div>
+    {{ $grouped := newScratch }}
+    {{ range .Pages }}
+        {{ $letter := substr .Title 0 1 | upper }}
+        {{ $pages := $grouped.Get $letter | default slice }}
+        {{ $grouped.Set $letter (append $pages .) }}
+    {{ end }}
+    {{ range $letter := "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z" | split "," }}
+        {{ $pages := $grouped.Get $letter }}
+        {{ with $pages }}
+        <section id="{{ $letter }}" class="letter-section">
+            <h2>{{ $letter }}</h2>
+            <div class="term-grid">
+                {{ range . }}
+                    {{ partial "term-card.html" . }}
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+    {{ end }}
+</section>
+{{ end }}

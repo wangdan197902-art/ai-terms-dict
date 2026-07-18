@@ -1,0 +1,24 @@
+{
+  "term_id": "prompt_engineering",
+  "english": "Prompt Engineering",
+  "category": "application_paradigms",
+  "definition_short": "设计和优化输入给大语言模型的提示词，以引导模型产生期望输出的实践技能。",
+  "definition_long": "Prompt Engineering 是一门研究如何与大型语言模型（LLM）有效沟通的工程学科。它通过精心设计输入提示的结构、上下文、示例和约束条件，最大化模型输出的质量、相关性和可控性。核心技术包括：few-shot prompting（少样本提示）、chain-of-thought（思维链）、role-playing（角色扮演）、output formatting（输出格式化）等。Prompt Engineering 是应用 LLM 的最经济高效的方式，无需训练即可显著提升任务表现。",
+  "key_concepts": [
+    "Few-shot Prompting",
+    "Chain-of-Thought",
+    "Role-Playing",
+    "Output Formatting",
+    "Context Window Management"
+  ],
+  "use_cases": [
+    "客服机器人定制语气和回复风格",
+    "代码生成任务中引导模型输出特定语言的代码",
+    "数据抽取任务中确保结构化JSON输出",
+    "教育场景中生成循序渐进的解释"
+  ],
+  "related_terms": ["llm", "in_context_learning", "chain_of_thought", "few_shot_prompting"],
+  "code_example": "from openai import OpenAI\nclient = OpenAI()\nresponse = client.chat.completions.create(\n    model='gpt-4',\n    messages=[\n        {'role': 'system', 'content': 'You are a helpful AI assistant.'},\n        {'role': 'user', 'content': 'Explain prompt engineering in 3 bullet points.'}\n    ]\n)",
+  "difficulty": 3,
+  "tags": ["prompting", "llm", "application", "core"]
+}

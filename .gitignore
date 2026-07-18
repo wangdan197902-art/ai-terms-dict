@@ -18,3 +18,25 @@ node_modules/
 .env.local
 *.token
 *.key
+
+# Credentials & sensitive files
+.github_token
+.github_token_info.md
+.cloudflare_credentials.md
+.huggingface_credentials.md
+.uptimerobot_credentials.md
+.google_search_console.md
+.google_analytics.md
+.zhuanzhong_credentials.md
+.payoneer_credentials.md
+.accounts_master.md
+.gcp_service_account.json
+
+# Build artifacts & cache
+logs/
+.cache/
+__pycache__/
+*.pyc
+
+# Internal progress records
+进度记录/

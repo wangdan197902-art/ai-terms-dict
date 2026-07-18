@@ -1,0 +1,25 @@
+{
+  "term_id": "agent",
+  "english": "Agent",
+  "category": "application_paradigms",
+  "definition_short": "以 LLM 为大脑，能够感知、规划、调用工具、反思并自主完成多步骤任务的 AI 系统。",
+  "definition_long": "Agent（AI 智能体）是以大型语言模型（LLM）为核心推理引擎，结合规划（Planning）、记忆（Memory）、工具调用（Tool Use / Function Calling）等能力，能够自主完成多步骤复杂任务的 AI 系统。与单次问答不同，Agent 采用「思考—行动—观察」循环：LLM 先分析任务、拆解步骤，再调用外部工具（搜索、代码执行、API、数据库）获取信息或执行操作，然后根据观察结果修正计划，循环往复直到任务完成。代表性框架包括 ReAct、Reflexion、Plan-and-Execute、AutoGPT、LangChain Agent 等。多个 Agent 协作时构成 Multi-Agent System（多智能体系统），可分工完成软件研发、研究、运营等复杂工作流。Agent 是 LLM 从「对话工具」走向「通用任务执行者」的关键范式。",
+  "key_concepts": [
+    "Planning 任务规划",
+    "Tool Use 工具调用",
+    "Function Calling 函数调用",
+    "Memory 记忆机制",
+    "Reflection 反思",
+    "ReAct 循环（Reason + Act）"
+  ],
+  "use_cases": [
+    "自动编程助手：分析需求、写代码、运行测试、修复 Bug",
+    "研究员 Agent：搜集资料、整理、撰写报告",
+    "客服运营：自动处理工单、查询系统、回复用户",
+    "多 Agent 协作完成软件开发全流程"
+  ],
+  "related_terms": ["llm", "tool_use", "function_calling", "planning", "memory", "reflection", "react", "multi_agent_system", "autonomous_agent", "chain_of_thought"],
+  "code_example": "from openai import OpenAI\nclient = OpenAI()\n\ntools = [{\n    'type': 'function',\n    'function': {\n        'name': 'get_weather',\n        'description': '查询某城市天气',\n        'parameters': {\n            'type': 'object',\n            'properties': {'city': {'type': 'string'}},\n            'required': ['city']\n        }\n    }\n}]\n\nresp = client.chat.completions.create(\n    model='gpt-4o',\n    messages=[{'role': 'user', 'content': '北京今天天气如何？'}],\n    tools=tools\n)\n# Agent 决定调用 get_weather(city='北京')\nprint(resp.choices[0].message.tool_calls)",
+  "difficulty": 4,
+  "tags": ["agent", "application", "core", "autonomous"]
+}

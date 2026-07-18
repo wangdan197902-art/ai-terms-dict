@@ -1,0 +1,26 @@
+<div class="language-switcher">
+    <button class="lang-trigger" aria-label="Switch language">
+        {{ .Site.Language.LanguageName }}
+        <span class="caret">▾</span>
+    </button>
+    <ul class="lang-menu">
+        {{/* Default: Hugo's AllTranslations works for pages with same relative path (home, etc.) */}}
+        {{ $translations := $.Page.AllTranslations }}
+        {{/* Fallback: for term detail pages with localized folder names, match by term_id */}}
+        {{ with $.Page.Params.term_id }}
+            {{ $matched := where $.Site.AllPages "Params.term_id" . }}
+            {{ if gt (len $matched) (len $translations) }}
+                {{ $translations = $matched }}
+            {{ end }}
+        {{ end }}
+        {{ range $translations }}
+        <li>
+            <a href="{{ .RelPermalink }}"
+               hreflang="{{ .Language.LanguageCode }}"
+               {{ if eq .Language.Lang $.Site.Language.Lang }}class="active"{{ end }}>
+                {{ .Language.LanguageName }}
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+</div>

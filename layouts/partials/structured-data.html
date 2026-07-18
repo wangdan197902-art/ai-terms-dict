@@ -1,0 +1,76 @@
+{{ if eq .Type "terms" }}
+{{/* DefinedTerm schema for term detail pages */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description | default .Summary | htmlEscape }}",
+  "url": "{{ .Permalink }}",
+  "inLanguage": "{{ .Site.Language.LanguageCode }}",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}"
+  }{{ with .Params.category }},
+  "termCode": "{{ . }}"{{ end }}{{ with .Params.aliases }},
+  "alternateName": {{ . | jsonify }}{{ end }}{{ with .Params.difficulty }},
+  "educationalLevel": "{{ . }}"{{ end }}
+}
+</script>
+{{/* BreadcrumbList schema */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "{{ .Site.Title }}",
+      "item": "{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{ else if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "inLanguage": "{{ .Site.Language.LanguageCode }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/search/?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ else if eq .Type "categories" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ .Title }}",
+  "url": "{{ .Permalink }}",
+  "inLanguage": "{{ .Site.Language.LanguageCode }}",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}"
+  }
+}
+</script>
+{{ end }}

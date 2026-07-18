@@ -1,0 +1,25 @@
+{
+  "term_id": "transformer",
+  "english": "Transformer",
+  "category": "basic_concepts",
+  "definition_short": "2017 年提出的基于自注意力机制的神经网络架构，完全抛弃循环结构，通过并行计算处理序列，是现代大语言模型和众多 AI 模型的基础。",
+  "definition_long": "Transformer 是 2017 年 Google 在论文《Attention Is All You Need》中提出的神经网络架构。它彻底摒弃了 RNN 的循环结构，完全基于 Self-Attention（自注意力）机制来建模序列中任意两个位置之间的依赖关系，从而实现了高度并行化的训练。Transformer 由 Encoder（编码器）和 Decoder（解码器）两部分组成，每部分由多层堆叠，每层包含 Multi-Head Attention、Feed-Forward Network、Residual Connection 和 Layer Normalization。Positional Encoding 为序列注入顺序信息。Transformer 架构是 BERT（Encoder-only）、GPT（Decoder-only）、T5（Encoder-Decoder）以及所有现代大语言模型的共同基础。其并行性和扩展性使其成为深度学习领域过去十年最重要的架构突破。",
+  "key_concepts": [
+    "Self-Attention 自注意力",
+    "Multi-Head Attention 多头注意力",
+    "Positional Encoding 位置编码",
+    "Encoder-Decoder 架构",
+    "Residual Connection 残差连接",
+    "Layer Normalization 层归一化"
+  ],
+  "use_cases": [
+    "自然语言处理：机器翻译、文本生成、摘要",
+    "大语言模型基础架构：GPT、BERT、LLaMA 等均基于 Transformer",
+    "计算机视觉：ViT（Vision Transformer）",
+    "语音识别与生成：Whisper、音频生成模型"
+  ],
+  "related_terms": ["self_attention", "multi_head_attention", "positional_encoding", "encoder", "decoder", "feed_forward_network", "layer_normalization", "residual_connection", "llm"],
+  "code_example": "import torch\nimport torch.nn as nn\n\nclass MultiHeadAttention(nn.Module):\n    def __init__(self, d_model=512, num_heads=8):\n        super().__init__()\n        self.heads = num_heads\n        self.d_k = d_model // num_heads\n        self.qkv = nn.Linear(d_model, d_model * 3)\n        self.out = nn.Linear(d_model, d_model)\n\n    def forward(self, x):\n        B, T, C = x.shape\n        qkv = self.qkv(x).reshape(B, T, 3, self.heads, self.d_k)\n        q, k, v = qkv.unbind(dim=2)\n        # scaled dot-product attention\n        att = (q.transpose(1, 2) @ k.transpose(1, 2).transpose(-2, -1)) / (self.d_k ** 0.5)\n        att = att.softmax(dim=-1)\n        y = att @ v.transpose(1, 2)\n        return self.out(y.transpose(1, 2).reshape(B, T, C))",
+  "difficulty": 4,
+  "tags": ["architecture", "attention", "foundational", "core"]
+}

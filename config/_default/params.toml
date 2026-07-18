@@ -1,0 +1,39 @@
+description = "A comprehensive multilingual AI terminology dictionary"
+author = "AI Terms Dictionary Team"
+favicon = "/favicon.svg"
+logo = "/logo.svg"
+
+# Site features
+enableSearch = true
+enableDarkMode = true
+enableLanguageSwitcher = true
+enableCodeHighlight = true
+
+# Social
+[social]
+  github = ""
+  twitter = ""
+
+# SEO
+[seo]
+  ogType = "website"
+  twitterCard = "summary_large_image"
+  defaultOgImage = "/og-image.svg"
+
+# Search
+[search]
+  enabled = true
+  type = "pagefind"
+  maxResults = 20
+
+# Analytics (placeholder)
+[analytics]
+  enabled = false
+  type = ""
+  id = ""
+
+# Ad monetization (placeholder)
+[ads]
+  enabled = false
+  type = ""
+  slot = ""

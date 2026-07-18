@@ -1,0 +1,25 @@
+{
+  "term_id": "llm",
+  "english": "Large Language Model",
+  "category": "basic_concepts",
+  "definition_short": "基于 Transformer 架构、在海量文本上训练而成、拥有数十亿到万亿参数规模的语言模型，能完成理解、生成、推理等通用自然语言任务。",
+  "definition_long": "Large Language Model（LLM，大语言模型）是一种基于 Transformer 架构的深度神经网络模型，通过在海量互联网文本语料上进行自监督预训练（通常是下一个 token 预测任务），习得了广泛的语言知识与世界知识。参数规模通常在数十亿（B）到万亿级别，使其涌现出 zero-shot / few-shot 学习、指令遵循、代码生成、多步推理等能力。代表模型包括 GPT 系列、Claude、Gemini、LLaMA、Qwen 等。LLM 的训练流程通常分为预训练（Pre-training）、监督微调（SFT）、人类反馈强化学习（RLHF）三阶段。LLM 已成为当前 AI 应用的核心基础设施，驱动了聊天助手、代码补全、Agent、RAG 等各类应用。",
+  "key_concepts": [
+    "Transformer 架构",
+    "Pre-training 预训练",
+    "Emergent Abilities 涌现能力",
+    "In-Context Learning 上下文学习",
+    "Scaling Laws 缩放定律",
+    "RLHF 人类反馈强化学习"
+  ],
+  "use_cases": [
+    "聊天助手与对话系统（如 ChatGPT、Claude）",
+    "代码生成与辅助编程（如 Copilot、Cursor）",
+    "文档摘要、翻译、改写等通用文本处理",
+    "作为 Agent 系统的决策大脑，调用工具完成任务"
+  ],
+  "related_terms": ["transformer", "pre_training", "rlhf", "instruction_tuning", "in_context_learning", "context_window"],
+  "code_example": "from openai import OpenAI\nclient = OpenAI()\nresp = client.chat.completions.create(\n    model='gpt-4o',\n    messages=[{'role': 'user', 'content': '用一句话解释什么是大语言模型。'}]\n)\nprint(resp.choices[0].message.content)",
+  "difficulty": 2,
+  "tags": ["language_models", "core", "foundational", "transformer"]
+}

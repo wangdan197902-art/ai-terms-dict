@@ -1,0 +1,239 @@
+[en]
+  languageName = "English"
+  languageCode = "en-us"
+  languageDirection = "ltr"
+  weight = 1
+  title = "AI Terms Dictionary"
+  contentDir = "content/en"
+
+[es]
+  languageName = "Español"
+  languageCode = "es-es"
+  languageDirection = "ltr"
+  weight = 2
+  title = "Diccionario de Términos de IA"
+  contentDir = "content/es"
+
+[de]
+  languageName = "Deutsch"
+  languageCode = "de-de"
+  languageDirection = "ltr"
+  weight = 3
+  title = "KI-Begriffsverzeichnis"
+  contentDir = "content/de"
+
+[ja]
+  languageName = "日本語"
+  languageCode = "ja-jp"
+  languageDirection = "ltr"
+  weight = 4
+  title = "AI用語辞典"
+  contentDir = "content/ja"
+
+[fr]
+  languageName = "Français"
+  languageCode = "fr-fr"
+  languageDirection = "ltr"
+  weight = 5
+  title = "Dictionnaire des Termes d'IA"
+  contentDir = "content/fr"
+
+[zh]
+  languageName = "中文"
+  languageCode = "zh-cn"
+  languageDirection = "ltr"
+  weight = 6
+  title = "AI术语词典"
+  contentDir = "content/zh"
+
+[pt]
+  languageName = "Português"
+  languageCode = "pt-br"
+  languageDirection = "ltr"
+  weight = 7
+  title = "Dicionário de Termos de IA"
+  contentDir = "content/pt"
+
+[ru]
+  languageName = "Русский"
+  languageCode = "ru-ru"
+  languageDirection = "ltr"
+  weight = 8
+  title = "Словарь ИИ терминов"
+  contentDir = "content/ru"
+
+[ko]
+  languageName = "한국어"
+  languageCode = "ko-kr"
+  languageDirection = "ltr"
+  weight = 9
+  title = "AI 용어 사전"
+  contentDir = "content/ko"
+
+[ar]
+  languageName = "العربية"
+  languageCode = "ar-sa"
+  languageDirection = "rtl"
+  weight = 10
+  title = "قاموس مصطلحات الذكاء الاصطناعي"
+  contentDir = "content/ar"
+
+[hi]
+  languageName = "हिन्दी"
+  languageCode = "hi-in"
+  languageDirection = "ltr"
+  weight = 11
+  title = "एआई शब्दावली शब्दकोश"
+  contentDir = "content/hi"
+
+[it]
+  languageName = "Italiano"
+  languageCode = "it-it"
+  languageDirection = "ltr"
+  weight = 12
+  title = "Dizionario dei Termini AI"
+  contentDir = "content/it"
+
+[nl]
+  languageName = "Nederlands"
+  languageCode = "nl-nl"
+  languageDirection = "ltr"
+  weight = 13
+  title = "AI-termen Woordenboek"
+  contentDir = "content/nl"
+
+[pl]
+  languageName = "Polski"
+  languageCode = "pl-pl"
+  languageDirection = "ltr"
+  weight = 14
+  title = "Słownik terminów AI"
+  contentDir = "content/pl"
+
+[tr]
+  languageName = "Türkçe"
+  languageCode = "tr-tr"
+  languageDirection = "ltr"
+  weight = 15
+  title = "AI Terimleri Sözlüğü"
+  contentDir = "content/tr"
+
+[vi]
+  languageName = "Tiếng Việt"
+  languageCode = "vi-vn"
+  languageDirection = "ltr"
+  weight = 16
+  title = "Từ điển Thuật ngữ AI"
+  contentDir = "content/vi"
+
+[th]
+  languageName = "ไทย"
+  languageCode = "th-th"
+  languageDirection = "ltr"
+  weight = 17
+  title = "พจนานุกรมคำศัพท์ AI"
+  contentDir = "content/th"
+
+[id]
+  languageName = "Bahasa Indonesia"
+  languageCode = "id-id"
+  languageDirection = "ltr"
+  weight = 18
+  title = "Kamus Istilah AI"
+  contentDir = "content/id"
+
+[uk]
+  languageName = "Українська"
+  languageCode = "uk-ua"
+  languageDirection = "ltr"
+  weight = 19
+  title = "Словник термінів ШІ"
+  contentDir = "content/uk"
+
+[sv]
+  languageName = "Svenska"
+  languageCode = "sv-se"
+  languageDirection = "ltr"
+  weight = 20
+  title = "AI-termer Ordbok"
+  contentDir = "content/sv"
+
+[cs]
+  languageName = "Čeština"
+  languageCode = "cs-cz"
+  languageDirection = "ltr"
+  weight = 21
+  title = "Slovník AI termínů"
+  contentDir = "content/cs"
+
+[da]
+  languageName = "Dansk"
+  languageCode = "da-dk"
+  languageDirection = "ltr"
+  weight = 22
+  title = "AI-ordbog"
+  contentDir = "content/da"
+
+[fi]
+  languageName = "Suomi"
+  languageCode = "fi-fi"
+  languageDirection = "ltr"
+  weight = 23
+  title = "AI-termien Sanakirja"
+  contentDir = "content/fi"
+
+[no]
+  languageName = "Norsk"
+  languageCode = "no-no"
+  languageDirection = "ltr"
+  weight = 24
+  title = "AI-ordbok"
+  contentDir = "content/no"
+
+[he]
+  languageName = "עברית"
+  languageCode = "he-il"
+  languageDirection = "rtl"
+  weight = 25
+  title = "מילון מונחי בינה מלאכותית"
+  contentDir = "content/he"
+
+[ro]
+  languageName = "Română"
+  languageCode = "ro-ro"
+  languageDirection = "ltr"
+  weight = 26
+  title = "Dicționar de Termeni AI"
+  contentDir = "content/ro"
+
+[hu]
+  languageName = "Magyar"
+  languageCode = "hu-hu"
+  languageDirection = "ltr"
+  weight = 27
+  title = "AI Kifejezések Szótára"
+  contentDir = "content/hu"
+
+[el]
+  languageName = "Ελληνικά"
+  languageCode = "el-gr"
+  languageDirection = "ltr"
+  weight = 28
+  title = "Λεξικό Όρων ΤΝ"
+  contentDir = "content/el"
+
+[bg]
+  languageName = "Български"
+  languageCode = "bg-bg"
+  languageDirection = "ltr"
+  weight = 29
+  title = "Речник на AI термините"
+  contentDir = "content/bg"
+
+[hr]
+  languageName = "Hrvatski"
+  languageCode = "hr-hr"
+  languageDirection = "ltr"
+  weight = 30
+  title = "Rječnik AI Izraza"
+  contentDir = "content/hr"

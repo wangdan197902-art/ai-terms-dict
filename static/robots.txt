@@ -1,0 +1,19 @@
+# robots.txt for AI Terms Dictionary
+# https://developers.google.com/search/docs/crawling-indexing/robots
+
+# Allow all crawlers to access all content
+User-agent: *
+Allow: /
+
+# Block search result pages from indexing (avoid duplicate content)
+Disallow: /*/search?q=
+Disallow: /pagefind/
+
+# Crawl delay for politeness
+Crawl-delay: 1
+
+# Sitemap location (update to production URL when deployed)
+Sitemap: http://localhost:1313/sitemap.xml
+
+# AI crawler friendly (llms.txt available)
+# See https://llmstxt.org/

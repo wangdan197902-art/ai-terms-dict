@@ -1,0 +1,14 @@
+<article class="term-card">
+    <a href="{{ .RelPermalink }}">
+        <h3>{{ .Title }}</h3>
+        <p class="term-definition">{{ .Summary | truncate 100 }}</p>
+        <div class="term-meta">
+            {{ with .Params.category }}
+            <span class="badge">{{ . }}</span>
+            {{ end }}
+            {{ with .Params.difficulty }}
+            <span class="difficulty">★{{ . }}/5</span>
+            {{ end }}
+        </div>
+    </a>
+</article>

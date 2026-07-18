@@ -1,0 +1,41 @@
+{
+  "description": "黄金样本索引 — 手工编写的高质量术语样本，作为内容生成质量基准",
+  "count": 5,
+  "samples": [
+    {
+      "term_id": "prompt_engineering",
+      "english": "Prompt Engineering",
+      "category": "application_paradigms",
+      "file": "prompt_engineering.json",
+      "difficulty": 3
+    },
+    {
+      "term_id": "llm",
+      "english": "Large Language Model",
+      "category": "basic_concepts",
+      "file": "llm.json",
+      "difficulty": 2
+    },
+    {
+      "term_id": "transformer",
+      "english": "Transformer",
+      "category": "basic_concepts",
+      "file": "transformer.json",
+      "difficulty": 4
+    },
+    {
+      "term_id": "rag",
+      "english": "Retrieval-Augmented Generation",
+      "category": "application_paradigms",
+      "file": "rag.json",
+      "difficulty": 4
+    },
+    {
+      "term_id": "agent",
+      "english": "Agent",
+      "category": "application_paradigms",
+      "file": "agent.json",
+      "difficulty": 4
+    }
+  ]
+}

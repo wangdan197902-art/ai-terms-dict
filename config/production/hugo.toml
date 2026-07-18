@@ -1,0 +1,35 @@
+# 生产环境配置（云端迁移时使用）
+baseURL = "https://your-domain.com/"
+languageCode = "en-us"
+title = "AI Terms Dictionary"
+theme = "aiterms"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+enableGitInfo = true
+buildDrafts = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "github"
+    lineNos = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.7
+  filename = "sitemap.xml"
+
+# 生产环境特定参数
+[params]
+  enableAnalytics = true
+  analyticsType = "ga4"
+  analyticsId = ""
+  enableAds = true
+  adsType = "adsense"
+  adsSlot = ""

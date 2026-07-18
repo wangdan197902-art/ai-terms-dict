@@ -1,0 +1,6 @@
+{{ $count := .Get "count" | default 10 }}
+<div class="term-grid">
+{{ range first $count (where .Site.RegularPages "Params.term_id" "ne" nil) }}
+    {{ partial "term-card.html" . }}
+{{ end }}
+</div>

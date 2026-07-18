@@ -1,0 +1,47 @@
+[site_title]
+other = "KI-Begriffsverzeichnis"
+
+[site_description]
+other = "Umfassendes mehrsprachiges KI-Terminologie-Wörterbuch"
+
+[search_placeholder]
+other = "KI-Begriffe suchen..."
+
+[categories]
+other = "Kategorien"
+
+[all_terms]
+other = "Alle Begriffe"
+
+[last_updated]
+other = "Zuletzt aktualisiert"
+
+[related_terms]
+other = "Verwandte Begriffe"
+
+[key_concepts]
+other = "Schlüsselkonzepte"
+
+[use_cases]
+other = "Anwendungsfälle"
+
+[difficulty_level]
+other = "Schwierigkeit"
+
+[language_switcher]
+other = "Sprache wechseln"
+
+[dark_mode]
+other = "Dunkelmodus"
+
+[back_to_top]
+other = "Nach oben"
+
+[footer_text]
+other = "Erstellt mit Hugo. Angetrieben von AGNES_LLM."
+
+[404_message]
+other = "Seite nicht gefunden. Der gesuchte Begriff existiert möglicherweise noch nicht."
+
+[preview_badge]
+other = "Maschinenübersetzungsvorschau"

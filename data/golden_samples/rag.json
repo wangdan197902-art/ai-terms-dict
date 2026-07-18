@@ -1,0 +1,25 @@
+{
+  "term_id": "rag",
+  "english": "Retrieval-Augmented Generation",
+  "category": "application_paradigms",
+  "definition_short": "在生成回答前，先从外部知识库检索相关文档并注入提示词上下文，从而让 LLM 基于检索到的事实生成更准确、可溯源答案的架构模式。",
+  "definition_long": "Retrieval-Augmented Generation（RAG，检索增强生成）是 2020 年由 Facebook（Meta）提出的一种将信息检索与生成模型结合的架构。其核心思想是：在 LLM 生成回答之前，先根据用户查询从外部知识库（文档库、数据库、向量库）中检索出最相关的片段，然后将这些片段作为上下文拼接到提示词中，再交给 LLM 生成最终答案。RAG 的核心价值在于：（1）解决 LLM 知识截止与幻觉问题，无需重新训练即可注入最新或私有知识；（2）通过引用来源实现答案可溯源、可验证；（3）相比 fine-tuning 成本更低、更新更快。一个完整 RAG 系统通常包含：文档切分（Chunking）、嵌入（Embedding）、向量存储（Vector Database）、检索（Retrieval）、重排序（Reranking）、生成（Generation）六个阶段。RAG 是企业落地 LLM 最主流的架构之一。",
+  "key_concepts": [
+    "Chunking 文档切分",
+    "Embedding 向量嵌入",
+    "Vector Database 向量数据库",
+    "Semantic Search 语义检索",
+    "Reranking 重排序",
+    "Citation 引用溯源"
+  ],
+  "use_cases": [
+    "企业内部知识库问答（HR、制度、产品文档）",
+    "基于最新文档的问答（无需重新训练模型）",
+    "法律、医疗等专业领域可溯源问答",
+    "代码库问答与文档助手"
+  ],
+  "related_terms": ["embedding_model", "vector_database", "retrieval", "chunking", "reranking", "semantic_search", "knowledge_base", "citation", "hallucination"],
+  "code_example": "from openai import OpenAI\nimport faiss, numpy as np\n\nclient = OpenAI()\n\ndef embed(text):\n    r = client.embeddings.create(model='text-embedding-3-small', input=text)\n    return np.array(r.data[0].embedding, dtype='float32')\n\n# 1. 索引文档\nchunks = ['文档片段1...', '文档片段2...', '文档片段3...']\nvecs = np.stack([embed(c) for c in chunks])\nindex = faiss.IndexFlatL2(vecs.shape[1])\nindex.add(vecs)\n\n# 2. 检索 + 生成\nquery = '什么是RAG？'\nqvec = embed(query).reshape(1, -1)\n_, idx = index.search(qvec, 2)\ncontext = '\\n'.join(chunks[i] for i in idx[0])\nresp = client.chat.completions.create(\n    model='gpt-4o',\n    messages=[{'role': 'user', 'content': f'根据以下资料回答：\\n{context}\\n\\n问题：{query}'}]\n)\nprint(resp.choices[0].message.content)",
+  "difficulty": 4,
+  "tags": ["rag", "retrieval", "application", "core", "enterprise"]
+}

@@ -1,0 +1,958 @@
+{
+  "timestamp": "2026-07-18T08:15:15.598112Z",
+  "definitions": {
+    "total": 20,
+    "errors": 0,
+    "error_details": []
+  },
+  "translations": {
+    "total": 120,
+    "valid": 20,
+    "errors": [
+      {
+        "index": 20,
+        "term_id": "prompt_engineering",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 21,
+        "term_id": "ai_safety",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 22,
+        "term_id": "api",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 23,
+        "term_id": "agent",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 24,
+        "term_id": "alignment",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 25,
+        "term_id": "artificial_intelligence",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 26,
+        "term_id": "attention_mechanism",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 27,
+        "term_id": "backpropagation",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 28,
+        "term_id": "bias",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 29,
+        "term_id": "chain_of_thought",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 30,
+        "term_id": "code_generation",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 31,
+        "term_id": "computer_vision",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 32,
+        "term_id": "context_window",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 33,
+        "term_id": "convolutional_neural_network",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 34,
+        "term_id": "deep_learning",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 35,
+        "term_id": "embedding",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 36,
+        "term_id": "fine_tuning",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 37,
+        "term_id": "hallucination",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 38,
+        "term_id": "in_context_learning",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 39,
+        "term_id": "inference",
+        "language": "es",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 40,
+        "term_id": "prompt_engineering",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 41,
+        "term_id": "ai_safety",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 42,
+        "term_id": "api",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 43,
+        "term_id": "agent",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 44,
+        "term_id": "alignment",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 45,
+        "term_id": "artificial_intelligence",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 46,
+        "term_id": "attention_mechanism",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 47,
+        "term_id": "backpropagation",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 48,
+        "term_id": "bias",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 49,
+        "term_id": "chain_of_thought",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 50,
+        "term_id": "code_generation",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 51,
+        "term_id": "computer_vision",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 52,
+        "term_id": "context_window",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 53,
+        "term_id": "convolutional_neural_network",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 54,
+        "term_id": "deep_learning",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 55,
+        "term_id": "embedding",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 56,
+        "term_id": "fine_tuning",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 57,
+        "term_id": "hallucination",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 58,
+        "term_id": "in_context_learning",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 59,
+        "term_id": "inference",
+        "language": "de",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 60,
+        "term_id": "prompt_engineering",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 61,
+        "term_id": "ai_safety",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 62,
+        "term_id": "api",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 63,
+        "term_id": "agent",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 64,
+        "term_id": "alignment",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 65,
+        "term_id": "artificial_intelligence",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 66,
+        "term_id": "attention_mechanism",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 67,
+        "term_id": "backpropagation",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 68,
+        "term_id": "bias",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 69,
+        "term_id": "chain_of_thought",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 70,
+        "term_id": "code_generation",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 71,
+        "term_id": "computer_vision",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 72,
+        "term_id": "context_window",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 73,
+        "term_id": "convolutional_neural_network",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 74,
+        "term_id": "deep_learning",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 75,
+        "term_id": "embedding",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 76,
+        "term_id": "fine_tuning",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 77,
+        "term_id": "hallucination",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 78,
+        "term_id": "in_context_learning",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 79,
+        "term_id": "inference",
+        "language": "ja",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 80,
+        "term_id": "prompt_engineering",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 81,
+        "term_id": "ai_safety",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 82,
+        "term_id": "api",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 83,
+        "term_id": "agent",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 84,
+        "term_id": "alignment",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 85,
+        "term_id": "artificial_intelligence",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 86,
+        "term_id": "attention_mechanism",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 87,
+        "term_id": "backpropagation",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 88,
+        "term_id": "bias",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 89,
+        "term_id": "chain_of_thought",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 90,
+        "term_id": "code_generation",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 91,
+        "term_id": "computer_vision",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 92,
+        "term_id": "context_window",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 93,
+        "term_id": "convolutional_neural_network",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 94,
+        "term_id": "deep_learning",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 95,
+        "term_id": "embedding",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 96,
+        "term_id": "fine_tuning",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 97,
+        "term_id": "hallucination",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 98,
+        "term_id": "in_context_learning",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 99,
+        "term_id": "inference",
+        "language": "fr",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 100,
+        "term_id": "prompt_engineering",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 101,
+        "term_id": "ai_safety",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 102,
+        "term_id": "api",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 103,
+        "term_id": "agent",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 104,
+        "term_id": "alignment",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 105,
+        "term_id": "artificial_intelligence",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 106,
+        "term_id": "attention_mechanism",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 107,
+        "term_id": "backpropagation",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 108,
+        "term_id": "bias",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 109,
+        "term_id": "chain_of_thought",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 110,
+        "term_id": "code_generation",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 111,
+        "term_id": "computer_vision",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 112,
+        "term_id": "context_window",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 113,
+        "term_id": "convolutional_neural_network",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 114,
+        "term_id": "deep_learning",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 115,
+        "term_id": "embedding",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 116,
+        "term_id": "fine_tuning",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 117,
+        "term_id": "hallucination",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 118,
+        "term_id": "in_context_learning",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      },
+      {
+        "index": 119,
+        "term_id": "inference",
+        "language": "zh",
+        "errors": [
+          "Schema: 'english' is a required property at []",
+          "Missing required field: english"
+        ]
+      }
+    ],
+    "by_language": {
+      "en": 20,
+      "es": 20,
+      "de": 20,
+      "ja": 20,
+      "fr": 20,
+      "zh": 20
+    },
+    "by_source": {
+      "agnes_llm": 120
+    },
+    "completeness": {
+      "expected_langs": [
+        "es",
+        "fr",
+        "zh",
+        "de",
+        "ja",
+        "en"
+      ],
+      "total_terms": 20,
+      "complete_terms": 20,
+      "incomplete": []
+    }
+  },
+  "quality": {
+    "total_definitions": 20,
+    "category_distribution": {
+      "application_paradigms": 5,
+      "ethics_safety": 3,
+      "engineering_practice": 3,
+      "basic_concepts": 7,
+      "training_techniques": 2
+    },
+    "difficulty_distribution": {
+      "2": 6,
+      "4": 4,
+      "1": 2,
+      "3": 8
+    },
+    "avg_key_concepts": 4.0,
+    "avg_use_cases": 3.0,
+    "with_code_example": 9,
+    "potential_duplicates": []
+  }
+}

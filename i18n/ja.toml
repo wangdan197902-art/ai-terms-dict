@@ -1,0 +1,47 @@
+[site_title]
+other = "AI用語辞典"
+
+[site_description]
+other = "包括的な多言語AI用語辞典"
+
+[search_placeholder]
+other = "AI用語を検索..."
+
+[categories]
+other = "カテゴリ"
+
+[all_terms]
+other = "すべての用語"
+
+[last_updated]
+other = "最終更新"
+
+[related_terms]
+other = "関連用語"
+
+[key_concepts]
+other = "主要概念"
+
+[use_cases]
+other = "ユースケース"
+
+[difficulty_level]
+other = "難易度"
+
+[language_switcher]
+other = "言語切替"
+
+[dark_mode]
+other = "ダークモード"
+
+[back_to_top]
+other = "トップへ戻る"
+
+[footer_text]
+other = "Hugoで構築。AGNES_LLMで駆動。"
+
+[404_message]
+other = "ページが見つかりません。お探しの用語はまだ存在しない可能性があります。"
+
+[preview_badge]
+other = "機械翻訳プレビュー"

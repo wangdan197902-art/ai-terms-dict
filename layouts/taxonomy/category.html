@@ -1,0 +1,19 @@
+{{ define "main" }}
+{{ $catKey := .Params.category | default .Data.Term | default .Title }}
+{{ $cats := .Site.Data.categories.categories }}
+{{ $cat := index $cats $catKey }}
+<section class="category-page">
+    <header>
+        {{ with $cat }}
+        <span class="category-icon">{{ .icon }}</span>
+        {{ end }}
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Description | default "Browse terms in this category" }}</p>
+    </header>
+    <div class="term-grid">
+        {{ range .Pages }}
+            {{ partial "term-card.html" . }}
+        {{ end }}
+    </div>
+</section>
+{{ end }}

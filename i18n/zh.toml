@@ -1,0 +1,47 @@
+[site_title]
+other = "AI术语词典"
+
+[site_description]
+other = "综合性多语种AI术语词典"
+
+[search_placeholder]
+other = "搜索AI术语..."
+
+[categories]
+other = "分类"
+
+[all_terms]
+other = "全部术语"
+
+[last_updated]
+other = "最后更新"
+
+[related_terms]
+other = "相关术语"
+
+[key_concepts]
+other = "核心概念"
+
+[use_cases]
+other = "应用场景"
+
+[difficulty_level]
+other = "难度"
+
+[language_switcher]
+other = "切换语言"
+
+[dark_mode]
+other = "深色模式"
+
+[back_to_top]
+other = "回到顶部"
+
+[footer_text]
+other = "使用Hugo构建。由AGNES_LLM驱动。"
+
+[404_message]
+other = "页面未找到。您查找的术语可能尚未收录。"
+
+[preview_badge]
+other = "机翻预览"

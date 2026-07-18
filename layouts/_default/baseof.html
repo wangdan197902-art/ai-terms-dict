@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.LanguageCode }}" dir="{{ .Site.Language.LanguageDirection | default "ltr" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo {{ hugo.Version }}">
+    {{ partial "seo.html" . }}
+    {{ partial "structured-data.html" . }}
+    <!-- Google AdSense（待审核通过后激活）
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXX" crossorigin="anonymous"></script>
+    -->
+    <link rel="icon" href="{{ "favicon.svg" | relURL }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}'>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    {{ block "head" . }}{{ end }}
+</head>
+<body>
+    <a href="#main-content" class="skip-link">{{ T "skip_to_content" | default "Skip to content" }}</a>
+    {{ partial "header.html" . }}
+    <main class="container" id="main-content">
+        {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+    <script src="{{ "js/main.js" | relURL }}" defer></script>
+    <script src="{{ "js/search.js" | relURL }}" defer></script>
+    {{ block "scripts" . }}{{ end }}
+</body>
+</html>

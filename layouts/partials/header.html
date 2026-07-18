@@ -1,0 +1,22 @@
+<header class="site-header">
+    <div class="container">
+        <a href="{{ "/" | relLangURL }}" class="logo">
+            <img src="{{ "logo.svg" | relURL }}" alt="{{ .Site.Title }}" width="32" height="32">
+            <span>{{ .Site.Title }}</span>
+        </a>
+        <nav class="main-nav">
+            <a href="{{ "/" | relLangURL }}">Home</a>
+            <a href="{{ "/terms/" | relLangURL }}">Terms</a>
+            <a href="{{ "/categories/" | relLangURL }}">Categories</a>
+            <a href="{{ "/search/" | relLangURL }}">Search</a>
+        </nav>
+        <div class="header-actions">
+            {{ partial "search-box.html" . }}
+            {{ partial "language-switcher.html" . }}
+            <button class="theme-toggle" aria-label="Toggle dark mode">
+                <span class="icon icon-sun">☀</span>
+                <span class="icon icon-moon">☾</span>
+            </button>
+        </div>
+    </div>
+</header>

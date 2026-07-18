@@ -1,0 +1,10 @@
+{{ $cats := .Site.Data.categories.categories }}
+{{ range $key, $cat := $cats }}
+{{ $termCount := len (where $.Site.RegularPages "Params.category" $key) }}
+<a href="{{ printf "/categories/%s/" $key | relLangURL }}" class="category-card">
+    <span class="category-icon">{{ $cat.icon }}</span>
+    <h3>{{ index $cat .Site.Language.Lang }}</h3>
+    <p>{{ index $cat.description .Site.Language.Lang | default (index $cat.description "en") }}</p>
+    <span class="term-count">{{ $termCount }} terms</span>
+</a>
+{{ end }}
