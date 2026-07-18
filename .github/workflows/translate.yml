@@ -1,0 +1,89 @@
+name: Translate Terms Daily
+
+on:
+  workflow_dispatch:
+    inputs:
+      langs:
+        description: '目标语种，逗号分隔，如pt,ru,ko。留空则翻译全部29种'
+        required: false
+        default: ''
+      batch_size:
+        description: '批量大小，默认5'
+        required: false
+        default: '5'
+  schedule:
+    # 每日北京时间9:00（UTC 1:00）自动触发
+    - cron: '0 1 * * *'
+
+permissions:
+  contents: write
+
+env:
+  AGNES_LLM_API_KEY: ${{ secrets.AGNES_LLM_API_KEY }}
+  AGNES_LLM_BASE_URL: ${{ secrets.AGNES_LLM_BASE_URL }}
+  AGNES_LLM_MODEL: ${{ secrets.AGNES_LLM_MODEL }}
+  ENV_MODE: cloud
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install openai python-dotenv requests
+
+      - name: Prepare translate command
+        id: prep
+        run: |
+          LANGS="${{ github.event.inputs.langs }}"
+          BATCH_SIZE="${{ github.event.inputs.batch_size }}"
+          # 定时触发或手动未传参时，使用默认值
+          if [ -z "$LANGS" ]; then
+            LANGS=""
+          fi
+          if [ -z "$BATCH_SIZE" ]; then
+            BATCH_SIZE="5"
+          fi
+          echo "langs=$LANGS" >> $GITHUB_OUTPUT
+          echo "batch_size=$BATCH_SIZE" >> $GITHUB_OUTPUT
+          echo "目标语种: '$LANGS'"
+          echo "批量大小: $BATCH_SIZE"
+
+      - name: Run translate_batch
+        run: |
+          LANGS="${{ steps.prep.outputs.langs }}"
+          BATCH_SIZE="${{ steps.prep.outputs.batch_size }}"
+          if [ -n "$LANGS" ]; then
+            python3 -m scripts.translate_batch --langs "$LANGS" --batch-size "$BATCH_SIZE"
+          else
+            python3 -m scripts.translate_batch --batch-size "$BATCH_SIZE"
+          fi
+
+      - name: Commit translations
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/queue/translated_terms_*.json data/translations/glossary.json data/progress/trans_progress_*.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-translate update $(date -u +'%Y-%m-%d %H:%M')"
+            echo "committed=true" >> $GITHUB_ENV
+          fi
+
+      - name: Push changes
+        if: env.committed == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        run: git push
