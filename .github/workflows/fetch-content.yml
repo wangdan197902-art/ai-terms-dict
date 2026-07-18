@@ -1,0 +1,106 @@
+name: Fetch Content Weekly
+
+on:
+  schedule:
+    # 每周北京时间周一凌晨2:00（UTC 18:00 周日）
+    - cron: '0 18 * * 0'
+  workflow_dispatch:
+    inputs:
+      max_terms:
+        description: '最大抓取术语数量（默认20）'
+        required: false
+        default: '20'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-content
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-generate:
+    runs-on: ubuntu-latest
+    env:
+      AGNES_LLM_API_KEY: ${{ secrets.AGNES_LLM_API_KEY }}
+      AGNES_LLM_BASE_URL: ${{ secrets.AGNES_LLM_BASE_URL }}
+      AGNES_LLM_MODEL: ${{ secrets.AGNES_LLM_MODEL }}
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      ENV_MODE: cloud
+      MAX_TERMS: ${{ inputs.max_terms || '20' }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install --quiet openai python-dotenv requests beautifulsoup4 lxml
+
+      - name: Fetch new terms
+        id: fetch
+        continue-on-error: true
+        run: |
+          echo "抓取最多 $MAX_TERMS 个新术语..."
+          python3 -m scripts.fetch_terms_local 2>&1 | tee fetch.log || echo "fetch_failed=true" >> $GITHUB_ENV
+          echo "=== 抓取日志（最后20行）==="
+          tail -20 fetch.log
+
+      - name: Generate definitions
+        id: generate
+        continue-on-error: true
+        run: |
+          echo "生成术语定义..."
+          python3 -m scripts.generate_definitions_batch 2>&1 | tee gen.log || echo "gen_failed=true" >> $GITHUB_ENV
+          echo "=== 生成日志（最后20行）==="
+          tail -20 gen.log
+
+      - name: Build Hugo content
+        id: build
+        continue-on-error: true
+        run: |
+          echo "构建Hugo内容..."
+          python3 -m scripts.build_content 2>&1 | tee build.log || echo "build_failed=true" >> $GITHUB_ENV
+          echo "=== 构建日志（最后20行）==="
+          tail -20 build.log
+
+      - name: Commit new content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ content/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "无新内容需要提交"
+            echo "committed=false" >> $GITHUB_ENV
+          else
+            git commit -m "feat: auto-fetch $(date -u +'%Y-%m-%d') new AI terms"
+            echo "committed=true" >> $GITHUB_ENV
+          fi
+
+      - name: Push changes
+        if: env.committed == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        run: |
+          git push
+          echo "✓ 已推送新内容，将触发deploy.yml和translate.yml workflow"
+
+      - name: Workflow summary
+        if: always()
+        run: |
+          echo "=== Fetch Content Workflow 总结 ==="
+          echo "抓取状态: ${{ steps.fetch.outcome }}"
+          echo "生成状态: ${{ steps.generate.outcome }}"
+          echo "构建状态: ${{ steps.build.outcome }}"
+          echo "提交状态: ${{ env.committed }}"
+          if [ "${{ env.fetch_failed }}" = "true" ] || [ "${{ env.gen_failed }}" = "true" ] || [ "${{ env.build_failed }}" = "true" ]; then
+            echo "⚠ 部分步骤失败，但workflow继续执行"
+          fi

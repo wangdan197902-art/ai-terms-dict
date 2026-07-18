@@ -1,0 +1,78 @@
+[
+  {
+    "term_id": "prompt_engineering",
+    "term_name": "프롬프트 엔지니어링",
+    "definition_short": "대규모 언어 모델이 원하는 출력을 생성하도록 유도하기 위해 입력 텍스트를 설계하고 최적화하는 관행.",
+    "definition_long": "프롬프트 엔지니어링은 생성형 AI 모델로부터 정확하고 관련성이 높으며 고품질의 응답을 이끌어내기 위해 '프롬프트'라고 불리는 특정 입력을 구성하는 작업을 포함합니다. 이는 모델이 프롬프트를 어떻게 해석하는지에 대한 이해가 필요하며, 문맥적 프레임 설정, 퓨샷 학습(Few-shot learning), 지시어 튜닝(Instruction tuning), 토큰 최적화(Token optimization) 등의 기법을 활용하여 모델의 성능을 극대화합니다.",
+    "key_concepts": [
+      "문맥적 프레임 설정(Contextual framing)",
+      "퓨샷 학습(Few-shot learning)",
+      "지시어 튜닝(Instruction tuning)",
+      "토큰 최적화(Token optimization)"
+    ],
+    "use_cases": [
+      "자동화된 고객 지원 챗봇",
+      "코드 생성 보조 도구",
+      "창작 글쓰기 지원 도구"
+    ],
+    "related_terms": [
+      "LLM (대규모 언어 모델)",
+      "Chain-of-Thought (사고의 사슬)",
+      "RAG (검색 증강 생성)",
+      "Fine-tuning (파인튜닝/미세 조정)"
+    ],
+    "language": "ko",
+    "source_language": "en",
+    "target_language": "ko",
+    "source": "agnes_llm",
+    "generated_at": "2026-07-18T13:43:38.774818Z",
+    "model": "agnes-2.0-flash",
+    "category": "application_paradigms",
+    "difficulty": 2,
+    "tags": [
+      "LLM",
+      "UX",
+      "Optimization"
+    ],
+    "code_example": "prompt = \"Translate the following English text to French: 'Hello world'\"\nresponse = llm.generate(prompt)",
+    "english": "Prompt Engineering"
+  },
+  {
+    "term_id": "ai_safety",
+    "term_name": "AI 안전성",
+    "definition_short": "고도화된 인공지능 시스템으로 인한 의도치 않은 유해한 결과를 방지하는 데 중점을 둔 연구 분야.",
+    "definition_long": "AI 안전성은 자율 시스템이 인간에게 유익하고 해롭지 않게 행동하도록 보장하기 위한 연구와 실천을 포괄합니다. 이 분야는 편향(Bias), 허위 정보 확산, 보안 취약점 등 다양한 위험 요소를 다루며, 시스템의 견고성(Robustness), 위험 평가(Risk assessment), 실패 시 안전 장치(Fail-safes), 투명성(Transparency) 등을 확보함으로써 AI 기술의 신뢰성과 사회적 수용성을 높이는 것을 목표로 합니다.",
+    "key_concepts": [
+      "견고성(Robustness)",
+      "위험 평가(Risk assessment)",
+      "실패 시 안전 장치(Fail-safes)",
+      "투명성(Transparency)"
+    ],
+    "use_cases": [
+      "자율주행차 규제 및 안전 기준 수립",
+      "의료 진단 도구 검증",
+      "금융 사기 탐지 시스템의 신뢰성 확보"
+    ],
+    "related_terms": [
+      "Alignment (정렬/가치 정합)",
+      "Ethics (윤리)",
+      "Bias Mitigation (편향 완화)",
+      "Governance (거버넌스/규제 체계)"
+    ],
+    "language": "ko",
+    "source_language": "en",
+    "target_language": "ko",
+    "source": "agnes_llm",
+    "generated_at": "2026-07-18T13:43:38.774866Z",
+    "model": "agnes-2.0-flash",
+    "category": "ethics_safety",
+    "difficulty": 4,
+    "tags": [
+      "Risk",
+      "Policy",
+      "Research"
+    ],
+    "code_example": null,
+    "english": "AI Safety"
+  }
+]

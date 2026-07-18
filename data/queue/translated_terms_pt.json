@@ -1,0 +1,78 @@
+[
+  {
+    "term_id": "prompt_engineering",
+    "term_name": "Engenharia de Prompt",
+    "definition_short": "A prática de projetar e otimizar textos de entrada para orientar grandes modelos de linguagem em direção a saídas desejadas.",
+    "definition_long": "A engenharia de prompt envolve a criação de entradas específicas, conhecidas como prompts, para elicitar respostas precisas, relevantes e de alta qualidade de modelos de IA generativa. Requer compreender como os modelos interpretam o contexto e as instruções fornecidas.",
+    "key_concepts": [
+      "Enquadramento contextual",
+      "Aprendizado few-shot",
+      "Ajuste por instrução",
+      "Otimização de tokens"
+    ],
+    "use_cases": [
+      "Chatbots de atendimento ao cliente automatizados",
+      "Assistentes de geração de código",
+      "Auxiliares de escrita criativa"
+    ],
+    "related_terms": [
+      "LLM (Modelo de Linguagem de Grande Escala)",
+      "Chain-of-Thought (Cadeia de Pensamento)",
+      "RAG (Recuperação Aumentada por Geração)",
+      "Fine-tuning (Ajuste Fino)"
+    ],
+    "language": "pt",
+    "source_language": "en",
+    "target_language": "pt",
+    "source": "agnes_llm",
+    "generated_at": "2026-07-18T13:43:28.034998Z",
+    "model": "agnes-2.0-flash",
+    "category": "application_paradigms",
+    "difficulty": 2,
+    "tags": [
+      "LLM",
+      "UX",
+      "Optimization"
+    ],
+    "code_example": "prompt = \"Translate the following English text to French: 'Hello world'\"\nresponse = llm.generate(prompt)",
+    "english": "Prompt Engineering"
+  },
+  {
+    "term_id": "ai_safety",
+    "term_name": "Segurança de IA",
+    "definition_short": "Uma área de estudo focada em prevenir consequências prejudiciais não intencionais de sistemas avançados de inteligência artificial.",
+    "definition_long": "A segurança de IA abrange pesquisas e práticas destinadas a garantir que sistemas autônomos se comportem de maneira benéfica e não prejudicial aos seres humanos. Aborda riscos como viés, desinformação e segurança cibernética.",
+    "key_concepts": [
+      "Robustez",
+      "Avaliação de riscos",
+      "Medidas de proteção (fail-safes)",
+      "Transparência"
+    ],
+    "use_cases": [
+      "Regulamentação de veículos autônomos",
+      "Validação de ferramentas de diagnóstico médico",
+      "Sistemas de detecção de fraude financeira"
+    ],
+    "related_terms": [
+      "Alignment (Alinhamento)",
+      "Ética",
+      "Mitigação de Viés",
+      "Governança"
+    ],
+    "language": "pt",
+    "source_language": "en",
+    "target_language": "pt",
+    "source": "agnes_llm",
+    "generated_at": "2026-07-18T13:43:28.035051Z",
+    "model": "agnes-2.0-flash",
+    "category": "ethics_safety",
+    "difficulty": 4,
+    "tags": [
+      "Risk",
+      "Policy",
+      "Research"
+    ],
+    "code_example": null,
+    "english": "AI Safety"
+  }
+]
