@@ -96,6 +96,13 @@ def build_batch_translate_messages(definitions: list, target_lang: str) -> list:
     lang_names = {
         "es": "Spanish", "de": "German", "ja": "Japanese",
         "fr": "French", "zh": "Chinese (Simplified)",
+        "pt": "Portuguese (Brazilian)", "ru": "Russian", "ko": "Korean",
+        "ar": "Arabic", "hi": "Hindi", "it": "Italian", "nl": "Dutch",
+        "pl": "Polish", "tr": "Turkish", "vi": "Vietnamese", "th": "Thai",
+        "id": "Indonesian", "uk": "Ukrainian", "sv": "Swedish",
+        "cs": "Czech", "da": "Danish", "fi": "Finnish", "no": "Norwegian",
+        "he": "Hebrew", "ro": "Romanian", "hu": "Hungarian",
+        "el": "Greek", "bg": "Bulgarian", "hr": "Croatian",
     }
     defs_summary = json.dumps([
         {

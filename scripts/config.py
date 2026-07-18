@@ -124,12 +124,18 @@ class Config:
             path.mkdir(parents=True, exist_ok=True)
 
     def get_supported_languages(self) -> list:
-        """获取支持的语种列表。"""
-        return ["en", "es", "de", "ja", "fr", "zh"]
+        """获取支持的语种列表（30种，对齐languages.toml配置）。"""
+        return [
+            "en", "es", "de", "ja", "fr", "zh",  # 6种已完整翻译
+            "pt", "ru", "ko", "ar", "hi", "it", "nl", "pl", "tr", "vi",  # 扩展10种
+            "th", "id", "uk", "sv", "cs", "da", "fi", "no", "he",  # 扩展5种
+            "ro", "hu", "el", "bg", "hr",  # 扩展4种
+        ]
 
     def get_target_languages(self) -> list:
-        """获取目标翻译语种（不含英文）。"""
-        return ["es", "de", "ja", "fr", "zh"]
+        """获取目标翻译语种（不含英文，共29种）。"""
+        langs = self.get_supported_languages()
+        return [l for l in langs if l != "en"]
 
     def is_local(self) -> bool:
         """是否本地模式。"""

@@ -12,8 +12,8 @@ Disallow: /pagefind/
 # Crawl delay for politeness
 Crawl-delay: 1
 
-# Sitemap location (update to production URL when deployed)
-Sitemap: http://localhost:1313/sitemap.xml
+# Sitemap location (production)
+Sitemap: https://ai-terms-dict.pages.dev/sitemap.xml
 
 # AI crawler friendly (llms.txt available)
 # See https://llmstxt.org/

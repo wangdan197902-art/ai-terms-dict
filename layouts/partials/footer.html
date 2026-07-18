@@ -1,3 +1,7 @@
+{{/* AdSense 广告位：底部横幅 728x90（待审核通过后激活） */}}
+<div class="ad-container ad-footer" data-ad-slot="footer-banner">
+    {{/* <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXX" data-ad-slot="XXXX" data-ad-format="auto" data-full-width-responsive="true"></ins> */}}
+</div>
 <footer class="site-footer">
     <div class="container">
         <div class="footer-grid">
@@ -28,3 +32,25 @@
         </div>
     </div>
 </footer>
+<!-- 待AdSense审核通过后取消注释以下GA4转化追踪代码 -->
+{{/*
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('.ad-container').forEach(function(el) {
+        el.addEventListener('click', function() {
+            var slot = el.getAttribute('data-ad-slot') || 'unknown';
+            if (typeof gtag === 'function') {
+                gtag('event', 'ad_click', {
+                    event_category: 'adsense',
+                    event_label: slot,
+                    value: 1
+                });
+                gtag('event', 'conversion', {
+                    send_to: 'G-15279420781/ad_click'
+                });
+            }
+        });
+    });
+});
+</script>
+*/}}
