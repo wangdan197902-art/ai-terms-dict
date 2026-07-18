@@ -45,19 +45,15 @@
 <meta name="twitter:description" content="{{ $description }}">
 <meta name="twitter:image" content="{{ $ogImage | absURL }}">
 
-{{/* hreflang: For term pages, query en site (default language) whose AllPages contains all languages */}}
-{{ with .Params.term_id }}
-    {{ range where $.Sites "Language.Lang" "en" }}
-        {{ $matched := where .AllPages "Params.term_id" $.Params.term_id }}
-        {{ range $matched }}
+{{/* hreflang: 优先使用 Hugo 原生 .Translations（性能最优），失败时 fallback 到 AllTranslations */}}
+{{ if .Translations }}
+    {{ range .Translations }}
 <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
-        {{ if eq .Language.Lang "en" }}
+    {{ if eq .Language.Lang "en" }}
 <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
-        {{ end }}
-        {{ end }}
+    {{ end }}
     {{ end }}
 {{ else }}
-{{/* Non-term pages: use AllTranslations (same relative path across languages) */}}
     {{ range .AllTranslations }}
 <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
     {{ if eq .Language.Lang "en" }}

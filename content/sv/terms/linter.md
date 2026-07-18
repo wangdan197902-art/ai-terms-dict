@@ -1,0 +1,47 @@
+---
+title: "Linter"
+term_id: "linter"
+category: "engineering_practice"
+subcategory: ""
+tags: ["devops", "software_engineering", "tools"]
+difficulty: 1
+weight: 1
+slug: "linter"
+aliases:
+  - /sv/terms/linter/
+date: "2026-07-18T16:07:04.720063Z"
+lastmod: "2026-07-18T17:15:09.021386Z"
+draft: false
+source: "agnes_llm"
+status: "published"
+language: "sv"
+description: "Ett statiskt kodanalysverktyg som flaggar för programmeringsfel, buggar, stilistiska fel och misstänkta konstruktioner."
+---
+
+## Definition
+
+En linter är ett verktyg som utför statisk analys på källkod utan att exekvera den. Den kontrollerar syntaxfel, potentiella buggar, 'code smells' och avvikelser från stilguider eller bästa praxis.
+
+### Summary
+
+Ett statiskt kodanalysverktyg som flaggar för programmeringsfel, buggar, stilistiska fel och misstänkta konstruktioner.
+
+## Key Concepts
+
+- Statisk analys
+- Kodkvalitet
+- Stilhandläggning
+- Buggdetektering
+
+## Use Cases
+
+- Automatisk kodgranskning
+- Pre-commit-hooks
+- Validering i CI/CD-pipelines
+
+## Related Terms
+
+- [static_analysis (statisk analys)](/en/terms/static_analysis-statisk-analys/)
+- [code_quality (kodkvalitet)](/en/terms/code_quality-kodkvalitet/)
+- [style_guide (stilguide)](/en/terms/style_guide-stilguide/)
+- [refactoring (refaktorisering)](/en/terms/refactoring-refaktorisering/)

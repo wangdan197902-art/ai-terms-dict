@@ -4,19 +4,16 @@
         <span class="caret">▾</span>
     </button>
     <ul class="lang-menu">
-        {{/* Default: Hugo's AllTranslations works for pages with same relative path (home, etc.) */}}
-        {{ $translations := $.Page.AllTranslations }}
-        {{/* Fallback: for term detail pages with localized folder names, match by term_id */}}
-        {{ with $.Page.Params.term_id }}
-            {{ $matched := where $.Site.AllPages "Params.term_id" . }}
-            {{ if gt (len $matched) (len $translations) }}
-                {{ $translations = $matched }}
-            {{ end }}
+        {{/* 优先使用 Hugo 原生 .Translations（性能最优，自动处理 term_id 关联） */}}
+        {{ $translations := $.Page.Translations }}
+        {{/* Fallback: 非术语页用 AllTranslations（首页、分类页等） */}}
+        {{ if not $translations }}
+            {{ $translations = $.Page.AllTranslations }}
         {{ end }}
         {{ range $translations }}
         <li>
             <a href="{{ .RelPermalink }}"
-               hreflang="{{ .Language.LanguageCode }}"
+               hreflang="{{ .Language.Lang }}"
                {{ if eq .Language.Lang $.Site.Language.Lang }}class="active"{{ end }}>
                 {{ .Language.LanguageName }}
             </a>

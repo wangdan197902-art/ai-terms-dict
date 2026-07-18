@@ -1,5 +1,5 @@
 # 生产环境配置（云端迁移时使用）
-baseURL = "https://your-domain.com/"
+baseURL = "https://terms.ai-term-hub.com/"
 languageCode = "en-us"
 title = "AI Terms Dictionary"
 theme = "aiterms"

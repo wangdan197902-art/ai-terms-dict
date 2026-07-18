@@ -1,0 +1,47 @@
+---
+title: "Αμφιλεγόμενα ζητήματα τεχνητής νοημοσύνης"
+term_id: "artificial_intelligence_controversies"
+category: "basic_concepts"
+subcategory: ""
+tags: ["ethics", "society", "debate"]
+difficulty: 2
+weight: 1
+slug: "artificial_intelligence_controversies"
+aliases:
+  - /el/terms/artificial_intelligence_controversies/
+date: "2026-07-18T15:51:02.302678Z"
+lastmod: "2026-07-18T17:15:09.880718Z"
+draft: false
+source: "agnes_llm"
+status: "published"
+language: "el"
+description: "Δημόσιες συζητήσεις και διαφωνίες σχετικά με τις ηθικές, κοινωνικές και τεχνικές επιπτώσεις της ανάπτυξης και υλοποίησης της ΤΝ."
+---
+
+## Definition
+
+Οι αμφιλεγόμενες υποθέσεις ΤΝ περιλαμβάνουν το ευρύ φάσμα ηθικών, νομικών και κοινωνικών διαφορών που προκύπτουν από τις τεχνολογίες τεχνητής νοημοσύνης. Κεντρικά ζητήματα περιλαμβάνουν τη μεροληψία των αλγορίθμων, τις παραβιάσεις της ιδιωτικότητας και την αντικατάσταση θέσεων εργασίας.
+
+### Summary
+
+Δημόσιες συζητήσεις και διαφωνίες σχετικά με τις ηθικές, κοινωνικές και τεχνικές επιπτώσεις της ανάπτυξης και υλοποίησης της ΤΝ.
+
+## Key Concepts
+
+- Μεροληψία αλγορίθμων
+- Ανησυχίες για την ιδιωτικότητα
+- Αντικατάσταση θέσεων εργασίας
+- Ηθική διακυβέρνηση
+
+## Use Cases
+
+- Νομοθεσία και ρύθμιση
+- Επιτροπές ηθικής σε εταιρείες
+- Ανάλυση δημόσιας συζήτησης
+
+## Related Terms
+
+- [Ηθική ΤΝ (AI ethics)](/en/terms/ηθική-τν-ai-ethics/)
+- [Μείωση μεροληψίας (Bias mitigation)](/en/terms/μείωση-μεροληψίας-bias-mitigation/)
+- [Ιδιωτικότητα δεδομένων (Data privacy)](/en/terms/ιδιωτικότητα-δεδομένων-data-privacy/)
+- [Συμμόρφωση με κανονισμούς (Regulatory compliance)](/en/terms/συμμόρφωση-με-κανονισμούς-regulatory-compliance/)

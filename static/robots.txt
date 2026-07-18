@@ -13,7 +13,7 @@ Disallow: /pagefind/
 Crawl-delay: 1
 
 # Sitemap location (production)
-Sitemap: https://ai-terms-dict.netlify.app/sitemap.xml
+Sitemap: https://terms.ai-term-hub.com/sitemap.xml
 
 # AI crawler friendly (llms.txt available)
 # See https://llmstxt.org/

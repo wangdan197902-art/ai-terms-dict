@@ -4,9 +4,9 @@
 
 ## Deployment
 
-- **Production URL**: https://ai-terms-dict.netlify.app/
+- **Production URL**: https://terms.ai-term-hub.com/
 - **GitHub Repo**: https://github.com/wangdan197902-art/ai-terms-dict
-- **Hosting**: Netlify (via GitHub Actions auto-deploy)
+- **Hosting**: Netlify (via GitHub Actions auto-deploy, custom domain: terms.ai-term-hub.com)
 
 ## Local Development
 
@@ -18,7 +18,7 @@ brew install hugo
 hugo server -D
 
 # Build for production
-hugo --minify --baseURL "https://ai-terms-dict.netlify.app/"
+hugo --minify --baseURL "https://terms.ai-term-hub.com/"
 ```
 
 ## Auto Deploy

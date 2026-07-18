@@ -31,7 +31,7 @@ jobs:
           node-version: '20'
 
       - name: Build with Hugo
-        run: hugo --minify --baseURL "${{ secrets.NETLIFY_BASE_URL }}"
+        run: hugo --minify --baseURL "https://terms.ai-term-hub.com/"
 
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3.0
