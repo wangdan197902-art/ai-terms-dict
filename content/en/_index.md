@@ -1,7 +1,6 @@
 +++
 title = "AI Terms Dictionary"
 description = "Comprehensive multilingual AI terminology dictionary with 2000+ terms"
-aliases = ["/"]
 weight = 1
 +++
 

@@ -1,7 +1,6 @@
 +++
 title = "Dictionnaire des Termes d'IA"
 description = "Dictionnaire multilingue complet de terminologie d'IA avec plus de 2000 termes"
-aliases = ["/"]
 weight = 1
 +++
 

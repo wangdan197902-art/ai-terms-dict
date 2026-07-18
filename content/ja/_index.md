@@ -1,7 +1,6 @@
 +++
 title = "AI用語辞典"
 description = "2000語以上を収録した包括的な多言語AI用語辞典"
-aliases = ["/"]
 weight = 1
 +++
 

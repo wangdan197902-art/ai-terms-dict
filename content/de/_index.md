@@ -1,7 +1,6 @@
 +++
 title = "KI-Begriffsverzeichnis"
 description = "Umfassendes mehrsprachiges KI-Terminologie-Wörterbuch mit über 2000 Begriffen"
-aliases = ["/"]
 weight = 1
 +++
 

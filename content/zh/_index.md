@@ -1,7 +1,6 @@
 +++
 title = "AI术语词典"
 description = "收录2000+术语的综合性多语种AI术语词典"
-aliases = ["/"]
 weight = 1
 +++
 
