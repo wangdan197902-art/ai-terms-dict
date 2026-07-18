@@ -1,6 +1,6 @@
 {
   "translated_count": 925,
-  "total": 1010,
+  "total": 85,
   "failed_keys": [
     {
       "term_id": "linear_predictor_function",
@@ -344,5 +344,5 @@
     }
   ],
   "lang": "ar",
-  "updated_at": "2026-07-18T16:24:47.265704Z"
+  "updated_at": "2026-07-18T16:43:22.757341Z"
 }

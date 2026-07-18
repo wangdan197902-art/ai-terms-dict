@@ -1,6 +1,6 @@
 {
   "translated_count": 925,
-  "total": 1010,
+  "total": 85,
   "failed_keys": [
     {
       "term_id": "spike_and_slab_regression",
@@ -344,5 +344,5 @@
     }
   ],
   "lang": "it",
-  "updated_at": "2026-07-18T16:25:02.724177Z"
+  "updated_at": "2026-07-18T16:43:33.729804Z"
 }

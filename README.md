@@ -4,9 +4,9 @@
 
 ## Deployment
 
-- **Production URL**: https://ai-terms-dict.pages.dev/
+- **Production URL**: https://ai-terms-dict.netlify.app/
 - **GitHub Repo**: https://github.com/wangdan197902-art/ai-terms-dict
-- **Cloudflare Project**: ai-terms-dict
+- **Hosting**: Netlify (via GitHub Actions auto-deploy)
 
 ## Local Development
 
@@ -18,12 +18,12 @@ brew install hugo
 hugo server -D
 
 # Build for production
-hugo --minify --baseURL "https://ai-terms-dict.pages.dev/"
+hugo --minify --baseURL "https://ai-terms-dict.netlify.app/"
 ```
 
 ## Auto Deploy
 
-Push to `main` branch → GitHub Actions auto-deploys to Cloudflare Pages.
+Push to `main` branch → GitHub Actions auto-deploys to Netlify.
 
 ## Project Structure
 
@@ -33,6 +33,5 @@ Push to `main` branch → GitHub Actions auto-deploys to Cloudflare Pages.
 ├── static/            # Static assets (images, CSS)
 ├── data/              # JSON data files
 ├── hugo.toml          # Hugo config
-├── wrangler.toml      # Cloudflare Pages config
-└── .github/workflows/ # CI/CD
+└── .github/workflows/ # CI/CD (Netlify auto-deploy)
 ```

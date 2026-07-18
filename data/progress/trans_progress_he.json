@@ -1,6 +1,6 @@
 {
   "translated_count": 860,
-  "total": 1010,
+  "total": 150,
   "failed_keys": [
     {
       "term_id": "automated_medical_scribe",
@@ -604,5 +604,5 @@
     }
   ],
   "lang": "he",
-  "updated_at": "2026-07-18T16:27:39.203955Z"
+  "updated_at": "2026-07-18T16:48:15.697991Z"
 }

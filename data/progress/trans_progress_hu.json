@@ -1,6 +1,6 @@
 {
   "translated_count": 885,
-  "total": 1010,
+  "total": 125,
   "failed_keys": [
     {
       "term_id": "rust",
@@ -504,5 +504,5 @@
     }
   ],
   "lang": "hu",
-  "updated_at": "2026-07-18T16:26:06.542338Z"
+  "updated_at": "2026-07-18T16:46:23.390948Z"
 }

@@ -1,6 +1,6 @@
 {
   "translated_count": 980,
-  "total": 1010,
+  "total": 30,
   "failed_keys": [
     {
       "term_id": "unsloth",
@@ -124,5 +124,5 @@
     }
   ],
   "lang": "cs",
-  "updated_at": "2026-07-18T16:23:08.519127Z"
+  "updated_at": "2026-07-18T16:57:45.184932Z"
 }

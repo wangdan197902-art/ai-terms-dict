@@ -1,6 +1,6 @@
 {
   "translated_count": 950,
-  "total": 1010,
+  "total": 60,
   "failed_keys": [
     {
       "term_id": "text_embeddings_inference",
@@ -244,5 +244,5 @@
     }
   ],
   "lang": "da",
-  "updated_at": "2026-07-18T16:24:08.497702Z"
+  "updated_at": "2026-07-18T16:59:10.172021Z"
 }

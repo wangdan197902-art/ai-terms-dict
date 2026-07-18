@@ -1,6 +1,6 @@
 {
   "translated_count": 760,
-  "total": 1010,
+  "total": 250,
   "failed_keys": [
     {
       "term_id": "muiltimodal",
@@ -1004,5 +1004,5 @@
     }
   ],
   "lang": "el",
-  "updated_at": "2026-07-18T16:32:24.606224Z"
+  "updated_at": "2026-07-18T16:55:37.022179Z"
 }
