@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ partial "breadcrumb.html" . }}
 <article class="term-detail" data-pagefind-body>
     <header class="term-header">
         <h1>{{ .Title }}</h1>
@@ -33,5 +34,8 @@
 
     {{/* 语言切换 */}}
     {{ partial "language-switcher.html" . }}
+
+    {{/* 相关推荐 */}}
+    {{ partial "related.html" . }}
 </article>
 {{ end }}

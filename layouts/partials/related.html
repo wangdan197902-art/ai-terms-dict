@@ -1,0 +1,12 @@
+{{/* 相关推荐：基于 tags/categories 相关性，最多展示 5 条 */}}
+{{ $related := .Site.RegularPages.Related . | first 5 }}
+{{ with $related }}
+<section class="related-posts" data-pagefind-ignore>
+  <h2>{{ T "related_posts" | default "Related" }}</h2>
+  <ul>
+    {{ range . }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
