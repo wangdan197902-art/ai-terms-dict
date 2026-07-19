@@ -47,12 +47,36 @@ jobs:
                --minify \
                --destination public-${{ matrix.lang }}
 
+      - name: Prepare single-lang publish dir
+        run: |
+          # Hugo构建产物在 public-{lang}/{lang}/ 子目录下（因为hugo.toml设置了baseURL=/）
+          # 我们只把当前语种的内容作为根目录推送，避免其他语种目录污染
+          mkdir -p publish-${{ matrix.lang }}
+          if [ -d "public-${{ matrix.lang }}/${{ matrix.lang }}" ]; then
+            cp -r public-${{ matrix.lang }}/${{ matrix.lang }}/* publish-${{ matrix.lang }}/
+            # 复制共享资源（css/js/images等）
+            for shared in css js images fonts static assets; do
+              if [ -d "public-${{ matrix.lang }}/$shared" ]; then
+                cp -r "public-${{ matrix.lang }}/$shared" "publish-${{ matrix.lang }}/"
+              fi
+            done
+            # 复制根目录共享文件
+            for f in favicon.svg logo.svg og-image.svg site.webmanifest llms.txt BingSiteAuth.xml; do
+              if [ -f "public-${{ matrix.lang }}/$f" ]; then
+                cp "public-${{ matrix.lang }}/$f" "publish-${{ matrix.lang }}/"
+              fi
+            done
+          else
+            # 如果没有语种子目录，直接复制整个public
+            cp -r public-${{ matrix.lang }}/* publish-${{ matrix.lang }}/
+          fi
+
       - name: Add CNAME and .nojekyll
         run: |
-          echo "${{ matrix.lang }}.${{ env.SITE_TYPE }}.${{ env.DOMAIN }}" > public-${{ matrix.lang }}/CNAME
-          touch public-${{ matrix.lang }}/.nojekyll
+          echo "${{ matrix.lang }}.${{ env.SITE_TYPE }}.${{ env.DOMAIN }}" > publish-${{ matrix.lang }}/CNAME
+          touch publish-${{ matrix.lang }}/.nojekyll
           # IndexNow API Key 文件（用于 Bing/Yandex 即时索引推送）
-          echo "a0f6b5032dd63cf84271ae3ab4fcaf86" > public-${{ matrix.lang }}/a0f6b5032dd63cf84271ae3ab4fcaf86.txt
+          echo "a0f6b5032dd63cf84271ae3ab4fcaf86" > publish-${{ matrix.lang }}/a0f6b5032dd63cf84271ae3ab4fcaf86.txt
 
       - name: Deploy to ${{ matrix.lang }}.github.io
         uses: peaceiris/actions-gh-pages@v4
@@ -60,11 +84,11 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           external_repository: ${{ env.GITHUB_USER }}/${{ env.SITE_TYPE }}-${{ matrix.lang }}
           publish_branch: gh-pages
-          publish_dir: ./public-${{ matrix.lang }}
+          publish_dir: ./publish-${{ matrix.lang }}
           force_orphan: true
           user_name: 'Deploy Agent'
           user_email: 'deploy@ai-term-hub.com'
-          commit_message: 'Auto-deploy ${{ matrix.lang }} site'
+          commit_message: 'Auto-deploy ${{ matrix.lang }} site (single-lang)'
 
       - name: Notify deployment
         run: |
