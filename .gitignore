@@ -42,6 +42,11 @@ __pycache__/
 进度记录/
 头脑风暴记录/
 
+# Translation queue data (large JSON files, regenerated on each run)
+data/queue/*.json
+data/queue/*.jsonl
+!data/queue/.gitkeep
+
 # Sensitive scripts (containing tokens)
 scripts/setup_github_secrets.py
 scripts/test_24lang_quality.py
